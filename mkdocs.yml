@@ -1,0 +1,8 @@
+site_name: 'Documentación de Comercio Exterior'
+nav:
+  - Inicio: index.md
+  - Normativas y Regulaciones:
+      - México: 02_normativas_y_regulaciones/mexico.md
+      - Guatemala: 02_normativas_y_regulaciones/guatemala.md
+  - Incoterms:
+      - Seleccionados: 03_incoterms/incoterms_seleccionados.md
