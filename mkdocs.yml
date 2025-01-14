@@ -1,5 +1,12 @@
+# Archivo de configuración completo para la documentación de comercio exterior
+
 site_name: "Documentación de Comercio Exterior"
+site_description: "Guía práctica para exportar ácido sulfúrico desde México a Guatemala."
+site_author: "Equipo de Comercio Exterior"
+site_url: "https://github.com/neestoralvz/comercio_exterior"
 repo_url: "https://github.com/neestoralvz/comercio_exterior"
+repo_name: "neestoralvz/comercio_exterior"
+
 nav:
   - Inicio: index.md
   - Normativas y Regulaciones:
@@ -8,12 +15,54 @@ nav:
   - Incoterms:
       - Seleccionados: 03_incoterms/incoterms_seleccionados.md
 
-# Configuración opcional recomendada
+# Directorio que contiene los archivos de la documentación
 docs_dir: "docs"
+
+# Configuración de compilación y validación
+strict: true
+use_directory_urls: true
+
+# Tema elegido (Read the Docs) con algunas personalizaciones
 theme:
   name: "readthedocs"
+  # Opcional: Puedes agregar configuraciones adicionales, por ejemplo:
+  # custom_dir: "theme_overrides"
+  # font:
+  #   text: "Arial"
+  #   code: "Courier New"
+
+# Extensiones de Markdown recomendadas
 markdown_extensions:
   - admonition
-  - codehilite
+  - codehilite:
+      guess_lang: false
+      linenums: true
   - toc:
       permalink: true
+      separator: "_"
+  - footnotes
+  - tables
+  - attr_list
+
+# Plugins adicionales (ajusta según tus necesidades)
+plugins:
+  - search  # Función de búsqueda básica
+  # - mkdocs-git-revision-date-localized-plugin
+  # - mkdocs-pdf-export-plugin
+
+# Archivos adicionales (CSS/JS) que quieras incluir
+extra_css:
+  # Ejemplo: "css/custom.css"
+  - "https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css"
+
+extra_javascript:
+  # Ejemplo: "js/custom.js"
+  - "https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"
+
+# Metadatos extra (opcionales)
+extra:
+  social:
+    - icon: "fontawesome/brands/github"
+      link: "https://github.com/neestoralvz/comercio_exterior"
+  contact_email: "contacto@tuempresa.com"
+  version: "1.0.0"
