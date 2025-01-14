@@ -19,17 +19,19 @@
 ## 2. Entidades Reguladoras
 
 ### 2.1 Ministerio de Ambiente y Recursos Naturales (MARN)
+
 - **Rol Principal**: Autoridad competente en materia ambiental
 - **Responsabilidades**:
   - Emisión de licencias ambientales
   - Evaluación de impacto ambiental
   - Control de sustancias peligrosas
-- **Contacto**: 
+- **Contacto**:
   - Sitio web: [portal.marn.gob.gt](https://portal.marn.gob.gt)
   - Dirección: 7a. Avenida 03-67 zona 13, Ciudad de Guatemala
   - Teléfono: (502) 2423-0500
 
 ### 2.2 Ministerio de Economía
+
 - **Rol**: Regulación del comercio exterior
 - **Funciones**:
   - Administración de acuerdos comerciales
@@ -43,12 +45,15 @@
 ## 3. Procedimientos de Importación
 
 ### 3.1 Requisitos Documentales
+
 1. **Licencia Ambiental** (MARN)
+
    - Formulario de Evaluación Ambiental Inicial
    - Estudio de Impacto Ambiental (cuando aplique)
    - Plazo aproximado: 30 días hábiles
 
 2. **Documentación Aduanera**
+
    - Declaración Única Aduanera (DUA)
    - Factura comercial
    - Documento de transporte
@@ -61,7 +66,9 @@
    - Certificado de análisis
 
 ### 3.2 Permisos Especiales
+
 1. **Licencia de Importación de Sustancias Controladas**
+
    - Emitida por: Ministerio de Salud Pública
    - Validez: 1 año
    - Requisitos específicos para ácido sulfúrico
@@ -74,13 +81,16 @@
 ## 4. Aranceles y Costos
 
 ### 4.1 Estructura Arancelaria
+
 - **Partida arancelaria**: 2807.00.00
 - **Descripción**: Ácido sulfúrico; óleum
 - **DAI (Derecho Arancelario a la Importación)**: 0%
 - **IVA**: 12%
 
 ### 4.2 Costos Administrativos
+
 1. **Licencias y Permisos**
+
    - Licencia Ambiental: Q.5,000 - Q.25,000 (según categoría)
    - Registro de Importador: Q.1,500
    - Permisos especiales: Variables según volumen
@@ -93,11 +103,13 @@
 ## 5. Restricciones y Consideraciones Especiales
 
 ### 5.1 Limitaciones de Importación
+
 - Volúmenes máximos permitidos
 - Zonas geográficas restringidas
 - Requisitos de almacenamiento
 
 ### 5.2 Medidas de Seguridad
+
 - Protocolos de manejo
 - Requisitos de transporte interno
 - Plan de contingencia obligatorio
@@ -105,22 +117,26 @@
 ## 6. Enlaces y Recursos Útiles
 
 ### 6.1 Portales Oficiales
+
 - [SAT Guatemala](https://portal.sat.gob.gt/)
 - [Ventanilla Única de Comercio Exterior](https://vupe.export.com.gt/)
 - [Ministerio de Salud](https://www.mspas.gob.gt/)
 
 ### 6.2 Normativas Completas
+
 - [Legislación Ambiental](https://www.marn.gob.gt/paginas/Base_Legal)
 - [Regulaciones Aduaneras](https://portal.sat.gob.gt/portal/legislacion-aduanera/)
 
 ## 7. Actualizaciones y Cambios Recientes
 
 ### 7.1 Modificaciones Normativas
+
 - Últimas actualizaciones de leyes y reglamentos
 - Cambios en procedimientos
 - Nuevos requisitos implementados
 
 ### 7.2 Próximas Implementaciones
+
 - Proyectos de ley en discusión
 - Cambios programados en procedimientos
 - Actualizaciones de sistemas electrónicos

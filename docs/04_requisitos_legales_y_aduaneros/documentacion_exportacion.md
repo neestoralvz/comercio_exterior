@@ -3,6 +3,7 @@
 ## 1. Documentos Esenciales
 
 ### 1.1 Factura Comercial
+
 - **Finalidad**: Documento que acredita la venta internacional y declara el valor de la mercancía
 - **Autoridad**: Se presenta ante el SAT y la aduana
 - **Requisitos clave**:
@@ -14,6 +15,7 @@
   - Firma del vendedor
 
 ### 1.2 Lista de Empaque (Packing List)
+
 - **Finalidad**: Detalla el contenido específico del embarque
 - **Contenido requerido**:
   - Cantidad exacta de producto
@@ -23,13 +25,15 @@
   - Marcas y números de los contenedores
 
 ### 1.3 Certificado de Origen
+
 - **Finalidad**: Acredita el origen de la mercancía para beneficios arancelarios
-- **Trámite**: 
+- **Trámite**:
   - Solicitud en [Ventanilla Digital](https://www.ventanillaunica.gob.mx)
   - Costo: Variable según cámara emisora
   - Validez: Un año desde su emisión
 
 ### 1.4 Hoja de Seguridad (MSDS)
+
 - **Finalidad**: Información detallada sobre manejo seguro del ácido sulfúrico
 - **Contenido obligatorio**:
   - Identificación de peligros
@@ -39,6 +43,7 @@
   - Datos de transporte
 
 ### 1.5 Ficha Técnica
+
 - **Finalidad**: Especificaciones técnicas del producto
 - **Información requerida**:
   - Composición química
@@ -49,6 +54,7 @@
 ## 2. Pedimento de Exportación
 
 ### 2.1 Proceso de Tramitación
+
 1. Contratación de agente aduanal autorizado
 2. Recopilación de documentos soporte
 3. Captura electrónica en el sistema del SAT
@@ -56,6 +62,7 @@
 5. Presentación ante la aduana
 
 ### 2.2 Campos Críticos del Pedimento
+
 - Régimen aduanero (A1 para exportación definitiva)
 - Datos del exportador
 - Clasificación arancelaria
@@ -66,11 +73,13 @@
 ## 3. Plazos y Autoridades
 
 ### 3.1 Tiempos de Proceso
+
 - Certificado de Origen: 2-3 días hábiles
 - Validación de pedimento: 24-48 horas
 - Despacho aduanero: 1-2 días hábiles
 
 ### 3.2 Autoridades Involucradas
+
 - **SAT**: Validación fiscal y aduanera
 - **SEMARNAT**: Autorización ambiental
 - **COFEPRIS**: Certificación sanitaria
@@ -90,4 +99,5 @@
 - Verificar actualizaciones de requisitos en el portal del SAT
 
 ---
-*Última actualización: [Fecha actual]*
+
+_Última actualización: [Fecha actual]_
