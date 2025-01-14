@@ -1,5 +1,5 @@
-# Archivo de configuración completo para la documentación de comercio exterior,
-# incluyendo navegación a todos los archivos del proyecto
+# Archivo de configuración para la documentación de comercio exterior,
+# con un tema minimalista, oscuro y fácil de leer
 
 site_name: "Documentación de Comercio Exterior"
 site_description: "Guía práctica para exportar ácido sulfúrico desde México a Guatemala."
@@ -8,7 +8,7 @@ site_url: "https://github.com/neestoralvz/comercio_exterior"
 repo_url: "https://github.com/neestoralvz/comercio_exterior"
 repo_name: "neestoralvz/comercio_exterior"
 
-# Estructura de la navegación (nav) para incluir todos los archivos
+# Estructura de la navegación (nav) para incluir todos los archivos del proyecto
 nav:
   - Inicio: index.md
   - Precios y Pagos:
@@ -31,17 +31,28 @@ nav:
       - Exportación en México: 06_formalidades_frontera/exportacion_mexico.md
       - Importación en Guatemala: 06_formalidades_frontera/importacion_guatemala.md
 
-# Directorio que contiene los archivos de la documentación
+# Directorio donde se encuentran los archivos de la documentación
 docs_dir: "docs"
 
-# Ajustes para la generación de la documentación
+# Control estricto de enlaces y configuraciones
 strict: true
 use_directory_urls: true
 
-# Tema y configuraciones del sitio
+# Tema minimalista y oscuro basado en mkdocs-material
 theme:
-  name: "readthedocs"
-  # Opciones adicionales de personalización pueden ir aquí
+  name: "material"
+  features:
+    - navigation.instant
+    - navigation.tabs
+  palette:
+    - scheme: slate
+      primary: "blue"
+      accent: "blue"
+  # Puedes desactivar la paleta clara si quieres forzar modo oscuro:
+  # palette:
+  #   - scheme: slate
+  #     primary: "blue"
+  #     accent: "blue"
 
 # Extensiones de Markdown recomendadas
 markdown_extensions:
@@ -56,18 +67,15 @@ markdown_extensions:
   - tables
   - attr_list
 
-# Plugins adicionales (puedes habilitarlos según tus necesidades)
+# Plugins (ajusta según tus necesidades)
 plugins:
   - search
   # - mkdocs-git-revision-date-localized-plugin
   # - mkdocs-pdf-export-plugin
 
-# Archivos adicionales (CSS/JS) para personalizar el estilo
-extra_css:
-  - "https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css"
-
-extra_javascript:
-  - "https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"
+# Archivos adicionales (CSS/JS) opcionales para personalizar
+extra_css: []
+extra_javascript: []
 
 # Metadatos extra (opcionales)
 extra:

@@ -6,22 +6,27 @@
 
 ## ¿Qué incluye esta documentación?
 
-1. **Precios y Pagos**  
+1. **Precios y Pagos**
+
    - Contiene los lineamientos para la fijación de precios y los términos de pago sugeridos para operaciones de exportación.
 
-2. **Normativas y Regulaciones**  
+2. **Normativas y Regulaciones**
+
    - Reúne la legislación y requisitos obligatorios en México y Guatemala para manejar y transportar sustancias químicas peligrosas.
 
-3. **Incoterms**  
+3. **Incoterms**
+
    - Explica los términos de comercio internacional más adecuados para la transacción, especificando responsabilidades y costos de cada parte.
 
-4. **Requisitos Legales y Aduaneros**  
+4. **Requisitos Legales y Aduaneros**
+
    - Detalla la documentación necesaria para exportar e importar, así como información de agentes aduanales y permisos especiales.
 
-5. **Entrega Suchiate**  
+5. **Entrega Suchiate**
+
    - Incluye consideraciones de logística para transporte en pipa de acero al carbón, así como protocolos de seguridad para el traslado.
 
-6. **Formalidades Frontera**  
+6. **Formalidades Frontera**
    - Describe los pasos específicos para la salida de mercancías desde México y la entrada a Guatemala, con lineamientos aduaneros y sanitarios.
 
 ---
@@ -30,29 +35,31 @@
 
 El **Reporte de Ejecución del Plan de Documentación** más reciente indica:
 
-- **Estructura Base**: 100% implementada  
-- **Documentos Creados**: 13 archivos, uno para cada tema planeado  
+- **Estructura Base**: 100% implementada
+- **Documentos Creados**: 13 archivos, uno para cada tema planeado
 - **Estado de Contenido**: Todos los archivos cuentan con contenido inicial y requieren revisión para validar exactitud y actualidad
 
 ### Áreas de atención:
 
-1. **Revisión y validación del contenido**  
-2. **Actualización de normativas** conforme a la evolución regulatoria en México y Guatemala  
+1. **Revisión y validación del contenido**
+2. **Actualización de normativas** conforme a la evolución regulatoria en México y Guatemala
 3. **Verificación de enlaces y referencias** para asegurarse de que estén vigentes y funcionen correctamente
 
 ---
 
 ## Próximos Pasos
 
-1. **Definir un calendario de revisión**  
+1. **Definir un calendario de revisión**
+
    - Se recomienda iniciar con los documentos más extensos o críticos (`mexico.md`, `guatemala.md`, `permisos_especiales.md` y las formalidades fronterizas).
 
-2. **Implementar procesos de control de calidad**  
-   - Revisión por pares para corregir errores y completar información faltante.  
+2. **Implementar procesos de control de calidad**
+
+   - Revisión por pares para corregir errores y completar información faltante.
    - Uso de un sistema de control de versiones para mantener histórico de cambios.
 
-3. **Actualización continua**  
-   - Añadir nuevos hallazgos, lineamientos o reglamentos que surjan durante la operación.  
+3. **Actualización continua**
+   - Añadir nuevos hallazgos, lineamientos o reglamentos que surjan durante la operación.
    - Revisar periódicamente el contenido para mantener la información al día.
 
 ---
@@ -89,7 +96,7 @@ docs
 
 ## Contribuciones y Actualizaciones
 
-- Para proponer cambios, crea un **pull request** en el [repositorio de GitHub](https://github.com/neestoralvz/comercio_exterior).  
+- Para proponer cambios, crea un **pull request** en el [repositorio de GitHub](https://github.com/neestoralvz/comercio_exterior).
 - Cualquier corrección, comentario o guía adicional es bienvenida para mejorar la calidad de la información.
 
 ---
