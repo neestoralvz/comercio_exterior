@@ -1,4 +1,5 @@
-# Archivo de configuración completo para la documentación de comercio exterior
+# Archivo de configuración completo para la documentación de comercio exterior,
+# incluyendo navegación a todos los archivos del proyecto
 
 site_name: "Documentación de Comercio Exterior"
 site_description: "Guía práctica para exportar ácido sulfúrico desde México a Guatemala."
@@ -7,29 +8,40 @@ site_url: "https://github.com/neestoralvz/comercio_exterior"
 repo_url: "https://github.com/neestoralvz/comercio_exterior"
 repo_name: "neestoralvz/comercio_exterior"
 
+# Estructura de la navegación (nav) para incluir todos los archivos
 nav:
   - Inicio: index.md
+  - Precios y Pagos:
+      - Precios: 01_precios_y_pagos/precios.md
+      - Términos de Pago: 01_precios_y_pagos/terminos_de_pago.md
   - Normativas y Regulaciones:
       - México: 02_normativas_y_regulaciones/mexico.md
       - Guatemala: 02_normativas_y_regulaciones/guatemala.md
   - Incoterms:
       - Seleccionados: 03_incoterms/incoterms_seleccionados.md
+  - Requisitos Legales y Aduaneros:
+      - Documentación de Exportación: 04_requisitos_legales_y_aduaneros/documentacion_exportacion.md
+      - Documentación de Importación: 04_requisitos_legales_y_aduaneros/documentacion_importacion.md
+      - Agentes Aduanales y Contactos: 04_requisitos_legales_y_aduaneros/agentes_aduanales_contactos.md
+      - Permisos Especiales: 04_requisitos_legales_y_aduaneros/permisos_especiales.md
+  - Entrega en Suchiate:
+      - Logística con Pipas: 05_entrega_suchiate/logistica_pipas.md
+      - Seguridad en Traslado: 05_entrega_suchiate/seguridad_traslado.md
+  - Formalidades de Frontera:
+      - Exportación en México: 06_formalidades_frontera/exportacion_mexico.md
+      - Importación en Guatemala: 06_formalidades_frontera/importacion_guatemala.md
 
 # Directorio que contiene los archivos de la documentación
 docs_dir: "docs"
 
-# Configuración de compilación y validación
+# Ajustes para la generación de la documentación
 strict: true
 use_directory_urls: true
 
-# Tema elegido (Read the Docs) con algunas personalizaciones
+# Tema y configuraciones del sitio
 theme:
   name: "readthedocs"
-  # Opcional: Puedes agregar configuraciones adicionales, por ejemplo:
-  # custom_dir: "theme_overrides"
-  # font:
-  #   text: "Arial"
-  #   code: "Courier New"
+  # Opciones adicionales de personalización pueden ir aquí
 
 # Extensiones de Markdown recomendadas
 markdown_extensions:
@@ -44,19 +56,17 @@ markdown_extensions:
   - tables
   - attr_list
 
-# Plugins adicionales (ajusta según tus necesidades)
+# Plugins adicionales (puedes habilitarlos según tus necesidades)
 plugins:
-  - search  # Función de búsqueda básica
+  - search
   # - mkdocs-git-revision-date-localized-plugin
   # - mkdocs-pdf-export-plugin
 
-# Archivos adicionales (CSS/JS) que quieras incluir
+# Archivos adicionales (CSS/JS) para personalizar el estilo
 extra_css:
-  # Ejemplo: "css/custom.css"
   - "https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css"
 
 extra_javascript:
-  # Ejemplo: "js/custom.js"
   - "https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"
 
 # Metadatos extra (opcionales)
