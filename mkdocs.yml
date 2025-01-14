@@ -1,4 +1,5 @@
-site_name: 'Documentación de Comercio Exterior'
+site_name: "Documentación de Comercio Exterior"
+repo_url: "https://github.com/neestoralvz/comercio_exterior"
 nav:
   - Inicio: index.md
   - Normativas y Regulaciones:
@@ -6,3 +7,13 @@ nav:
       - Guatemala: 02_normativas_y_regulaciones/guatemala.md
   - Incoterms:
       - Seleccionados: 03_incoterms/incoterms_seleccionados.md
+
+# Configuración opcional recomendada
+docs_dir: "docs"
+theme:
+  name: "readthedocs"
+markdown_extensions:
+  - admonition
+  - codehilite
+  - toc:
+      permalink: true
