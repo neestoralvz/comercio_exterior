@@ -6,143 +6,198 @@ Procedimientos Operativos
 
 .. meta::
    :description: Procedimientos operativos estándar para el transporte de ácido sulfúrico entre México y Guatemala
-   :keywords: procedimientos, operaciones, carga, descarga, inspección, verificación
-
-Hallazgos - procedimientos_operativos.rst
-====================================
-
-Fecha de verificación: 15/01/2024
-
-Procedimientos de Carga
--------------------
-* **Hallazgo**: Falta detalle en secuencia de verificación
-* **Acción**: Desarrollar lista de verificación detallada
-* **Prioridad**: Alta
-* **Responsable**: Operaciones
-
-Procedimientos Durante Transporte
-----------------------------
-* **Hallazgo**: No se especifican tiempos de verificación
-* **Acción**: Establecer cronograma de verificaciones
-* **Prioridad**: Alta
-* **Responsable**: Control Operativo
-
-Procedimientos de Descarga
-----------------------
-* **Hallazgo**: Protocolo de residuos incompleto
-* **Acción**: Desarrollar procedimiento de manejo de residuos
-* **Prioridad**: Media
-* **Responsable**: Gestión Ambiental
-
-Documentación Operativa
--------------------
-* **Hallazgo**: Formatos de registro no estandarizados
-* **Acción**: Crear formatos unificados de registro
-* **Prioridad**: Media
-* **Responsable**: Control Documental
-
-Acciones Inmediatas Requeridas
----------------------------
-1. Desarrollar listas de verificación detalladas
-2. Establecer cronogramas de control
-3. Implementar gestión de residuos
-4. Estandarizar formatos operativos
-
-Consultas Necesarias
------------------
-* Supervisores de operaciones
-* Expertos en manejo de residuos
-* Personal de seguridad
-* Autoridades regulatorias
-
-Próximos Pasos
-------------
-1. Revisar procedimientos actuales
-2. Desarrollar nuevos formatos
-3. Capacitar personal operativo
-4. Implementar sistema de control
-
-Notas Adicionales
---------------
-* Considerar automatización de registros
-* Evaluar necesidad de equipos adicionales
-* Actualizar matriz de responsabilidades
+   :keywords: procedimientos, operaciones, carga, descarga, inspección, verificación, seguridad, control, HAZMAT, NOM
 
 Resumen
 =======
 
-Esta subsección detalla los procedimientos operativos estándar para el manejo, carga, transporte y descarga de |product|, asegurando operaciones seguras y eficientes.
+Esta subsección detalla los procedimientos operativos estándar (POE) para el manejo, carga, transporte y descarga de |product|, incluyendo protocolos de seguridad, verificaciones técnicas y documentación requerida en cada etapa del proceso, en cumplimiento con las normativas NOM-002-SCT/2011, NOM-023-SCT2/2011 y regulaciones internacionales.
 
 Descripción Detallada
 ===================
 
+Procedimientos Pre-operacionales
+----------------------------
+
+* **Verificación Documental**
+    - Permisos de transporte vigentes (SCT, SEMARNAT)
+    - Licencias tipo E vigentes para conductores
+    - Certificaciones HAZMAT actualizadas
+    - Pólizas de seguro con cobertura transfronteriza
+    - Hojas de seguridad MSDS/HDS actualizadas
+    - Plan de ruta autorizado y validado
+
+* **Inspección Técnica**
+    - Revisión mecánica según protocolo de 32 puntos
+    - Verificación de sistemas críticos de seguridad
+    - Calibración de instrumentos de medición
+    - Equipamiento HAZMAT completo nivel A
+    - Sistemas de comunicación redundantes
+    - GPS y sistemas de monitoreo activos
+
+* **Planificación Operativa**
+    - Validación de ruta principal y alternativa
+    - Verificación de restricciones horarias
+    - Coordinación con puntos de control fronterizos
+    - Actualización de contactos de emergencia 24/7
+    - Verificación de condiciones meteorológicas
+    - Coordinación con escoltas de seguridad
+
 Procedimientos de Carga
 --------------------
 
-* Inspección pre-carga
-* Verificación de equipos
-* Proceso de carga segura
-* Documentación inicial
+* **Preparación del Sitio**
+    - Verificación de área según NOM-005-STPS
+    - Posicionamiento con ángulo máximo 2°
+    - Señalización completa zona HAZMAT
+    - Sistema de tierra física < 10 ohms
+    - Verificación de ducha y lavaojos
+    - Control de acceso y perímetro seguro
 
-.. important::
-   La verificación de sellos y válvulas es obligatoria antes de iniciar la carga.
+* **Proceso de Carga**
+    - Presión operativa: 2.0-2.5 bar
+    - Temperatura de carga: 15-25°C ±1°C
+    - Velocidad de carga: 200-300 L/min
+    - Monitoreo continuo de:
+        * Presión en línea y tanque
+        * Temperatura del producto
+        * Conexiones y empaques
+        * Sistemas de venteo
+    - Control de emisiones VOC
+    - Verificación de incompatibilidades
+
+* **Verificaciones Post-carga**
+    - Control de sellos numerados
+    - Verificación de válvulas y bridas
+    - Inspección de fugas (detector pH)
+    - Descontaminación de área
+    - Documentación completa de carga
+    - Registro fotográfico de condiciones
 
 Procedimientos Durante el Transporte
 --------------------------------
 
-* Verificaciones periódicas
-* Gestión de paradas
-* Control de velocidad
-* Manejo de incidentes
+* **Monitoreo Continuo**
+    - Velocidad máxima: 80 km/h en autopista
+    - Velocidad máxima: 60 km/h en carretera
+    - Verificación de presión cada 2 horas
+    - Control de temperatura: 10-30°C
+    - Registro en bitácora electrónica
+    - Monitoreo de fatiga del conductor
 
-.. warning::
-   El conductor debe seguir estrictamente las rutas y paradas autorizadas.
+* **Gestión de Paradas**
+    - Ubicaciones pre-autorizadas únicamente
+    - Tiempo máximo: 45 minutos
+    - Protocolo de seguridad perimetral
+    - Verificación técnica en cada parada
+    - Reporte a centro de control
+    - Actualización de estatus en sistema
+
+* **Control de Ruta**
+    - Seguimiento GPS tiempo real
+    - Geofencing de ruta autorizada
+    - Reporte en puntos de control
+    - Gestión activa de desviaciones
+    - Comunicación cada 30 minutos
+    - Monitoreo meteorológico continuo
 
 Procedimientos de Descarga
 -----------------------
 
-* Verificación del sitio
-* Protocolo de descarga
-* Control de residuos
-* Documentación final
+* **Preparación del Sitio**
+    - Verificación de instalaciones receptoras
+    - Posicionamiento con ángulo < 2°
+    - Conexión de sistemas de seguridad
+    - Verificación de parámetros de recepción
+    - Control de compatibilidad de sistemas
+    - Establecimiento de perímetro seguro
 
-.. note::
-   La descarga solo puede realizarse en instalaciones autorizadas.
+* **Proceso de Descarga**
+    - Presión máxima: 2.0 bar
+    - Velocidad: 150-250 L/min
+    - Monitoreo continuo de:
+        * Temperatura del producto
+        * Presión en líneas
+        * Integridad de conexiones
+        * Sistemas de venteo
+    - Control de emisiones
+    - Verificación de incompatibilidades
+
+* **Finalización**
+    - Purga con nitrógeno seco
+    - Triple lavado de sistemas
+    - Gestión de residuos peligrosos
+    - Descontaminación de equipos
+    - Documentación de entrega
+    - Registro de condiciones finales
 
 Requisitos Previos
 ================
 
-1. Personal capacitado y certificado
-2. Equipos verificados y calibrados
-3. Documentación completa
-4. Autorizaciones vigentes
+1. Personal certificado HAZMAT nivel 3
+2. Equipos verificados según NOM-020-SCT2
+3. Documentación completa y validada
+4. Autorizaciones transfronterizas vigentes
+5. Plan de contingencia actualizado
+6. Sistemas de monitoreo calibrados
 
-Ejemplos Prácticos
-================
+Procedimientos de Control
+=====================
 
 .. code-block:: text
 
-   # Protocolo de Verificación Pre-operacional
+   # Protocolo de Verificación Integral
    
-   1. Inspección del Vehículo:
-      □ Sistema de frenos
-      □ Estado de neumáticos
-      □ Niveles de fluidos
-      □ Sistemas de seguridad
+   1. Pre-operacional:
+      □ Revisión documental 100% completa
+      □ Inspección técnica 32 puntos
+      □ Verificación sistemas críticos
+      □ Validación de autorizaciones
+      □ Control de competencias del personal
+      □ Verificación de equipos de emergencia
    
-   2. Verificación de Carga:
-      □ Presión y temperatura
-      □ Sellos de seguridad
-      □ Estado de válvulas
-      □ Etiquetado correcto
+   2. Durante Operación:
+      □ Monitoreo continuo de parámetros
+      □ Registro en sistema cada 30 min
+      □ Control de condiciones de ruta
+      □ Gestión activa de incidencias
+      □ Verificación de puntos de control
+      □ Actualización de estatus
+   
+   3. Post-operacional:
+      □ Verificación integral de sistemas
+      □ Control de documentación completa
+      □ Registro de eventos y novedades
+      □ Actualización de bases de datos
+      □ Evaluación de la operación
+      □ Retroalimentación al sistema
 
 Consideraciones Especiales
 =======================
 
-* Condiciones climáticas
-* Estado de instalaciones
-* Horarios permitidos
-* Restricciones locales
+* **Condiciones Críticas**
+    - Protocolos específicos por tipo de clima
+    - Procedimientos de emergencia HAZMAT
+    - Gestión de incidentes según SCT
+    - Coordinación con autoridades locales
+    - Activación de recursos de emergencia
+    - Procedimientos de evacuación
+
+* **Control de Calidad**
+    - Verificación de parámetros críticos
+    - Muestreo según NOM-002-SCT
+    - Control de contaminación cruzada
+    - Gestión de no conformidades
+    - Trazabilidad completa
+    - Auditorías de proceso
+
+* **Seguridad Operativa**
+    - EPP específico certificado
+    - Zonas de seguridad demarcadas
+    - Control biométrico de accesos
+    - Protocolos de emergencia activos
+    - Monitoreo de exposición
+    - Sistemas de descontaminación
 
 Documentación Relacionada
 ======================
@@ -150,6 +205,9 @@ Documentación Relacionada
 * :ref:`planificacion_transporte`
 * :ref:`requisitos_seguridad`
 * :ref:`documentacion_transporte`
+* :ref:`gestion_riesgos`
+* :ref:`matriz_riesgos`
+* :ref:`planes_contingencia`
 
 Historial de Cambios
 ==================
@@ -166,4 +224,4 @@ Historial de Cambios
      - Creación inicial del documento
    * - 2024-01-15
      - 1.1
-     - Actualización de procedimientos operativos 
+     - Actualización completa de procedimientos operativos con especificaciones técnicas detalladas 

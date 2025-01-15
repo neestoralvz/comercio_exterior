@@ -202,3 +202,123 @@ DAP
      sulfúrico
    - Coordinar con agentes aduanales en ambos lados de la frontera
    - Mantener documentación completa según el Incoterm seleccionado
+
+7. Aspectos Operativos Detallados
+--------------------------------
+
+Procedimientos FCA
+~~~~~~~~~~~~~~~~
+
+* **Preparación y Entrega**:
+  - Verificación previa de documentación y permisos
+  - Inspección detallada del vehículo según NOM-002-SCT/2011
+  - Confirmación de certificaciones HAZMAT del transportista
+  - Lista de verificación de seguridad y equipamiento
+
+* **Punto de Transferencia**:
+  - Protocolo específico para terminal Suchiate I
+  - Documentación de entrega con evidencia fotográfica
+  - Verificación conjunta de condiciones de carga
+  - Confirmación de precintos de seguridad numerados
+
+* **Documentación Crítica**:
+  - Carta porte internacional con especificaciones UN 1830
+  - Manifiesto de carga peligrosa según GHS/SGA
+  - Certificados de análisis y calidad del producto
+  - Hojas de seguridad en español según NOM-018-STPS-2015
+
+Procedimientos DAP
+~~~~~~~~~~~~~~~~
+
+* **Gestión de Transporte**:
+  - Selección de transportistas con certificación binacional
+  - Verificación de permisos SCT y licencias especiales
+  - Sistema GPS de monitoreo en tiempo real
+  - Protocolos de comunicación 24/7
+
+* **Control de Ruta**:
+  - Puntos de control obligatorios en ambos países
+  - Tiempos máximos de tránsito por segmento
+  - Rutas alternativas pre-aprobadas
+  - Procedimientos específicos por zona de riesgo
+
+* **Entrega Final**:
+  - Coordinación 48 horas antes con destinatario
+  - Verificación de instalaciones de descarga
+  - Protocolo de transferencia documentada
+  - Check-list de recepción y conformidad
+
+8. Matriz de Responsabilidades Actualizada
+----------------------------------------
+
+=========================== ================= =================
+Actividad                   FCA               DAP
+=========================== ================= =================
+Carga en origen            V                 V
+Documentación origen       V                 V
+Transporte local          V                 V
+Despacho exportación      V                 V
+Cruce fronterizo          C                 V
+Transporte internacional  C                 V
+Seguro internacional      C                 V
+Trámites destino          C                 C
+Descarga final            C                 C
+Permisos especiales       V/C*              V
+Monitoreo en ruta         C                 V
+Respuesta emergencias     C                 V
+=========================== ================= =================
+V = Vendedor, C = Comprador
+* Según punto de transferencia
+
+9. Protocolos de Emergencia
+-------------------------
+
+* **Procedimientos FCA**:
+  - Responsabilidad definida hasta punto de transferencia
+  - Sistema de comunicación inmediata en terminal
+  - Coordinación con autoridades locales mexicanas
+  - Registro detallado de incidentes y resoluciones
+
+* **Procedimientos DAP**:
+  - Cobertura total de ruta México-Guatemala
+  - Red de respuesta HAZMAT en ambos países
+  - Coordinación con autoridades binacionales
+  - Seguimiento documentado hasta entrega final
+
+10. Consideraciones Adicionales
+----------------------------
+
+* **Aspectos Aduaneros**:
+  - Requisitos específicos VUCEM/SAT
+  - Documentación OEA cuando aplique
+  - Tiempos de despacho por aduana
+  - Costos de servicios complementarios
+
+* **Aspectos Regulatorios**:
+  - Cumplimiento NOM-002-SCT/2011
+  - Permisos SEMARNAT/MARN
+  - Certificaciones de unidades
+  - Actualizaciones trimestrales
+
+* **Aspectos Comerciales**:
+  - Estructura detallada de costos
+  - Coberturas de seguro específicas
+  - Términos de pago internacionales
+  - Procedimientos de resolución de disputas
+
+Historial de Cambios
+==================
+
+.. list-table::
+   :header-rows: 1
+   :widths: 15 15 70
+
+   * - Fecha
+     - Versión
+     - Cambios
+   * - 2024-01-15
+     - 1.0
+     - Creación inicial del documento
+   * - 2024-01-15
+     - 1.1
+     - Actualización detallada de aspectos operativos según Incoterms 2020

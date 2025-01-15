@@ -6,143 +6,237 @@ Seguridad en Transporte
 
 .. meta::
    :description: Protocolos y medidas de seguridad para el transporte de ácido sulfúrico entre México y Guatemala
-   :keywords: seguridad, protocolos, emergencias, prevención, control
-
-Hallazgos - seguridad_transporte.rst
-================================
-
-Fecha de verificación: 15/01/2024
-
-Protocolos de Seguridad
---------------------
-* **Hallazgo**: Protocolos no cubren todos los escenarios
-* **Acción**: Desarrollar protocolos completos
-* **Prioridad**: Alta
-* **Responsable**: Seguridad
-
-Planes de Emergencia
-----------------
-* **Hallazgo**: Planes de contingencia incompletos
-* **Acción**: Actualizar planes de emergencia
-* **Prioridad**: Alta
-* **Responsable**: Gestión de Crisis
-
-Capacitación Personal
------------------
-* **Hallazgo**: No se especifican requisitos de capacitación
-* **Acción**: Desarrollar programa de capacitación
-* **Prioridad**: Media
-* **Responsable**: Recursos Humanos
-
-Equipamiento Seguridad
-------------------
-* **Hallazgo**: Lista de equipamiento desactualizada
-* **Acción**: Actualizar requisitos de equipamiento
-* **Prioridad**: Alta
-* **Responsable**: Operaciones
-
-Acciones Inmediatas Requeridas
----------------------------
-1. Desarrollar protocolos completos
-2. Actualizar planes de emergencia
-3. Implementar programa de capacitación
-4. Revisar equipamiento requerido
-
-Consultas Necesarias
------------------
-* Expertos en seguridad
-* Autoridades de protección civil
-* Proveedores de equipamiento
-* Consultores especializados
-
-Próximos Pasos
-------------
-1. Revisar normativas vigentes
-2. Desarrollar documentación
-3. Implementar capacitaciones
-4. Realizar simulacros
-
-Notas Adicionales
---------------
-* Considerar nuevas tecnologías
-* Evaluar riesgos emergentes
-* Actualizar procedimientos periódicamente
+   :keywords: seguridad, protocolos, emergencias, prevención, control, HAZMAT, ADR, GHS
 
 Resumen
 =======
 
-Esta subsección detalla los protocolos y medidas de seguridad implementados para garantizar un transporte seguro del ácido sulfúrico.
-
-Descripción Detallada
-===================
+Esta subsección detalla los protocolos y medidas de seguridad implementados para garantizar un transporte seguro del ácido sulfúrico, incluyendo procedimientos de emergencia, capacitación del personal y equipamiento requerido según estándares internacionales.
 
 Protocolos de Seguridad
 --------------------
 
-* Procedimientos estándar
-* Medidas preventivas
-* Control de riesgos
-* Verificaciones requeridas
+1. **Procedimientos Preventivos**:
+   
+   * **Pre-viaje**:
+     - Inspección completa del vehículo
+     - Verificación de documentación
+     - Revisión de ruta planificada
+     - Control de condiciones climáticas
 
-.. important::
-   Los protocolos de seguridad son de cumplimiento obligatorio.
+   * **Durante el Viaje**:
+     - Monitoreo continuo de la unidad
+     - Control de velocidad y descansos
+     - Verificación de puntos de control
+     - Comunicación periódica
+
+   * **Post-viaje**:
+     - Inspección final del vehículo
+     - Reporte de incidencias
+     - Actualización de registros
+     - Evaluación de la operación
+
+2. **Control de Riesgos**:
+   
+   * **Evaluación Continua**:
+     - Análisis de ruta
+     - Identificación de puntos críticos
+     - Valoración de condiciones
+     - Medidas de mitigación
+
+   * **Medidas Preventivas**:
+     - Rutas alternativas planificadas
+     - Puntos de descanso seguros
+     - Protocolos de comunicación
+     - Procedimientos de verificación
 
 Planes de Emergencia
 ----------------
 
-* Respuesta a incidentes
-* Coordinación de emergencias
-* Evacuación y control
-* Comunicación de crisis
+1. **Respuesta a Incidentes**:
+   
+   * **Derrames**:
+     - Contención inmediata
+     - Notificación a autoridades
+     - Activación de equipos HAZMAT
+     - Procedimientos de limpieza
 
-.. warning::
-   Todo el personal debe conocer y estar capacitado en los planes de emergencia.
+   * **Accidentes**:
+     - Evaluación inicial
+     - Aseguramiento del área
+     - Atención médica
+     - Gestión de crisis
 
-Capacitación y Entrenamiento
+   * **Fallas Técnicas**:
+     - Diagnóstico rápido
+     - Reparaciones de emergencia
+     - Soporte técnico
+     - Procedimientos de contingencia
+
+2. **Coordinación de Emergencias**:
+   
+   * **Centro de Control**:
+     - Monitoreo 24/7
+     - Coordinación de recursos
+     - Comunicación con autoridades
+     - Seguimiento de incidentes
+
+   * **Equipos de Respuesta**:
+     - Personal especializado HAZMAT
+     - Unidades de apoyo
+     - Recursos médicos
+     - Soporte logístico
+
+Capacitación y Certificación
 ------------------------
 
-* Programas requeridos
-* Certificaciones necesarias
-* Actualizaciones periódicas
-* Evaluación de competencias
-
-.. note::
-   La capacitación debe ser documentada y evaluada regularmente.
-
-Requisitos Previos
-================
-
-1. Personal certificado
-2. Equipamiento completo
-3. Documentación vigente
-4. Protocolos actualizados
-
-Ejemplos Prácticos
-================
-
-.. code-block:: text
-
-   # Protocolo de Emergencia
+1. **Programa de Capacitación**:
    
-   1. Evaluación Inicial:
-      □ Tipo de incidente
-      □ Riesgos inmediatos
-      □ Recursos necesarios
-      □ Notificaciones requeridas
+   * **Básica**:
+     - Manejo de materiales peligrosos
+     - Procedimientos de emergencia
+     - Primeros auxilios
+     - Uso de equipos de seguridad
+
+   * **Especializada**:
+     - Certificación HAZMAT
+     - Respuesta a emergencias
+     - Técnicas de conducción
+     - Gestión de crisis
+
+   * **Actualización**:
+     - Cambios normativos
+     - Nuevas tecnologías
+     - Procedimientos actualizados
+     - Lecciones aprendidas
+
+2. **Certificaciones Requeridas**:
    
-   2. Respuesta:
-      □ Acciones inmediatas
-      □ Control de área
-      □ Comunicaciones
-      □ Documentación
+   * **Personal Operativo**:
+     - Licencia tipo E vigente
+     - Certificado HAZMAT
+     - Capacitación ADR
+     - Primeros auxilios
+
+   * **Supervisores**:
+     - Gestión de emergencias
+     - Coordinación de crisis
+     - Auditoría de seguridad
+     - Evaluación de riesgos
+
+Equipamiento de Seguridad
+---------------------
+
+1. **Equipo Personal**:
+   
+   * **EPP Básico**:
+     - Traje químico nivel A
+     - Respirador autónomo
+     - Guantes químicos
+     - Botas de seguridad
+
+   * **EPP Complementario**:
+     - Equipo de escape
+     - Detectores de gases
+     - Radio intrínsecamente seguro
+     - Kit de primeros auxilios
+
+2. **Equipo Vehicular**:
+   
+   * **Emergencias**:
+     - Kit de contención HAZMAT
+     - Extintores especializados
+     - Material absorbente
+     - Herramientas ADR
+
+   * **Comunicación**:
+     - GPS satelital
+     - Radio bidireccional
+     - Teléfono de emergencia
+     - Botón de pánico
+
+Sistemas de Monitoreo
+-----------------
+
+1. **Tecnología de Seguimiento**:
+   
+   * **GPS Avanzado**:
+     - Posición en tiempo real
+     - Geocercas
+     - Alertas automáticas
+     - Registro de eventos
+
+   * **Sensores**:
+     - Presión y temperatura
+     - Nivel de producto
+     - Estado de válvulas
+     - Condiciones ambientales
+
+2. **Control y Reportes**:
+   
+   * **Monitoreo**:
+     - Centro de control 24/7
+     - Seguimiento en tiempo real
+     - Análisis de patrones
+     - Alertas preventivas
+
+   * **Documentación**:
+     - Registros digitales
+     - Reportes automáticos
+     - Análisis de datos
+     - Auditoría de seguridad
+
+Procedimientos de Verificación
+--------------------------
+
+1. **Inspecciones**:
+   
+   * **Pre-operativas**:
+     - Lista de verificación completa
+     - Revisión de documentos
+     - Control de equipamiento
+     - Validación de sistemas
+
+   * **Durante Operación**:
+     - Puntos de control
+     - Verificaciones programadas
+     - Inspecciones aleatorias
+     - Auditorías de cumplimiento
+
+2. **Documentación**:
+   
+   * **Registros**:
+     - Bitácoras de viaje
+     - Reportes de incidentes
+     - Certificados vigentes
+     - Evaluaciones de riesgo
+
+   * **Control**:
+     - Sistema de gestión documental
+     - Trazabilidad de operaciones
+     - Respaldo digital
+     - Auditoría periódica
 
 Consideraciones Especiales
 =======================
 
-* Condiciones climáticas
-* Zonas de alto riesgo
-* Horarios especiales
-* Restricciones locales
+* **Condiciones Adversas**:
+  - Protocolos específicos
+  - Equipamiento adicional
+  - Medidas preventivas
+  - Rutas alternativas
+
+* **Zonas de Alto Riesgo**:
+  - Evaluación previa
+  - Medidas especiales
+  - Coordinación con autoridades
+  - Planes de contingencia
+
+* **Restricciones**:
+  - Horarios permitidos
+  - Zonas restringidas
+  - Límites operativos
+  - Requisitos especiales
 
 Documentación Relacionada
 ======================
@@ -150,6 +244,7 @@ Documentación Relacionada
 * :ref:`requisitos_seguridad`
 * :ref:`procedimientos_operativos`
 * :ref:`planes_emergencia`
+* :ref:`matriz_riesgos`
 
 Historial de Cambios
 ==================
@@ -163,4 +258,7 @@ Historial de Cambios
      - Cambios
    * - 2024-01-15
      - 1.0
-     - Creación inicial del documento 
+     - Creación inicial del documento
+   * - 2024-01-15
+     - 1.1
+     - Actualización completa de protocolos de seguridad y procedimientos de emergencia 

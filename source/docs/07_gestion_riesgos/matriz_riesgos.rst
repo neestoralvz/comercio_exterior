@@ -6,150 +6,195 @@ Matriz de Riesgos
 
 .. meta::
    :description: Matriz de identificación y evaluación de riesgos para el transporte de ácido sulfúrico entre México y Guatemala
-   :keywords: riesgos, evaluación, mitigación, control, seguridad
-
-Hallazgos - matriz_riesgos.rst
-==========================
-
-Fecha de verificación: 15/01/2024
-
-Identificación de Riesgos
----------------------
-* **Hallazgo**: Matriz no cubre todos los escenarios posibles
-* **Acción**: Ampliar matriz con nuevos escenarios
-* **Prioridad**: Alta
-* **Responsable**: Gestión de Riesgos
-
-Evaluación de Impacto
------------------
-* **Hallazgo**: Criterios de evaluación no estandarizados
-* **Acción**: Desarrollar metodología de evaluación
-* **Prioridad**: Alta
-* **Responsable**: Análisis de Riesgos
-
-Medidas de Mitigación
------------------
-* **Hallazgo**: Medidas preventivas incompletas
-* **Acción**: Actualizar plan de mitigación
-* **Prioridad**: Media
-* **Responsable**: Control de Riesgos
-
-Seguimiento y Control
------------------
-* **Hallazgo**: No existe sistema de monitoreo continuo
-* **Acción**: Implementar sistema de seguimiento
-* **Prioridad**: Media
-* **Responsable**: Operaciones
-
-Acciones Inmediatas Requeridas
----------------------------
-1. Actualizar matriz de riesgos
-2. Desarrollar metodología
-3. Revisar medidas preventivas
-4. Implementar monitoreo
-
-Consultas Necesarias
------------------
-* Expertos en gestión de riesgos
-* Aseguradoras
-* Personal operativo
-* Consultores especializados
-
-Próximos Pasos
-------------
-1. Revisar mejores prácticas
-2. Desarrollar procedimientos
-3. Capacitar personal
-4. Implementar controles
-
-Notas Adicionales
---------------
-* Considerar factores externos
-* Evaluar nuevas tecnologías
-* Mantener actualización continua
+   :keywords: riesgos, evaluación, mitigación, control, seguridad, HAZMAT, NOM, RTCA, ISO 31000
 
 Resumen
 =======
 
-Esta subsección presenta la matriz de riesgos para la identificación, evaluación y control de riesgos en el transporte de ácido sulfúrico.
+Esta subsección presenta la matriz integral de riesgos para la identificación, evaluación y control de riesgos en el transporte de |product|, siguiendo las normativas NOM-002-SCT/2011, RTCA 71.03.37:07 y estándares ISO 31000:2018.
 
-Descripción Detallada
-===================
+Matriz de Evaluación
+=================
 
-Identificación de Riesgos
----------------------
+* **Criterios de Probabilidad**
+    - Nivel 5 (Muy Alta)
+        * Ocurrencia semanal
+        * > 52 eventos/año
+        * Casi seguro que ocurra
+        * Historial frecuente
+    - Nivel 4 (Alta)
+        * Ocurrencia mensual
+        * 12-52 eventos/año
+        * Probable ocurrencia
+        * Historial recurrente
+    - Nivel 3 (Media)
+        * Ocurrencia semestral
+        * 2-12 eventos/año
+        * Posible ocurrencia
+        * Algunos incidentes previos
+    - Nivel 2 (Baja)
+        * Ocurrencia anual
+        * 1-2 eventos/año
+        * Poco probable
+        * Raros incidentes previos
+    - Nivel 1 (Muy Baja)
+        * Ocurrencia > anual
+        * < 1 evento/año
+        * Improbable
+        * Sin incidentes previos
 
-* Riesgos operativos
-* Riesgos ambientales
-* Riesgos de seguridad
-* Riesgos regulatorios
+* **Criterios de Impacto**
+    - Nivel 5 (Catastrófico)
+        * Pérdidas > USD 100,000
+        * Múltiples fatalidades
+        * Daño ambiental severo
+        * Cierre de operaciones
+    - Nivel 4 (Mayor)
+        * USD 50,000-100,000
+        * Una fatalidad
+        * Daño ambiental mayor
+        * Interrupción prolongada
+    - Nivel 3 (Moderado)
+        * USD 10,000-50,000
+        * Lesiones graves
+        * Daño ambiental moderado
+        * Interrupción parcial
+    - Nivel 2 (Menor)
+        * USD 1,000-10,000
+        * Lesiones leves
+        * Daño ambiental menor
+        * Interrupción breve
+    - Nivel 1 (Insignificante)
+        * < USD 1,000
+        * Sin lesiones
+        * Sin daño ambiental
+        * Sin interrupción
 
-.. important::
-   La identificación de riesgos debe ser exhaustiva y actualizada.
+Categorización de Riesgos
+=====================
 
-Evaluación de Riesgos
------------------
+* **Riesgo Extremo (15-25)**
+    - Características
+        * Requiere acción inmediata
+        * Notificación a dirección
+        * Plan específico
+        * Monitoreo continuo
+    - Controles Requeridos
+        * Medidas preventivas robustas
+        * Controles múltiples
+        * Verificación constante
+        * Auditorías frecuentes
 
-* Probabilidad de ocurrencia
-* Impacto potencial
-* Nivel de riesgo
-* Priorización
+* **Riesgo Alto (10-14)**
+    - Características
+        * Atención prioritaria
+        * Medidas de control
+        * Seguimiento mensual
+        * Recursos asignados
+    - Controles Requeridos
+        * Medidas preventivas específicas
+        * Controles documentados
+        * Verificación periódica
+        * Auditorías programadas
 
-.. warning::
-   La evaluación debe seguir criterios estandarizados.
+* **Riesgo Medio (5-9)**
+    - Características
+        * Medidas preventivas
+        * Monitoreo regular
+        * Revisión trimestral
+        * Controles estándar
+    - Controles Requeridos
+        * Procedimientos establecidos
+        * Controles básicos
+        * Verificación rutinaria
+        * Auditorías anuales
 
-Medidas de Control
---------------
+* **Riesgo Bajo (1-4)**
+    - Características
+        * Procedimientos normales
+        * Monitoreo básico
+        * Revisión anual
+        * Controles existentes
+    - Controles Requeridos
+        * Procedimientos estándar
+        * Controles mínimos
+        * Verificación ocasional
+        * Revisiones periódicas
 
-* Controles preventivos
-* Acciones correctivas
-* Planes de contingencia
-* Seguimiento continuo
+Evaluación de Riesgos Específicos
+=============================
 
-.. note::
-   Las medidas de control deben ser efectivas y verificables.
+* **Riesgos Operativos**
+    - Derrames
+        * Probabilidad: 3 (Media)
+        * Impacto: 4 (Mayor)
+        * Nivel: 12 (Alto)
+        * Controles: Preventivos
+    - Fallas Mecánicas
+        * Probabilidad: 3 (Media)
+        * Impacto: 3 (Moderado)
+        * Nivel: 9 (Medio)
+        * Controles: Preventivos/Detectivos
 
-Requisitos Previos
-================
+* **Riesgos de Seguridad**
+    - Robo/Asalto
+        * Probabilidad: 2 (Baja)
+        * Impacto: 4 (Mayor)
+        * Nivel: 8 (Medio)
+        * Controles: Preventivos
+    - Accidentes Viales
+        * Probabilidad: 3 (Media)
+        * Impacto: 4 (Mayor)
+        * Nivel: 12 (Alto)
+        * Controles: Preventivos/Correctivos
 
-1. Metodología definida
-2. Personal capacitado
-3. Recursos asignados
-4. Procedimientos establecidos
+* **Riesgos Regulatorios**
+    - Incumplimiento
+        * Probabilidad: 2 (Baja)
+        * Impacto: 4 (Mayor)
+        * Nivel: 8 (Medio)
+        * Controles: Preventivos
+    - Cambios Normativos
+        * Probabilidad: 2 (Baja)
+        * Impacto: 3 (Moderado)
+        * Nivel: 6 (Medio)
+        * Controles: Detectivos
 
-Ejemplos Prácticos
-================
+Sistema de Control
+===============
 
-.. code-block:: text
+* **Monitoreo Continuo**
+    - Indicadores Clave
+        * Frecuencia de incidentes
+        * Efectividad de controles
+        * Tiempo de respuesta
+        * Costos asociados
+    - Herramientas
+        * Sistema de seguimiento
+        * Reportes automáticos
+        * Alertas tempranas
+        * Dashboards operativos
 
-   # Matriz de Evaluación de Riesgos
-   
-   1. Identificación:
-      □ Tipo de riesgo
-      □ Descripción
-      □ Causas potenciales
-      □ Efectos posibles
-   
-   2. Evaluación:
-      □ Probabilidad
-      □ Impacto
-      □ Nivel de riesgo
-      □ Prioridad
-
-Consideraciones Especiales
-=======================
-
-* Factores externos
-* Cambios regulatorios
-* Nuevas tecnologías
-* Mejores prácticas
+* **Revisión y Actualización**
+    - Periodicidad
+        * Revisión mensual de alto riesgo
+        * Actualización trimestral
+        * Auditoría semestral
+        * Evaluación anual completa
+    - Responsables
+        * Comité de Riesgos
+        * Coordinadores de Área
+        * Auditores Internos
+        * Consultores Externos
 
 Documentación Relacionada
 ======================
 
-* :ref:`gestion_riesgos`
+* :ref:`plan_gestion_riesgos`
 * :ref:`planes_contingencia`
-* :ref:`procedimientos_emergencia`
+* :ref:`evaluacion_riesgos`
+* :ref:`medidas_preventivas`
+* :ref:`identificacion_riesgos`
 
 Historial de Cambios
 ==================
@@ -163,4 +208,7 @@ Historial de Cambios
      - Cambios
    * - 2024-01-15
      - 1.0
-     - Creación inicial del documento 
+     - Creación inicial del documento
+   * - 2024-01-15
+     - 1.1
+     - Actualización completa con matriz detallada de evaluación y control de riesgos 

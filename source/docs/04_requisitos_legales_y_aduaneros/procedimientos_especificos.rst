@@ -6,83 +6,156 @@ Procedimientos Específicos
 
 .. meta::
    :description: Procedimientos específicos para la exportación de ácido sulfúrico entre México y Guatemala
-   :keywords: procedimientos, exportación, trámites, requisitos, permisos, autorizaciones
+   :keywords: procedimientos, exportación, trámites, requisitos, permisos, autorizaciones, VUCEM, DUCA, inspecciones
 
 Resumen
 =======
 
-Esta subsección detalla los procedimientos específicos que deben seguirse para la exportación de ácido sulfúrico, incluyendo trámites, autorizaciones y verificaciones necesarias.
+Esta subsección detalla los procedimientos específicos que deben seguirse para la exportación de ácido sulfúrico, incluyendo trámites, autorizaciones, verificaciones y controles necesarios en cada etapa del proceso.
 
-Descripción Detallada
-===================
+Procedimientos Pre-Exportación
+==========================
 
-Trámites Iniciales
---------------
+1. Registro y Habilitación
+----------------------
 
-* Registro como exportador
-* Obtención de permisos
-* Verificación de requisitos
-* Preparación documental
+* **Registro como Exportador**:
+  - Inscripción en el Padrón de Exportadores Sectorial
+  - Alta en VUCEM (Ventanilla Única)
+  - Registro ante autoridades ambientales
+  - Actualización de información fiscal
 
-.. important::
-   Los trámites deben iniciarse con suficiente anticipación para evitar retrasos.
+* **Habilitación de Instalaciones**:
+  - Certificación de almacenes
+  - Validación de áreas de carga
+  - Inspección de equipo de seguridad
+  - Verificación de protocolos
 
-Autorizaciones Especiales
+2. Obtención de Permisos
 --------------------
 
-* Permiso SEMARNAT
-* Autorización aduanera
-* Certificación de producto
-* Validación de documentos
+* **Permisos Ambientales**:
+  - Autorización SEMARNAT (SEMARNAT-07-029-A)
+  - Licencia ambiental de operación
+  - Estudios de impacto ambiental
+  - Plan de manejo de residuos
 
-.. warning::
-   Las autorizaciones especiales pueden requerir inspecciones físicas del producto.
+* **Autorizaciones de Transporte**:
+  - Permiso SCT para materiales peligrosos
+  - Certificación de unidades
+  - Licencias especiales de conductores
+  - Rutas autorizadas
 
-Verificaciones y Controles
+3. Certificaciones de Producto
+-------------------------
+
+* **Control de Calidad**:
+  - Análisis de laboratorio certificado
+  - Verificación de especificaciones
+  - Certificado de análisis
+  - Control de lotes
+
+Procedimientos de Exportación
+=========================
+
+1. Preparación Documental
 ---------------------
 
-* Inspección de mercancía
-* Control de calidad
-* Verificación documental
-* Validación de certificados
+* **Documentos Comerciales**:
+  - Factura comercial internacional
+  - Lista de empaque detallada
+  - Certificado de origen
+  - Documentos de transporte
 
-.. note::
-   Las verificaciones son obligatorias y deben programarse con anticipación.
+* **Documentos Aduaneros**:
+  - Pedimento de exportación
+  - DUCA (Declaración Única Centroamericana)
+  - Permisos y certificados
+  - Manifiestos de carga
 
-Requisitos Previos
-================
+2. Verificaciones y Controles
+-------------------------
 
-1. Documentación completa
-2. Permisos vigentes
-3. Certificaciones actualizadas
-4. Personal autorizado
+* **Inspección de Mercancía**:
+  - Verificación física del producto
+  - Control de embalaje y etiquetado
+  - Revisión de documentación
+  - Validación de certificados
 
-Ejemplos Prácticos
-================
+* **Control de Calidad**:
+  - Muestreo según normas aplicables
+  - Análisis de conformidad
+  - Verificación de especificaciones
+  - Documentación de resultados
 
-.. code-block:: text
+3. Proceso de Despacho
+------------------
 
-   # Proceso de Exportación
-   
-   1. Trámites Iniciales:
-      □ Registro exportador
-      □ Solicitud permisos
-      □ Preparación documentos
-      □ Programación inspecciones
-   
-   2. Verificaciones:
-      □ Control calidad
-      □ Inspección física
-      □ Revisión documental
-      □ Validación certificados
+* **Pre-validación**:
+  - Revisión documental completa
+  - Validación de permisos
+  - Verificación de cumplimiento
+  - Autorización de embarque
+
+* **Despacho Aduanero**:
+  - Presentación ante aduana
+  - Reconocimiento aduanero
+  - Liberación de mercancía
+  - Documentación de salida
+
+Procedimientos Post-Exportación
+===========================
+
+1. Seguimiento y Control
+--------------------
+
+* **Monitoreo de Embarque**:
+  - Seguimiento GPS en tiempo real
+  - Control de tiempos de tránsito
+  - Verificación de rutas
+  - Registro de incidencias
+
+* **Documentación**:
+  - Archivo de expediente completo
+  - Registro de operaciones
+  - Control de comprobantes
+  - Respaldo digital
+
+2. Cumplimiento Regulatorio
+-----------------------
+
+* **Reportes Obligatorios**:
+  - Informes a autoridades ambientales
+  - Reportes de movimientos transfronterizos
+  - Estadísticas de exportación
+  - Registros de trazabilidad
+
+* **Auditorías y Verificaciones**:
+  - Revisiones periódicas
+  - Auditorías de cumplimiento
+  - Verificaciones documentales
+  - Inspecciones de control
 
 Consideraciones Especiales
 =======================
 
-* Tiempos de proceso
-* Costos asociados
-* Requisitos específicos
-* Actualizaciones necesarias
+* **Tiempos de Proceso**:
+  - Pre-validación: 24-48 horas
+  - Despacho aduanero: 2-3 días
+  - Tránsito fronterizo: 1-2 días
+  - Entrega final: según destino
+
+* **Costos Asociados**:
+  - Derechos y aprovechamientos
+  - Honorarios de agentes
+  - Servicios complementarios
+  - Gastos de inspección
+
+* **Contingencias**:
+  - Protocolos de emergencia
+  - Procedimientos alternos
+  - Contactos de emergencia
+  - Planes de acción
 
 Documentación Relacionada
 ======================
@@ -90,6 +163,7 @@ Documentación Relacionada
 * :ref:`documentacion_requerida_legal`
 * :ref:`tramites_aduaneros`
 * :ref:`requisitos_legales`
+* :ref:`permisos_especiales`
 
 Historial de Cambios
 ==================
@@ -104,6 +178,6 @@ Historial de Cambios
    * - 2024-01-15
      - 1.0
      - Creación inicial del documento
-   * - 2024-01-20
+   * - 2024-01-15
      - 1.1
-     - Actualización de procedimientos específicos 
+     - Actualización completa de procedimientos y requisitos específicos 

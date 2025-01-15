@@ -5,73 +5,13 @@ Planes de Contingencia
 =====================
 
 .. meta::
-   :description: Planes y procedimientos de contingencia para emergencias en el transporte de ácido sulfúrico
-   :keywords: planes contingencia, emergencias, respuesta, protocolos, seguridad
-
-Hallazgos - planes_contingencia.rst
-==============================
-
-Fecha de verificación: 15/01/2024
-
-Protocolos de Emergencia
---------------------
-* **Hallazgo**: Procedimientos no cubren todos los escenarios
-* **Acción**: Desarrollar protocolos adicionales
-* **Prioridad**: Alta
-* **Responsable**: Gestión de Crisis
-
-Cadena de Comunicación
-------------------
-* **Hallazgo**: Falta claridad en flujo de comunicación
-* **Acción**: Establecer protocolo de comunicación
-* **Prioridad**: Alta
-* **Responsable**: Comunicaciones
-
-Recursos de Emergencia
-------------------
-* **Hallazgo**: No se especifican recursos mínimos
-* **Acción**: Definir requisitos de recursos
-* **Prioridad**: Media
-* **Responsable**: Operaciones
-
-Coordinación Externa
-----------------
-* **Hallazgo**: Falta protocolo con autoridades
-* **Acción**: Desarrollar plan de coordinación
-* **Prioridad**: Media
-* **Responsable**: Relaciones Institucionales
-
-Acciones Inmediatas Requeridas
----------------------------
-1. Desarrollar protocolos faltantes
-2. Establecer cadena de comunicación
-3. Definir recursos necesarios
-4. Crear plan de coordinación
-
-Consultas Necesarias
------------------
-* Protección Civil
-* Servicios de emergencia
-* Autoridades ambientales
-* Expertos en crisis
-
-Próximos Pasos
-------------
-1. Revisar protocolos actuales
-2. Desarrollar procedimientos
-3. Realizar simulacros
-4. Implementar mejoras
-
-Notas Adicionales
---------------
-* Considerar escenarios extremos
-* Evaluar recursos adicionales
-* Mantener actualización continua
+   :description: Planes y procedimientos de contingencia para emergencias en el transporte de ácido sulfúrico entre México y Guatemala
+   :keywords: planes contingencia, emergencias, respuesta, protocolos, seguridad, HAZMAT, NOM, RTCA, ISO 45001
 
 Resumen
 =======
 
-Esta subsección detalla los planes y procedimientos de contingencia establecidos para responder a emergencias durante el transporte de |product|, asegurando una respuesta rápida y efectiva.
+Esta subsección detalla los planes y procedimientos de contingencia establecidos para responder a emergencias durante el transporte de |product|, asegurando una respuesta rápida y efectiva según las normativas NOM-002-SCT/2011, RTCA 71.03.37:07 y estándares internacionales.
 
 Descripción Detallada
 ===================
@@ -79,70 +19,164 @@ Descripción Detallada
 Protocolos de Emergencia
 ---------------------
 
-* Procedimientos de respuesta
-* Cadena de comunicación
-* Roles y responsabilidades
-* Tiempos de respuesta
+* **Niveles de Emergencia**
+    - Nivel 1: Incidente Menor
+        * Derrames < 100 litros
+        * Sin lesionados
+        * Contención inmediata posible
+        * Sin impacto ambiental significativo
+    - Nivel 2: Incidente Moderado
+        * Derrames 100-1000 litros
+        * Lesiones leves
+        * Requiere equipo especializado
+        * Impacto ambiental controlable
+    - Nivel 3: Incidente Mayor
+        * Derrames > 1000 litros
+        * Lesiones graves
+        * Requiere evacuación
+        * Impacto ambiental significativo
 
-.. important::
-   Los protocolos deben ser conocidos y entendidos por todo el personal involucrado.
+* **Procedimientos de Respuesta**
+    - Evaluación inicial
+        * Identificación del nivel
+        * Valoración de riesgos
+        * Activación de protocolos
+        * Notificación inicial
+    - Acciones inmediatas
+        * Control de la escena
+        * Establecimiento de perímetro
+        * Activación de recursos
+        * Coordinación de respuesta
 
-Respuesta a Incidentes
--------------------
+Cadena de Comunicación
+------------------
 
-* Derrames y fugas
-* Accidentes viales
-* Emergencias médicas
-* Incidentes de seguridad
+* **Estructura de Comunicación**
+    - Centro de Control 24/7
+        * México: +52 (55) 627-22-728
+        * Guatemala: +502 2329-7070
+        * Radio: Canal HAZMAT-1
+        * Satélite: ID-SAT-001
+    - Coordinadores de Emergencia
+        * Supervisor de turno
+        * Jefe de seguridad
+        * Coordinador HAZMAT
+        * Enlace con autoridades
 
-.. warning::
-   La respuesta inmediata es crucial para minimizar el impacto de incidentes.
+* **Protocolos de Notificación**
+    - Comunicación inicial (2 minutos)
+        * Ubicación exacta
+        * Tipo de incidente
+        * Nivel de emergencia
+        * Recursos necesarios
+    - Actualizaciones (cada 15 minutos)
+        * Estado de la situación
+        * Acciones tomadas
+        * Recursos desplegados
+        * Necesidades adicionales
+
+Recursos de Emergencia
+------------------
+
+* **Equipamiento Requerido**
+    - Equipos de Contención
+        * Kits HAZMAT Tipo A
+        * Barreras de contención
+        * Materiales absorbentes
+        * Tanques de emergencia
+    - Equipos de Protección
+        * EPP Nivel A completo
+        * Equipos de respiración
+        * Trajes químicos
+        * Detectores de gases
+
+* **Recursos Humanos**
+    - Equipos de Respuesta
+        * Brigada HAZMAT
+        * Personal médico
+        * Técnicos ambientales
+        * Especialistas en rescate
+    - Soporte Logístico
+        * Unidades móviles
+        * Centro de comando
+        * Laboratorio móvil
+        * Unidades de descontaminación
 
 Coordinación con Autoridades
 ------------------------
 
-* Servicios de emergencia
-* Autoridades ambientales
-* Cuerpos de seguridad
-* Protección civil
+* **Autoridades Principales**
+    - México
+        * Protección Civil: 911
+        * SEMARNAT: 800-0000-247
+        * Bomberos HAZMAT: +52 (55) 5683-2222
+        * Centro Nacional de Comunicaciones: +52 (55) 5128-0000
+    - Guatemala
+        * CONRED: 1566
+        * Bomberos: 122
+        * Policía Nacional: 110
+        * MARN Emergencias: +502 2423-0500
 
-.. note::
-   Mantener actualizados los contactos de emergencia en ambos países.
+* **Protocolo de Coordinación**
+    - Notificación inicial
+        * Reporte inmediato
+        * Activación de protocolos
+        * Coordinación de recursos
+        * Establecimiento de PMU
+    - Gestión conjunta
+        * Comando unificado
+        * Comunicación integrada
+        * Recursos compartidos
+        * Evaluación continua
 
-Requisitos Previos
-================
+Procedimientos Específicos
+----------------------
 
-1. Personal capacitado en emergencias
-2. Equipos de respuesta disponibles
-3. Comunicaciones establecidas
-4. Recursos asignados
+* **Derrames y Fugas**
+    - Contención inicial
+        * Establecer zona caliente
+        * Control de fugas
+        * Contención de derrames
+        * Evaluación de riesgos
+    - Recuperación
+        * Neutralización
+        * Recolección
+        * Disposición
+        * Descontaminación
 
-Ejemplos Prácticos
-================
+* **Accidentes Viales**
+    - Respuesta inmediata
+        * Aseguramiento de escena
+        * Atención a lesionados
+        * Control de tráfico
+        * Evaluación estructural
+    - Recuperación
+        * Plan de salvamento
+        * Trasvase de producto
+        * Remoción de unidad
+        * Restauración vial
 
-.. code-block:: text
+Sistema de Seguimiento
+------------------
 
-   # Protocolo de Respuesta a Emergencias
-   
-   1. En caso de derrame:
-      □ Asegurar el área
-      □ Notificar al centro de control
-      □ Activar equipo de respuesta
-      □ Contener el derrame
-   
-   2. En caso de accidente:
-      □ Evaluar la situación
-      □ Reportar a autoridades
-      □ Activar servicios médicos
-      □ Implementar plan de recuperación
+* **Control de Incidentes**
+    - Registro detallado
+        * Cronología de eventos
+        * Acciones tomadas
+        * Recursos utilizados
+        * Resultados obtenidos
+    - Documentación
+        * Reportes oficiales
+        * Evidencia fotográfica
+        * Registros técnicos
+        * Informes finales
 
-Consideraciones Especiales
-=======================
-
-* Zonas de alto riesgo
-* Condiciones climáticas extremas
-* Recursos disponibles
-* Tiempos de respuesta
+* **Mejora Continua**
+    - Análisis post-incidente
+        * Evaluación de respuesta
+        * Identificación de mejoras
+        * Actualización de protocolos
+        * Capacitación específica
 
 Documentación Relacionada
 ======================
@@ -150,6 +184,8 @@ Documentación Relacionada
 * :ref:`identificacion_riesgos`
 * :ref:`evaluacion_riesgos`
 * :ref:`medidas_preventivas`
+* :ref:`matriz_riesgos`
+* :ref:`plan_gestion_riesgos`
 
 Historial de Cambios
 ==================
@@ -166,4 +202,4 @@ Historial de Cambios
      - Creación inicial del documento
    * - 2024-01-15
      - 1.1
-     - Actualización de protocolos de emergencia 
+     - Actualización completa con protocolos detallados de emergencia, cadena de comunicación, recursos y coordinación 
