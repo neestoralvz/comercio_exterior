@@ -4,16 +4,20 @@
 
 ### FCA (Free Carrier) - Franco Transportista
 
-- **Definición**: El vendedor entrega la mercancía al transportista designado por el comprador en el lugar acordado.
+- **Definición**: El vendedor entrega la mercancía al transportista designado
+  por el comprador en el lugar acordado.
 - **Alcance**:
   - Incluye el despacho de exportación
   - La entrega se completa cuando:
-    - Se carga la mercancía en el medio de transporte del comprador (en las instalaciones del vendedor)
+    - Se carga la mercancía en el medio de transporte del comprador (en las
+      instalaciones del vendedor)
     - Se pone a disposición del transportista (en otro lugar acordado)
 
 ### DAP (Delivered at Place) - Entregado en Lugar
 
-- **Definición**: El vendedor entrega la mercancía cuando se pone a disposición del comprador en el medio de transporte de llegada, preparada para la descarga en el lugar de destino designado.
+- **Definición**: El vendedor entrega la mercancía cuando se pone a disposición
+  del comprador en el medio de transporte de llegada, preparada para la descarga
+  en el lugar de destino designado.
 - **Alcance**:
   - Incluye transporte hasta el punto designado
   - Incluye trámites de exportación
@@ -36,7 +40,8 @@
 ### Escenario FCA
 
 - **Punto de entrega**: Instalaciones del vendedor en México
-- **Momento de transferencia**: Al cargar el ácido sulfúrico en la pipa del transportista designado
+- **Momento de transferencia**: Al cargar el ácido sulfúrico en la pipa del
+  transportista designado
 - **Documentación clave**:
   - Factura comercial
   - Lista de empaque
@@ -47,7 +52,8 @@
 ### Escenario DAP
 
 - **Punto de entrega**: Frontera Suchiate, Chiapas (punto acordado)
-- **Momento de transferencia**: Al llegar al punto designado, antes de la descarga
+- **Momento de transferencia**: Al llegar al punto designado, antes de la
+  descarga
 - **Documentación adicional**:
   - Documentos de transporte internacional
   - Póliza de seguro (si se contrata)
@@ -86,7 +92,8 @@
 
 1. **Para exportadores frecuentes**:
 
-   - FCA es recomendado si el comprador tiene experiencia y transportistas confiables
+   - FCA es recomendado si el comprador tiene experiencia y transportistas
+     confiables
    - Permite mejor control de costos y responsabilidades definidas
 
 2. **Para nuevas relaciones comerciales**:

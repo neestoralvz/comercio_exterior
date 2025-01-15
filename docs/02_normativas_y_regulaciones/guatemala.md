@@ -5,16 +5,20 @@
 ### 1.1 Leyes Fundamentales
 
 - **Decreto 68-86**: Ley de Protección y Mejoramiento del Medio Ambiente
-- **Acuerdo Gubernativo 137-2016**: Reglamento de Evaluación, Control y Seguimiento Ambiental
+- **Acuerdo Gubernativo 137-2016**: Reglamento de Evaluación, Control y
+  Seguimiento Ambiental
 - **Decreto 90-97**: Código de Salud
 - **Decreto 36-98**: Ley de Sanidad Vegetal y Animal
 - **Decreto 27-92**: Ley del Impuesto al Valor Agregado
 
 ### 1.2 Normativas Específicas para Sustancias Químicas
 
-- **Acuerdo Ministerial 413-2006**: Listado Taxativo de Proyectos, Obras, Industrias o Actividades
-- **Acuerdo Gubernativo 281-2015**: Política Nacional para la Gestión Ambientalmente Racional de Productos Químicos y Desechos Peligrosos
-- **Acuerdo Gubernativo 341-2013**: Reglamento de Evaluación, Control y Seguimiento Ambiental
+- **Acuerdo Ministerial 413-2006**: Listado Taxativo de Proyectos, Obras,
+  Industrias o Actividades
+- **Acuerdo Gubernativo 281-2015**: Política Nacional para la Gestión
+  Ambientalmente Racional de Productos Químicos y Desechos Peligrosos
+- **Acuerdo Gubernativo 341-2013**: Reglamento de Evaluación, Control y
+  Seguimiento Ambiental
 
 ## 2. Entidades Reguladoras
 

@@ -69,6 +69,7 @@
 
 ## Referencias
 
-- International Chamber of Commerce (ICC) - Reglas y Usos Uniformes para Créditos Documentarios (UCP 600)
+- International Chamber of Commerce (ICC) - Reglas y Usos Uniformes para
+  Créditos Documentarios (UCP 600)
 - Ley General de Títulos y Operaciones de Crédito
 - Código de Comercio de México

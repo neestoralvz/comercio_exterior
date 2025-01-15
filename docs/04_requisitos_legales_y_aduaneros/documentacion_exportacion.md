@@ -4,7 +4,8 @@
 
 ### 1.1 Factura Comercial
 
-- **Finalidad**: Documento que acredita la venta internacional y declara el valor de la mercancía
+- **Finalidad**: Documento que acredita la venta internacional y declara el
+  valor de la mercancía
 - **Autoridad**: Se presenta ante el SAT y la aduana
 - **Requisitos clave**:
   - Datos completos del exportador e importador

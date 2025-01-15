@@ -4,7 +4,8 @@
 
 ### 1.1 SEMARNAT
 
-- **Autorización para el movimiento transfronterizo de materiales y residuos peligrosos**
+- **Autorización para el movimiento transfronterizo de materiales y residuos
+  peligrosos**
   - Formato: SEMARNAT-07-029
   - Tiempo de respuesta: 10 días hábiles
   - Vigencia: Por embarque
@@ -87,14 +88,16 @@
 ## 4. Costos y Tiempos Totales Estimados
 
 - **Tiempo total para obtención de permisos**: 30-45 días hábiles
-- **Costo total aproximado**: $15,000 - $20,000 MXN (sin incluir costos en Guatemala)
+- **Costo total aproximado**: $15,000 - $20,000 MXN (sin incluir costos en
+  Guatemala)
 - **Vigencia promedio**: Variable según el permiso
 
 ## 5. Contactos Importantes
 
 ### México
 
-- SEMARNAT: [Dirección General de Gestión Integral de Materiales y Actividades Riesgosas](https://www.gob.mx/semarnat)
+- SEMARNAT:
+  [Dirección General de Gestión Integral de Materiales y Actividades Riesgosas](https://www.gob.mx/semarnat)
   - Tel: (55) 5490-0900
 - COFEPRIS: [Comisión de Autorización Sanitaria](https://www.gob.mx/cofepris)
   - Tel: (55) 5080-5200
@@ -103,7 +106,8 @@
 
 - MARN: [Dirección de Gestión Ambiental](https://www.marn.gob.gt)
   - Tel: (+502) 2423-0500
-- Ministerio de Energía y Minas: [Dirección General de Hidrocarburos](https://www.mem.gob.gt)
+- Ministerio de Energía y Minas:
+  [Dirección General de Hidrocarburos](https://www.mem.gob.gt)
   - Tel: (+502) 2419-6464
 
 ## 6. Recomendaciones Adicionales

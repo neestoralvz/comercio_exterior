@@ -62,7 +62,8 @@
 ## Notas Importantes
 
 - Los datos de contacto se actualizan trimestralmente
-- Se recomienda solicitar referencias específicas sobre manejo de ácido sulfúrico
+- Se recomienda solicitar referencias específicas sobre manejo de ácido
+  sulfúrico
 - Verificar vigencia de certificaciones antes de contratar
 
 ---

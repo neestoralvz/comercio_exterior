@@ -58,4 +58,5 @@ Precio Final: $1,392/ton
 - Transportista B: [Adjuntar cotización]
 - Aseguradora C: [Adjuntar cotización]
 
-_Nota: Los precios y costos deben actualizarse trimestralmente o según cambios significativos en el mercado._
+_Nota: Los precios y costos deben actualizarse trimestralmente o según cambios
+significativos en el mercado._
