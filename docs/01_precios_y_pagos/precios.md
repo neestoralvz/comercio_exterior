@@ -31,7 +31,7 @@
 
 ### Ejemplo de Cálculo
 
-```
+```text
 Costo Unitario Base: $1,000/ton
 Margen (20%): $200/ton
 Impuestos (16%): $192/ton

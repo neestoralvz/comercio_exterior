@@ -127,13 +127,13 @@
 - **SEMARNAT**: Dirección General de Gestión Integral de Materiales y Actividades Riesgosas
 
   - Tel: (55) 5490-0900 ext. 25300
-  - Email: materiales.riesgosos@semarnat.gob.mx
+  - Email: [materiales.riesgosos@semarnat.gob.mx](mailto:materiales.riesgosos@semarnat.gob.mx)
   - Horario: Lunes a Viernes 9:00-15:00
 
 - **SCT**: Dirección General de Autotransporte Federal
 
   - Tel: (55) 5723-9300 ext. 20201
-  - Email: contacto.dgaf@sct.gob.mx
+  - Email: [contacto.dgaf@sct.gob.mx](mailto:contacto.dgaf@sct.gob.mx)
   - Ventanilla Única: Lunes a Viernes 9:00-14:00
 
 - **COFEPRIS**: Comisión de Autorización Sanitaria

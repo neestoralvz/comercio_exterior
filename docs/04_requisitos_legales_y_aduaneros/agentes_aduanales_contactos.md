@@ -8,7 +8,7 @@
 - **Especialidad:** Productos químicos y materiales peligrosos
 - **Ubicación:** Av. Internacional #245, Ciudad Hidalgo, Chiapas
 - **Teléfono:** +52 (962) 698-1234
-- **Email:** mgonzalez@aagonzalez.com.mx
+- **Email:** [mgonzalez@aagonzalez.com.mx](mailto:mgonzalez@aagonzalez.com.mx)
 - **Experiencia:** 15 años en manejo de sustancias químicas
 - **Certificaciones:** NEEC, ISO 9001:2015
 
@@ -18,7 +18,7 @@
 - **Especialidad:** Exportaciones a Centroamérica
 - **Ubicación:** Calle Principal #78, Suchiate, Chiapas
 - **Teléfono:** +52 (962) 698-5678
-- **Email:** rmendez@fronterasur.com.mx
+- **Email:** [rmendez@fronterasur.com.mx](mailto:rmendez@fronterasur.com.mx)
 - **Experiencia:** 20 años en comercio México-Guatemala
 - **Certificaciones:** OEA (Operador Económico Autorizado)
 
@@ -28,7 +28,7 @@
 - **Especialidad:** Químicos industriales y mercancías peligrosas
 - **Ubicación:** Blvd. Fronterizo #156, Ciudad Hidalgo, Chiapas
 - **Teléfono:** +52 (962) 698-9012
-- **Email:** apvazquez@aduanassureste.mx
+- **Email:** [apvazquez@aduanassureste.mx](mailto:apvazquez@aduanassureste.mx)
 - **Experiencia:** 12 años en exportación de químicos
 - **Certificaciones:** IATA DGR
 

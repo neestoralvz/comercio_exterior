@@ -39,7 +39,7 @@ El **Reporte de Ejecución del Plan de Documentación** más reciente indica:
 - **Documentos Creados**: 13 archivos, uno para cada tema planeado
 - **Estado de Contenido**: Todos los archivos cuentan con contenido inicial y requieren revisión para validar exactitud y actualidad
 
-### Áreas de atención:
+### Áreas de atención
 
 1. **Revisión y validación del contenido**
 2. **Actualización de normativas** conforme a la evolución regulatoria en México y Guatemala
