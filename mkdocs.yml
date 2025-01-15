@@ -1,5 +1,4 @@
-# Archivo de configuración para la documentación de comercio exterior,
-# con un tema minimalista, oscuro y fácil de leer
+# mkdocs.yml (versión alternativa 1)
 
 site_name: "Documentación de Comercio Exterior"
 site_description: "Guía práctica para exportar ácido sulfúrico desde México a Guatemala."
@@ -8,7 +7,6 @@ site_url: "https://github.com/neestoralvz/comercio_exterior"
 repo_url: "https://github.com/neestoralvz/comercio_exterior"
 repo_name: "neestoralvz/comercio_exterior"
 
-# Estructura de la navegación (nav) para incluir todos los archivos del proyecto
 nav:
   - Inicio: index.md
   - Precios y Pagos:
@@ -31,14 +29,10 @@ nav:
       - Exportación en México: 06_formalidades_frontera/exportacion_mexico.md
       - Importación en Guatemala: 06_formalidades_frontera/importacion_guatemala.md
 
-# Directorio donde se encuentran los archivos de la documentación
 docs_dir: "docs"
-
-# Control estricto de enlaces y configuraciones
 strict: true
 use_directory_urls: true
 
-# Tema minimalista y oscuro basado en mkdocs-material
 theme:
   name: "material"
   features:
@@ -48,13 +42,7 @@ theme:
     - scheme: slate
       primary: "blue"
       accent: "blue"
-  # Puedes desactivar la paleta clara si quieres forzar modo oscuro:
-  # palette:
-  #   - scheme: slate
-  #     primary: "blue"
-  #     accent: "blue"
 
-# Extensiones de Markdown recomendadas
 markdown_extensions:
   - admonition
   - codehilite:
@@ -66,20 +54,18 @@ markdown_extensions:
   - footnotes
   - tables
   - attr_list
-  # Extensión que ayuda a manejar la indentación de listas de manera más coherente
-  - sane_lists
+  # Se elimina "sane_lists" para que no interfiera con la indentación
+  # - sane_lists
 
-# Plugins (ajusta según tus necesidades)
 plugins:
   - search
   # - mkdocs-git-revision-date-localized-plugin
   # - mkdocs-pdf-export-plugin
 
-# Archivos adicionales (CSS/JS) opcionales para personalizar
-extra_css: []
+extra_css:
+  - css/custom.css
 extra_javascript: []
 
-# Metadatos extra (opcionales)
 extra:
   social:
     - icon: "fontawesome/brands/github"
