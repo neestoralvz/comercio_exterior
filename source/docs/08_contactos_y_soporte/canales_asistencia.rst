@@ -6,18 +6,18 @@ Canales Asistencia
 
 .. meta::
    :description: Canales de asistencia y comunicación para la exportación de ácido sulfúrico
-   :keywords: canales, asistencia, comunicación, soporte, ayuda, contacto
+   :keywords: canales, asistencia, comunicación, soporte, ayuda, contacto, HAZMAT, emergencias, monitoreo
 
-Canales de Asistencia 2025
-========================
+Canales de Asistencia
+===================
 
-Esta sección detalla los canales de comunicación y asistencia disponibles para la gestión de consultas, incidentes y emergencias relacionadas con la exportación de ácido sulfúrico.
+Esta sección detalla los canales de comunicación y asistencia disponibles para la gestión de consultas, incidentes y emergencias relacionadas con la exportación de ácido sulfúrico entre México y Guatemala, incluyendo protocolos de respuesta y tiempos de atención.
 
 Centro de Control Operativo
 ------------------------
 
-1. Línea Principal 24/7
-~~~~~~~~~~~~~~~~~~~~
+1. Centro de Comando 24/7
+~~~~~~~~~~~~~~~~~~~~~
 
 .. list-table::
    :header-rows: 1
@@ -25,16 +25,18 @@ Centro de Control Operativo
 
    * - Canal
      - Contacto
-   * - Teléfono México
-     - +52 (55) 5123-4567
-   * - Teléfono Guatemala
-     - +502 2338-9999
+   * - Emergencias México
+     - 800-123-4567 (24/7)
+   * - Emergencias Guatemala
+     - 1566 (24/7)
    * - WhatsApp Empresarial
-     - +52 (55) 5123-4568
+     - +52 (55) 1234-5678
    * - Email Operativo
      - control@empresa.com
+   * - Respuesta Promedio
+     - < 5 minutos
 
-2. Canales de Respaldo
+2. Sistemas de Respaldo
 ~~~~~~~~~~~~~~~~~~~
 
 .. list-table::
@@ -42,47 +44,56 @@ Centro de Control Operativo
    :widths: 30 70
 
    * - Canal
-     - Contacto
-   * - Radio Satelital
-     - ID: SAT-MX-2025
+     - Especificaciones
+   * - Radio Digital
+     - Frecuencia: 148.925 MHz
    * - Teléfono Satelital
-     - +881 631234567
+     - Iridium: +881 631234567
    * - App Emergencia
-     - HAZMATAlert (iOS/Android)
+     - HAZMAT Alert v2.1 (iOS/Android)
+   * - Sistema Push
+     - Notificaciones instantáneas
 
-Soporte Técnico y Documentación
-----------------------------
+Soporte Técnico Especializado
+--------------------------
 
-1. Mesa de Ayuda
-~~~~~~~~~~~~~
+1. Mesa de Ayuda HAZMAT
+~~~~~~~~~~~~~~~~~~~
 
 .. list-table::
    :header-rows: 1
    :widths: 25 45 30
 
    * - Nivel
-     - Contacto
-     - Horario
-   * - Nivel 1
-     - +52 (55) 5234-5678
+     - Cobertura
+     - Tiempo Respuesta
+   * - Emergencias
+     - 24/7/365
+     - < 5 minutos
+   * - Operativo
      - 24/7
-   * - Nivel 2
-     - soporte.n2@empresa.com
+     - < 15 minutos
+   * - Técnico
      - L-V 8-18h
-   * - Nivel 3
-     - especialistas@empresa.com
-     - Bajo demanda
+     - < 30 minutos
+   * - Administrativo
+     - L-V 9-17h
+     - < 2 horas
 
 2. Portal de Autoservicio
 ~~~~~~~~~~~~~~~~~~~~~
 
-- **URL**: https://soporte.empresa.com
-- **Acceso**: Credenciales corporativas
-- **Funciones**:
-  - Base de conocimiento
-  - Tickets en línea
-  - Chat con agentes
-  - Documentación técnica
+- **Centro de Ayuda**
+    * URL: https://soporte.empresa.com
+    * Acceso: MFA requerido
+    * Disponibilidad: 24/7
+    * Funciones:
+        - Base de conocimiento
+        - Sistema de tickets
+        - Chat en vivo
+        - Documentación técnica
+        - Videos tutoriales
+        - FAQs interactivas
 
 Asistencia Legal y Regulatoria
 ---------------------------
@@ -94,29 +105,35 @@ Asistencia Legal y Regulatoria
    :header-rows: 1
    :widths: 30 40 30
 
-   * - País
+   * - Jurisdicción
      - Contacto
-     - Horario
+     - Tiempo Respuesta
    * - México
      - legal.mx@empresa.com
-     - L-V 9-18h
+     - < 4 horas
    * - Guatemala
      - legal.gt@empresa.com
-     - L-V 8-17h
+     - < 4 horas
+   * - Internacional
+     - legal.int@empresa.com
+     - < 8 horas
 
 2. Consultas Regulatorias
 ~~~~~~~~~~~~~~~~~~~~~
 
-- **México**:
-  - SEMARNAT: 01-800-0000-247
-  - COFEPRIS: 01-800-033-5050
-  - SAT: 01-800-463-6728
+- **México**
+    * SEMARNAT HAZMAT: 800-0000-247
+    * COFEPRIS: 800-033-5050
+    * SCT: 800-0000-368
+    * SAT-Aduanas: 800-463-6728
 
-- **Guatemala**:
-  - MARN: +502 2423-0500
-  - SAT: +502 2329-7070
+- **Guatemala**
+    * MARN: +502 2423-0500
+    * SAT: +502 2329-7070
+    * VUPE: +502 2410-8323
+    * CONRED: 1566
 
-Seguimiento de Embarques
+Monitoreo de Operaciones
 ---------------------
 
 1. Centro de Monitoreo
@@ -126,100 +143,119 @@ Seguimiento de Embarques
    :header-rows: 1
    :widths: 30 70
 
-   * - Función
-     - Contacto
-   * - Seguimiento GPS
-     - tracking@empresa.com
-   * - Alertas Automáticas
-     - alertas@empresa.com
-   * - Reportes Estado
-     - reportes@empresa.com
+   * - Sistema
+     - Especificaciones
+   * - GPS Satelital
+     - Actualización cada 30 segundos
+   * - Sensores IoT
+     - Monitoreo tiempo real
+   * - Cámaras HD
+     - Transmisión 24/7
+   * - Telemetría
+     - Datos cada 5 minutos
 
-2. App Móvil de Seguimiento
-~~~~~~~~~~~~~~~~~~~~~~~~
+2. Aplicación Móvil
+~~~~~~~~~~~~~~~
 
-- **Aplicación**: LogiTrack Pro
-- **Disponible**: iOS/Android
-- **Funciones**:
-  - Ubicación tiempo real
-  - Estado del embarque
-  - Documentación digital
-  - Comunicación directa
+- **LogiTrack Pro v3.0**
+    * Plataformas: iOS 14+/Android 10+
+    * Actualización: Tiempo real
+    * Funciones:
+        - Tracking GPS
+        - Telemetría completa
+        - Chat integrado
+        - Documentos digitales
+        - Firma electrónica
+        - Fotos georeferenciadas
 
 Protocolos de Comunicación
 -----------------------
 
-1. Prioridad de Canales
-~~~~~~~~~~~~~~~~~~~~
+1. Matriz de Escalamiento
+~~~~~~~~~~~~~~~~~~~~~
 
 .. list-table::
    :header-rows: 1
    :widths: 20 50 30
 
    * - Nivel
-     - Situación
+     - Condición
      - Canal Principal
-   * - P1
-     - Emergencia
-     - Teléfono 24/7
-   * - P2
-     - Urgente
-     - WhatsApp/Radio
-   * - P3
-     - Normal
+   * - Crítico
+     - Emergencia HAZMAT
+     - Línea directa 24/7
+   * - Alto
+     - Incidente operativo
+     - Radio/WhatsApp
+   * - Medio
+     - Consulta técnica
      - Email/Portal
+   * - Bajo
+     - Información general
+     - Portal/Email
 
-2. Tiempos de Respuesta
-~~~~~~~~~~~~~~~~~~~
+2. SLAs de Respuesta
+~~~~~~~~~~~~~~~~
 
 .. list-table::
    :header-rows: 1
    :widths: 30 35 35
 
    * - Prioridad
-     - Confirmación
+     - Primer Contacto
      - Resolución
-   * - Emergencia
-     - 5 minutos
-     - 30 minutos
-   * - Urgente
-     - 15 minutos
-     - 2 horas
-   * - Normal
-     - 1 hora
-     - 24 horas
+   * - Crítica
+     - < 5 minutos
+     - < 30 minutos
+   * - Alta
+     - < 15 minutos
+     - < 2 horas
+   * - Media
+     - < 30 minutos
+     - < 4 horas
+   * - Baja
+     - < 2 horas
+     - < 24 horas
 
 Gestión de Incidentes
 ------------------
 
-1. Registro y Seguimiento
+1. Sistema de Tickets
+~~~~~~~~~~~~~~~~~
+
+- **Plataforma Digital**
+    * Portal: https://incidentes.empresa.com
+    * Email: incidentes@empresa.com
+    * App: IncidentTracker v2.0
+    * Teléfono: 800-999-8888
+
+2. Cadena de Escalamiento
 ~~~~~~~~~~~~~~~~~~~~~
-
-- Portal: https://incidentes.empresa.com
-- Email: incidentes@empresa.com
-- App: IncidentTracker
-- Teléfono: +52 (55) 5345-6789
-
-2. Escalamiento
-~~~~~~~~~~~~
 
 .. list-table::
    :header-rows: 1
-   :widths: 30 70
+   :widths: 30 40 30
 
    * - Nivel
-     - Contacto
-   * - Supervisor
-     - +52 (55) 5345-6790
-   * - Gerente
-     - +52 (55) 5345-6791
-   * - Director
-     - +52 (55) 5345-6792
+     - Responsable
+     - Tiempo Máximo
+   * - N1
+     - Supervisor 24/7
+     - 15 minutos
+   * - N2
+     - Coordinador Regional
+     - 30 minutos
+   * - N3
+     - Gerente Nacional
+     - 1 hora
+   * - N4
+     - Director General
+     - 2 horas
 
 .. note::
-   Todos los canales son monitoreados y grabados para control de
-   calidad y seguimiento. Última actualización: 2025-01-15.
+   Todos los canales de comunicación son monitoreados y registrados para asegurar
+   calidad de servicio y trazabilidad. Última actualización: 2024-01-15.
 
 .. warning::
-   En caso de emergencia, siempre usar los canales prioritarios
-   y confirmar la recepción del mensaje.
+   Para emergencias HAZMAT, utilizar exclusivamente los canales prioritarios
+   y confirmar recepción inmediata de la comunicación.

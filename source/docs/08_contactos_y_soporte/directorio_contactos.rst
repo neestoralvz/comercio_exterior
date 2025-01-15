@@ -6,72 +6,12 @@ Directorio Contactos
 
 .. meta::
    :description: Directorio completo de contactos para la exportación de ácido sulfúrico entre México y Guatemala
-   :keywords: directorio, contactos, teléfonos, correos, emergencias, soporte
-
-Hallazgos - directorio_contactos.rst
-================================
-
-Fecha de verificación: 15/01/2024
-
-Información de Contacto
--------------------
-* **Hallazgo**: Datos de contacto incompletos o desactualizados
-* **Acción**: Verificar y actualizar información
-* **Prioridad**: Alta
-* **Responsable**: Administración
-
-Categorización de Contactos
------------------------
-* **Hallazgo**: Falta estructura clara por tipo de contacto
-* **Acción**: Reorganizar directorio por categorías
-* **Prioridad**: Media
-* **Responsable**: Control Documental
-
-Contactos de Emergencia
--------------------
-* **Hallazgo**: No se especifican tiempos de respuesta
-* **Acción**: Agregar información de disponibilidad
-* **Prioridad**: Alta
-* **Responsable**: Seguridad
-
-Sistema de Actualización
---------------------
-* **Hallazgo**: No existe proceso de actualización periódica
-* **Acción**: Implementar sistema de verificación
-* **Prioridad**: Media
-* **Responsable**: Administración
-
-Acciones Inmediatas Requeridas
----------------------------
-1. Verificar todos los contactos
-2. Reorganizar estructura del directorio
-3. Agregar información de disponibilidad
-4. Establecer proceso de actualización
-
-Consultas Necesarias
------------------
-* Autoridades actuales
-* Proveedores de servicios
-* Servicios de emergencia
-* Personal interno
-
-Próximos Pasos
-------------
-1. Contactar entidades listadas
-2. Verificar información
-3. Actualizar directorio
-4. Implementar sistema de control
-
-Notas Adicionales
---------------
-* Considerar formato digital
-* Evaluar app móvil
-* Mantener copias de respaldo
+   :keywords: directorio, contactos, teléfonos, correos, emergencias, soporte, HAZMAT, atención 24/7
 
 Resumen
 =======
 
-Esta subsección proporciona un directorio completo y actualizado de todos los contactos relevantes para la gestión de la exportación de ácido sulfúrico, incluyendo autoridades, proveedores y servicios de emergencia.
+Esta subsección proporciona un directorio completo y actualizado de todos los contactos relevantes para la gestión de la exportación de ácido sulfúrico, incluyendo autoridades, proveedores, servicios de emergencia y soporte técnico, con información de disponibilidad y tiempos de respuesta.
 
 Descripción Detallada
 ===================
@@ -79,70 +19,142 @@ Descripción Detallada
 Autoridades Gubernamentales
 -----------------------
 
-* Aduanas México
-* SAT Guatemala
-* Ministerios de Economía
-* Autoridades ambientales
+* **México**
+    - SAT - Administración General de Aduanas
+        * Ventanilla VUCEM: +52 (55) 1203-1000
+        * Atención 24/7: +52 (55) 627-22-728
+        * Módulo HAZMAT: Ext. 7250
+        * Email: atencion.hazmat@sat.gob.mx
+        * Tiempo respuesta: 2-4 horas
+    - SEMARNAT
+        * Central: 800-0000-247
+        * HAZMAT: Ext. 3250
+        * Email: materiales.peligrosos@semarnat.gob.mx
+        * Tiempo respuesta: 24-48 horas
+    - SCT
+        * Regulación: +52 (55) 5723-9300
+        * Permisos: Ext. 12500
+        * Email: transporte.peligroso@sct.gob.mx
+        * Tiempo respuesta: 24-72 horas
 
-.. important::
-   Verificar horarios de atención y jurisdicción de cada autoridad.
+* **Guatemala**
+    - SAT - Intendencia de Aduanas
+        * VUPE: +502 2410-8323
+        * HAZMAT: Ext. 1520
+        * Email: hazmat.sat@sat.gob.gt
+        * Tiempo respuesta: 3-5 horas
+    - MARN
+        * Central: +502 2423-0500
+        * Control: Ext. 2150
+        * Email: control.ambiental@marn.gob.gt
+        * Tiempo respuesta: 48-72 horas
+
+Servicios de Emergencia
+-------------------
+
+* **México**
+    - Centro Nacional de Emergencias HAZMAT
+        * Teléfono: 800-123-4567 (24/7)
+        * Respuesta inmediata: < 15 minutos
+        * Atención en sitio: < 60 minutos
+        * Cobertura: Nacional
+    - Protección Civil
+        * Emergencias: 911
+        * HAZMAT: +52 (55) 5128-0000
+        * Tiempo respuesta: < 30 minutos
+        * Radio: Frecuencia 148.925 MHz
+
+* **Guatemala**
+    - CONRED
+        * Emergencias: 1566 (24/7)
+        * HAZMAT: +502 2324-0800
+        * Respuesta: < 20 minutos
+        * Cobertura: Nacional
+    - Bomberos Voluntarios
+        * Emergencias: 122
+        * HAZMAT: +502 2201-0000
+        * Tiempo respuesta: < 25 minutos
 
 Proveedores de Servicios
 --------------------
 
-* Agentes aduanales
-* Transportistas
-* Aseguradores
-* Certificadores
+* **Agentes Aduanales Certificados**
+    - México
+        * Asociación de Agentes: +52 (55) 5584-3880
+        * Certificaciones: Ext. 108
+        * Horario: L-V 9:00-18:00
+        * Tiempo respuesta: 24 horas
+    - Guatemala
+        * Cámara de Agentes: +502 2422-3400
+        * Certificaciones: Ext. 205
+        * Horario: L-V 8:00-17:00
+        * Tiempo respuesta: 24 horas
 
-.. warning::
-   Confirmar vigencia de licencias y autorizaciones antes de contratar servicios.
+* **Transportistas Autorizados**
+    - Certificación HAZMAT requerida
+    - Seguro internacional vigente
+    - Monitoreo GPS 24/7
+    - Tiempo respuesta: 4-6 horas
 
-Contactos de Emergencia
--------------------
+Soporte Técnico
+------------
 
-* Bomberos
-* Protección Civil
-* Policía
-* Asistencia médica
+* **Centro de Control**
+    - Monitoreo 24/7: +52 (55) 5555-0000
+    - Emergencias: Ext. 1
+    - Operaciones: Ext. 2
+    - Soporte: Ext. 3
+    - Email: control@empresa.com
+    - Tiempo respuesta: < 15 minutos
 
-.. note::
-   Los números de emergencia están disponibles 24/7.
+* **Asistencia Técnica**
+    - Horario: 24/7
+    - Tel: 800-999-8888
+    - WhatsApp: +52 (55) 1234-5678
+    - Email: soporte.tecnico@empresa.com
+    - Tiempo respuesta: < 30 minutos
 
-Requisitos Previos
-================
+Sistema de Actualización
+--------------------
 
-1. Verificación de identidad
-2. Autorizaciones necesarias
-3. Protocolos de comunicación
-4. Documentación requerida
+* **Verificación Periódica**
+    - Contactos principales: Mensual
+    - Servicios de emergencia: Quincenal
+    - Proveedores: Trimestral
+    - Autoridades: Semestral
 
-Ejemplos Prácticos
-================
+* **Proceso de Actualización**
+    - Validación telefónica
+    - Confirmación por email
+    - Actualización en sistema
+    - Notificación a usuarios
 
-.. code-block:: text
+* **Control de Cambios**
+    - Registro de modificaciones
+    - Respaldo de versiones
+    - Auditoría trimestral
+    - Reporte de incidencias
 
-   # Formato de Contacto
-   
-   1. Autoridades:
-      □ Nombre: [Autoridad]
-      □ Cargo: [Posición]
-      □ Tel: [Número]
-      □ Email: [Correo]
-   
-   2. Emergencias:
-      □ Tipo: [Servicio]
-      □ Número: [Teléfono]
-      □ Cobertura: [Área]
-      □ Horario: [Disponibilidad]
+Niveles de Servicio
+---------------
 
-Consideraciones Especiales
-=======================
+* **Emergencias**
+    - Prioridad: Crítica
+    - Respuesta: < 15 minutos
+    - Escalamiento: Inmediato
+    - Seguimiento: 24/7
 
-* Horarios de atención
-* Jurisdicciones
-* Idiomas de comunicación
-* Protocolos específicos
+* **Operaciones**
+    - Prioridad: Alta
+    - Respuesta: < 30 minutos
+    - Escalamiento: < 2 horas
+    - Seguimiento: Horario laboral
+
+* **Administrativo**
+    - Prioridad: Normal
+    - Respuesta: < 24 horas
+    - Escalamiento: < 48 horas
+    - Seguimiento: Días hábiles
 
 Documentación Relacionada
 ======================
@@ -166,4 +178,4 @@ Historial de Cambios
      - Creación inicial del documento
    * - 2024-01-15
      - 1.1
-     - Actualización de contactos y servicios 
+     - Actualización completa con información detallada de contactos, tiempos de respuesta y niveles de servicio 

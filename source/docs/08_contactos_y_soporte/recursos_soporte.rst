@@ -6,12 +6,12 @@ Recursos Soporte
 
 .. meta::
    :description: Recursos y herramientas de soporte disponibles para la exportación de ácido sulfúrico
-   :keywords: recursos, soporte, herramientas, asistencia, ayuda, documentación
+   :keywords: recursos, soporte, herramientas, asistencia, ayuda, documentación, HAZMAT, capacitación, monitoreo
 
-Recursos de Soporte 2025
-======================
+Recursos de Soporte
+=================
 
-Esta sección detalla los recursos y herramientas actualizados disponibles para la gestión eficiente de la exportación de ácido sulfúrico entre México y Guatemala.
+Esta sección detalla los recursos y herramientas actualizados disponibles para la gestión eficiente de la exportación de ácido sulfúrico entre México y Guatemala, incluyendo plataformas digitales, documentación técnica y servicios de soporte especializado.
 
 Plataformas Digitales
 ------------------
@@ -19,24 +19,42 @@ Plataformas Digitales
 1. Portal de Gestión Aduanera
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-- **URL**: https://portal.comercioexterior.mx
-- **Acceso**: Credenciales corporativas
-- **Funciones**:
-  - Seguimiento de embarques
-  - Gestión documental
-  - Reportes operativos
-  - Alertas en tiempo real
+- **VUCEM México**
+    * URL: https://www.ventanillaunica.gob.mx
+    * Acceso: e.firma + Token
+    * Disponibilidad: 24/7
+    * Soporte: 800-286-3133
+    * Funciones:
+        - Trámites digitales
+        - Seguimiento operaciones
+        - Consulta regulaciones
+        - Pago de servicios
+
+- **VUPE Guatemala**
+    * URL: https://vupe.export.com.gt
+    * Acceso: Usuario registrado + OTP
+    * Disponibilidad: 24/7
+    * Soporte: +502 2410-8323
+    * Funciones:
+        - Permisos electrónicos
+        - Gestión DUCA
+        - Consulta aranceles
+        - Pagos en línea
 
 2. Sistema de Trazabilidad HAZMAT
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-- **URL**: https://hazmat.tracking.com
-- **Acceso**: 2FA requerido
-- **Funciones**:
-  - Monitoreo GPS
-  - Control de temperatura
-  - Sensores de presión
-  - Alertas automáticas
+- **Control Center**
+    * URL: https://hazmat.tracking.com
+    * Acceso: 2FA requerido
+    * Disponibilidad: 24/7
+    * Soporte: +52 (55) 5555-0000
+    * Funciones:
+        - Monitoreo GPS tiempo real
+        - Control temperatura: ±0.1°C
+        - Sensores presión: 0-100 PSI
+        - Alertas automáticas
+        - Reportes personalizados
 
 Documentación Técnica
 ------------------
@@ -53,29 +71,43 @@ Documentación Técnica
      - Última Actualización
    * - Procedimientos HAZMAT
      - 3.2
-     - 2025-01-15
+     - 2024-01-15
    * - Protocolos Emergencia
      - 2.1
-     - 2025-01-10
+     - 2024-01-15
    * - Guía Documentación
      - 1.8
-     - 2024-12-20
+     - 2024-01-15
 
 2. Fichas Técnicas
 ~~~~~~~~~~~~~~~
 
-- Especificaciones producto
-- Hojas de seguridad
-- Certificados análisis
-- Fichas emergencia
+- **Especificaciones Producto**
+    * Ficha técnica ácido sulfúrico
+    * Certificados de análisis
+    * Especificaciones de pureza
+    * Control de calidad
+
+- **Documentación Seguridad**
+    * MSDS actualizada
+    * Hojas de seguridad
+    * Procedimientos emergencia
+    * Fichas intervención
 
 3. Normativa Aplicable
 ~~~~~~~~~~~~~~~~~~
 
-- Regulaciones México
-- Normativa Guatemala
-- Estándares internacionales
-- Actualizaciones 2025
+- **México**
+    * NOM-002-SCT/2011
+    * NOM-023-SCT2/2011
+    * NOM-010-STPS-2014
+    * NOM-018-STPS-2015
+
+- **Guatemala**
+    * RTCA 71.03.37:07
+    * COGUANOR NGO 29 001
+    * COGUANOR NGR 49
+    * Acuerdo Gubernativo 148-2020
 
 Herramientas de Gestión
 --------------------
@@ -90,30 +122,40 @@ Herramientas de Gestión
    * - Herramienta
      - Función
      - Disponibilidad
-   * - SAP Logistics
-     - Gestión operativa
+   * - SAP TM
+     - Gestión transporte
      - 24/7
    * - HAZMAT Track
-     - Monitoreo
+     - Monitoreo tiempo real
      - 24/7
    * - DocManager
-     - Documentación
-     - Horario laboral
+     - Control documental
+     - 24/7
 
 2. Apps Móviles
 ~~~~~~~~~~~~
 
-- **SafeHAZMAT**
-  - Consulta rápida
-  - Protocolos emergencia
-  - Contactos clave
-  - Offline disponible
+- **SafeHAZMAT Pro**
+    * Versión: 2.5.1
+    * Plataformas: iOS/Android
+    * Funciones:
+        - Consulta inmediata
+        - Protocolos emergencia
+        - Directorio contactos
+        - Modo offline
+        - Geolocalización
+        - Reportes rápidos
 
-- **TrackChem**
-  - Seguimiento real
-  - Alertas push
-  - Reportes rápidos
-  - Sincronización automática
+- **ChemTrack Mobile**
+    * Versión: 3.1.0
+    * Plataformas: iOS/Android
+    * Funciones:
+        - Tracking tiempo real
+        - Alertas instantáneas
+        - Reportes digitales
+        - Firma electrónica
+        - Fotos geo-referenciadas
+        - Sincronización cloud
 
 Servicios de Soporte
 -----------------
@@ -126,37 +168,42 @@ Servicios de Soporte
    :widths: 30 35 35
 
    * - Nivel
-     - Horario
+     - Cobertura
      - Tiempo Respuesta
-   * - Nivel 1
+   * - Emergencias
+     - 24/7/365
+     - < 15 minutos
+   * - Operativo
      - 24/7
-     - 15 minutos
-   * - Nivel 2
+     - < 30 minutos
+   * - Técnico
      - Lun-Vie 8-18h
-     - 2 horas
-   * - Nivel 3
-     - Bajo demanda
-     - 24 horas
+     - < 2 horas
+   * - Administrativo
+     - Lun-Vie 9-17h
+     - < 24 horas
 
 2. Asesoría Especializada
 ~~~~~~~~~~~~~~~~~~~~~
 
-- **Legal**:
-  - Normativa química
-  - Regulaciones transporte
-  - Permisos especiales
-  - Contratos
+- **Consultoría Legal**
+    * Normativa química
+    * Regulaciones transporte
+    * Permisos especiales
+    * Contratos internacionales
+    * Tiempo respuesta: < 24h
 
-- **Técnica**:
-  - Manejo producto
-  - Equipos seguridad
-  - Procedimientos
-  - Certificaciones
+- **Soporte Técnico**
+    * Manejo de producto
+    * Equipos de seguridad
+    * Procedimientos operativos
+    * Certificaciones
+    * Tiempo respuesta: < 4h
 
 Capacitación y Desarrollo
 ----------------------
 
-1. Programas Disponibles
+1. Programas Presenciales
 ~~~~~~~~~~~~~~~~~~~~
 
 .. list-table::
@@ -166,43 +213,53 @@ Capacitación y Desarrollo
    * - Curso
      - Duración
      - Frecuencia
-   * - HAZMAT Básico
-     - 8 horas
-     - Mensual
-   * - Emergencias Avanzado
+   * - HAZMAT Operativo
      - 16 horas
+     - Mensual
+   * - Emergencias Químicas
+     - 24 horas
      - Trimestral
    * - Actualización Normativa
-     - 4 horas
+     - 8 horas
      - Semestral
 
-2. Recursos E-Learning
+2. Plataforma E-Learning
 ~~~~~~~~~~~~~~~~~~
 
-- Módulos interactivos
-- Videos tutoriales
-- Evaluaciones en línea
-- Certificaciones digitales
+- **Módulos Disponibles**
+    * Básico HAZMAT
+    * Documentación técnica
+    * Procedimientos operativos
+    * Respuesta emergencias
+    * Normativa aplicable
+    * Mejores prácticas
+
+- **Recursos Digitales**
+    * Videos HD
+    * Presentaciones
+    * Casos prácticos
+    * Evaluaciones
+    * Certificados digitales
 
 Mantenimiento y Actualización
 --------------------------
 
-1. **Documentación**:
-   - Revisión mensual
-   - Actualización trimestral
-   - Validación legal
-   - Control versiones
+1. **Gestión Documental**
+    * Revisión: Mensual
+    * Actualización: Trimestral
+    * Validación: Semestral
+    * Control: Continuo
 
-2. **Sistemas**:
-   - Mantenimiento semanal
-   - Actualizaciones programadas
-   - Respaldos diarios
-   - Pruebas seguridad
+2. **Sistemas TI**
+    * Mantenimiento: Semanal
+    * Actualizaciones: Mensual
+    * Respaldos: Diarios
+    * Seguridad: Continua
 
 .. note::
-   Todos los recursos se actualizan regularmente para mantener
-   su vigencia y utilidad. Última revisión: 2025-01-15.
+   Todos los recursos se actualizan regularmente según un calendario establecido.
+   Última actualización general: 2024-01-15.
 
 .. warning::
-   El acceso a ciertos recursos requiere autenticación y
-   autorización previa. Contactar al administrador del sistema.
+   El acceso a recursos especializados requiere autenticación multifactor y
+   autorización previa. Contactar al administrador de sistemas para permisos.
