@@ -1,218 +1,208 @@
-Permisos Especiales para Exportación de Ácido Sulfúrico
-=======================================================
+Permisos Especiales para Exportación e Importación de Ácido Sulfúrico
+================================================================
 
-1. Permisos en México
----------------------
+1. Permisos Requeridos en México (Exportación)
+--------------------------------------------
 
-1.1 SEMARNAT
-~~~~~~~~~~~~
+1.1 SEMARNAT - Autorización de Movimiento Transfronterizo
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-- **Autorización para el movimiento transfronterizo de materiales y
-  residuos peligrosos**
+- **Entidad**: Dirección General de Gestión Integral de Materiales
+- **Tipo**: Autorización para exportación de materiales peligrosos
+- **Formato**: SEMARNAT-07-029
+- **Requisitos**:
 
-  - Formato: SEMARNAT-07-029
-  - Tiempo de respuesta: 10 días hábiles
+  - Información del exportador (RFC, domicilio)
+  - Hoja de seguridad del ácido sulfúrico
+  - Plan de emergencia durante transporte
+  - Póliza de seguro vigente
+  - Contrato con empresa transportista autorizada
+  - Descripción de proceso y uso final
+
+- **Proceso**:
+
+  1. Presentar solicitud en Ventanilla SEMARNAT
+  2. Pago de derechos ($3,851.00 MXN)
+  3. Evaluación técnica
+  4. Emisión de autorización
+
+- **Tiempos**:
+  - Resolución: 10 días hábiles
   - Vigencia: Por embarque
-  - Costo: $3,851.00 MXN (2024)
-  - Requisitos:
+- **Renovación**: Nueva solicitud por cada embarque
 
-    - Hoja de datos de seguridad del material (MSDS)
-    - Póliza de seguro vigente
-    - Programa de contingencias
-    - Plan de emergencia durante el transporte
+1.2 COFEPRIS - Permiso Sanitario
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-1.2 COFEPRIS
-~~~~~~~~~~~~
+- **Entidad**: Comisión Federal para la Protección contra Riesgos Sanitarios
+- **Tipo**: Permiso para exportación de sustancias tóxicas
+- **Formato**: COFEPRIS-01-002-D
+- **Requisitos**:
 
-- **Permiso Sanitario de Importación/Exportación**
+  - Licencia sanitaria vigente
+  - Aviso de funcionamiento
+  - Certificado de análisis del producto
+  - Información técnica y de seguridad
+  - Certificado de buenas prácticas
 
-  - Homoclave: COFEPRIS-01-002-D
-  - Tiempo de respuesta: 5 días hábiles
+- **Proceso**:
+
+  1. Presentar solicitud en plataforma COFEPRIS
+  2. Pago de derechos ($3,562.00 MXN)
+  3. Revisión documental
+  4. Emisión de permiso
+
+- **Tiempos**:
+  - Resolución: 5 días hábiles
   - Vigencia: 180 días
-  - Costo: $3,562.00 MXN (2024)
-  - Requisitos:
+- **Renovación**: 30 días antes del vencimiento
 
-    - Certificado de análisis del producto
-    - Licencia sanitaria del establecimiento
-    - Aviso de funcionamiento
-    - Certificado de buenas prácticas de fabricación
-
-1.3 SCT (Secretaría de Comunicaciones y Transportes)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-- **Permiso para el transporte de materiales peligrosos**
-
-  - Tiempo de respuesta: 15 días hábiles
-  - Vigencia: 2 años
-  - Requisitos:
-
-    - Póliza de seguro específica para transporte de materiales
-      peligrosos
-    - Certificación de unidades de transporte
-    - Licencias especiales para conductores
-
-2. Permisos en Guatemala
-------------------------
-
-2.1 Ministerio de Energía y Minas (MEM)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-- **Licencia de importación de sustancias químicas**
-
-  - Formulario: MEM-DGGM-01
-  - Tiempo de respuesta: 15 días hábiles
-  - Vigencia: 1 año
-  - Costo: Q.2,500.00
-  - Requisitos:
-
-    - Estudio de factibilidad técnica
-    - Plan de manejo y almacenamiento
-    - Certificados de seguridad industrial
-    - Póliza de seguro ambiental
-
-2.2 Ministerio de Ambiente (MARN)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-- **Licencia ambiental para manejo de sustancias peligrosas**
-
-  - Formulario: MARN-IA-001
-  - Tiempo de respuesta: 30 días hábiles
-  - Vigencia: 2 años
-  - Costo: Q.15,000.00
-  - Requisitos:
-
-    - Estudio de impacto ambiental
-    - Plan de gestión ambiental
-    - Protocolos de emergencia
-    - Garantía financiera ambiental
-
-3. Proceso de Obtención de Permisos
----------------------------------
-
-3.1 Secuencia Recomendada México
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-1. **COFEPRIS** (Semana 1-2)
-   
-   - Presentar solicitud inicial
-   - Obtener aviso de funcionamiento
-   - Tramitar licencia sanitaria
-
-2. **SEMARNAT** (Semana 2-4)
-   
-   - Presentar estudio de impacto
-   - Obtener autorización de transporte
-   - Registrar plan de manejo
-
-3. **SCT** (Semana 3-5)
-   
-   - Certificar unidades
-   - Obtener permisos de transporte
-   - Validar rutas autorizadas
-
-3.2 Secuencia Recomendada Guatemala
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-1. **MEM** (Semana 1-3)
-   
-   - Registro de importador
-   - Estudio técnico
-   - Licencia de operación
-
-2. **MARN** (Semana 2-6)
-   
-   - Evaluación ambiental
-   - Consulta pública
-   - Obtención de licencia
-
-4. Costos Totales Estimados (2024)
---------------------------------
-
-4.1 México
-~~~~~~~~~
-
-- COFEPRIS: $3,562.00 MXN
-- SEMARNAT: $3,851.00 MXN
-- SCT: $4,200.00 MXN
-- Otros trámites: $2,500.00 MXN
-- **Total**: $14,113.00 MXN
-
-4.2 Guatemala
-~~~~~~~~~~~
-
-- MEM: Q.2,500.00
-- MARN: Q.15,000.00
-- Otros trámites: Q.3,500.00
-- **Total**: Q.21,000.00
-
-3. Requisitos Previos Generales
--------------------------------
-
-3.1 Análisis de Laboratorio
+1.3 SCT - Permiso de Transporte
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-- Certificado de análisis por lote
-- Pruebas de pureza y concentración
-- Análisis de contaminantes
-- Certificación del laboratorio autorizado
+- **Entidad**: Dirección General de Autotransporte Federal
+- **Tipo**: Permiso para transporte de materiales peligrosos
+- **Formato**: SCT-03-046
+- **Requisitos**:
 
-3.2 Documentación Técnica
+  - Información de unidades de transporte
+  - Licencias tipo E de conductores
+  - Póliza de seguro específica
+  - Plan de contingencias
+  - Rutas autorizadas
+  - Certificación de unidades
+
+- **Proceso**:
+
+  1. Solicitud en ventanilla SCT
+  2. Inspección de unidades
+  3. Evaluación de documentación
+  4. Emisión de permiso
+
+- **Tiempos**:
+  - Resolución: 15 días hábiles
+  - Vigencia: 2 años
+- **Renovación**: 60 días antes del vencimiento
+
+2. Permisos Requeridos en Guatemala (Importación)
+----------------------------------------------
+
+2.1 DGAM - Licencia de Importación
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+- **Entidad**: Dirección General de Armamento
+- **Tipo**: Licencia para importación de sustancias controladas
+- **Formato**: DGAM-04
+- **Requisitos**:
+
+  - Registro de importador
+  - Certificado de uso final
+  - Plan de seguridad
+  - Instalaciones autorizadas
+  - Fianza de cumplimiento
+
+- **Proceso**:
+
+  1. Presentar solicitud DGAM
+  2. Pago de derechos (Q.2,500.00)
+  3. Inspección de instalaciones
+  4. Emisión de licencia
+
+- **Tiempos**:
+  - Resolución: 15 días hábiles
+  - Vigencia: 30 días por embarque
+- **Renovación**: Nueva solicitud por embarque
+
+2.2 MARN - Licencia Ambiental
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
-- Hoja de datos de seguridad (MSDS) actualizada
-- Ficha técnica del producto
-- Especificaciones de calidad
-- Certificados de análisis
+- **Entidad**: Ministerio de Ambiente y Recursos Naturales
+- **Tipo**: Licencia ambiental para manejo de sustancias peligrosas
+- **Formato**: MARN-IA-001
+- **Requisitos**:
 
-3.3 Planes y Estudios
+  - Estudio de impacto ambiental
+  - Plan de gestión ambiental
+  - Medidas de mitigación
+  - Garantía financiera
+  - Protocolos de emergencia
+
+- **Proceso**:
+
+  1. Presentación de EIA
+  2. Pago de derechos (Q.25,000.00)
+  3. Consulta pública
+  4. Evaluación técnica
+  5. Emisión de licencia
+
+- **Tiempos**:
+  - Resolución: 30-45 días hábiles
+  - Vigencia: 1 año
+- **Renovación**: 60 días antes del vencimiento
+
+2.3 MSPAS - Licencia Sanitaria
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
+- **Entidad**: Ministerio de Salud Pública
+- **Tipo**: Licencia sanitaria de importación
+- **Formato**: DRCA-004
+- **Requisitos**:
+
+  - Certificado de libre venta
+  - Especificaciones técnicas
+  - Hoja de seguridad en español
+  - Plan de control de riesgos
+  - Certificado de análisis
+
+- **Proceso**:
+
+  1. Presentar solicitud MSPAS
+  2. Pago de derechos (Q.1,500.00)
+  3. Evaluación técnica
+  4. Emisión de licencia
+
+- **Tiempos**:
+  - Resolución: 15-20 días hábiles
+  - Vigencia: 1 año
+- **Renovación**: 30 días antes del vencimiento
+
+3. Resumen de Costos y Tiempos
+----------------------------
+
+3.1 México (Exportación)
 ~~~~~~~~~~~~~~~~~~~~~
 
-- Plan de contingencia ambiental
-- Estudio de riesgo
-- Programa de prevención de accidentes
-- Plan de emergencia durante el transporte
+- SEMARNAT: $3,851.00 MXN (por embarque)
+- COFEPRIS: $3,562.00 MXN (180 días)
+- SCT: $4,200.00 MXN (2 años)
+- **Total inicial**: $11,613.00 MXN
+- **Tiempo total**: 20-30 días hábiles
 
-4. Costos y Tiempos Totales Estimados
--------------------------------------
+3.2 Guatemala (Importación)
+~~~~~~~~~~~~~~~~~~~~~~~
 
-- **Tiempo total para obtención de permisos**: 30-45 días hábiles
-- **Costo total aproximado**: $15,000 - $20,000 MXN (sin incluir costos
-  en Guatemala)
-- **Vigencia promedio**: Variable según el permiso
+- DGAM: Q.2,500.00 (por embarque)
+- MARN: Q.25,000.00 (anual)
+- MSPAS: Q.1,500.00 (anual)
+- **Total inicial**: Q.29,000.00
+- **Tiempo total**: 45-60 días hábiles
 
-5. Contactos Importantes
-------------------------
+4. Recomendaciones para la Gestión
+--------------------------------
 
-México
-~~~~~~
+1. **Planificación**:
+   - Iniciar trámites 3 meses antes
+   - Gestionar permisos en paralelo
+   - Mantener calendario de renovaciones
 
-- SEMARNAT: `Dirección General de Gestión Integral de Materiales y
-  Actividades Riesgosas <https://www.gob.mx/semarnat>`__
+2. **Documentación**:
+   - Sistema de control de vigencias
+   - Expediente digital por permiso
+   - Copias de respaldo certificadas
 
-  - Tel: (55) 5490-0900
+3. **Renovaciones**:
+   - Alertas 60 días antes
+   - Actualización anual de planes
+   - Revisión de requisitos nuevos
 
-- COFEPRIS: `Comisión de Autorización
-  Sanitaria <https://www.gob.mx/cofepris>`__
-
-  - Tel: (55) 5080-5200
-
-Guatemala
-~~~~~~~~~
-
-- MARN: `Dirección de Gestión Ambiental <https://www.marn.gob.gt>`__
-
-  - Tel: (+502) 2423-0500
-
-- Ministerio de Energía y Minas: `Dirección General de
-  Hidrocarburos <https://www.mem.gob.gt>`__
-
-  - Tel: (+502) 2419-6464
-
-6. Recomendaciones Adicionales
-------------------------------
-
-1. Iniciar trámites con al menos 2 meses de anticipación
-2. Mantener vigentes todos los permisos y certificaciones
-3. Contar con asesoría legal especializada
-4. Actualizar documentación técnica anualmente
-5. Mantener registro de todas las autorizaciones y renovaciones
+*Última actualización: 2025-01-15*

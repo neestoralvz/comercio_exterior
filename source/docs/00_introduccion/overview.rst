@@ -32,25 +32,63 @@ Este manual cubre:
 Producto: Ácido Sulfúrico
 -------------------------
 
-Características del Producto
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Especificaciones Técnicas
+~~~~~~~~~~~~~~~~~~~~~~~
 
 - **Nombre químico**: Ácido Sulfúrico
 - **Fórmula química**: H₂SO₄
-- **Concentración**: 98% (grado técnico)
-- **Clasificación arancelaria**: 2807.00.01 (México) / 2807.00.00 (Guatemala)
-- **UN Number**: 1830
+- **Número CAS**: 7664-93-9
+- **Estado físico**: Líquido
+- **Color**: Incoloro a ligeramente amarillo
+- **Olor**: Inodoro
+
+Propiedades Físico-Químicas
+~~~~~~~~~~~~~~~~~~~~~~~~
+
+- **Concentración**: 98% p/p (grado técnico)
+- **Densidad**: 1.84 g/cm³ a 20°C
+- **Punto de ebullición**: 337°C (639°F)
+- **Punto de fusión**: 10°C (50°F)
+- **Presión de vapor**: <0.001 mmHg a 20°C
+- **Viscosidad**: 21 cP a 25°C
+- **pH**: <1.0
+- **Solubilidad en agua**: Miscible en todas proporciones
+
+Especificaciones de Calidad
+~~~~~~~~~~~~~~~~~~~~~~~~
+
+- **Pureza mínima garantizada**: 98.0%
+- **Contenido máximo de impurezas**:
+  - Hierro (Fe): ≤50 ppm
+  - Arsénico (As): ≤0.5 ppm
+  - Cloruros (Cl⁻): ≤5 ppm
+  - Metales pesados: ≤10 ppm
+  - Materia carbonizable: Pasa prueba
+
+Clasificación y Códigos
+~~~~~~~~~~~~~~~~~~~~
+
+- **Código HS (Sistema Armonizado)**:
+  - México (TIGIE): 2807.00.01
+  - Guatemala (SAC): 2807.00.00
+  - Descripción HS: Ácido sulfúrico; óleum
+- **Códigos de identificación**:
+  - UN Number: 1830
+  - Clase de peligro DOT: 8
+  - Grupo de embalaje: II
+  - NFPA 704: Salud=3, Inflamabilidad=0, Reactividad=2, Especial=W
 
 Consideraciones Especiales
-~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~
 
-- Producto clasificado como material peligroso
-- Requiere manejo especializado
-- Sujeto a regulaciones específicas de transporte
-- Necesita documentación especial para su movimiento transfronterizo
+- Producto clasificado como material peligroso Clase 8 (Corrosivo)
+- Requiere manejo especializado según normativa IMDG/DOT
+- Sujeto a regulaciones específicas de transporte terrestre
+- Necesita documentación especial para movimiento transfronterizo
+- Requiere tanques y contenedores con especificaciones UN
 
 Estructura del Manual
----------------------
+--------------------
 
 Este manual está organizado en secciones temáticas para facilitar su
 consulta:
@@ -65,7 +103,7 @@ consulta:
 8. **Contactos y Soporte**: Directorio de contactos clave
 
 Cómo Usar este Manual
----------------------
+--------------------
 
 1. **Consulta Regular**: Use este manual como referencia continua
    durante el proceso de exportación
@@ -77,7 +115,7 @@ Cómo Usar este Manual
    contactos para asistencia
 
 Notas Importantes
------------------
+----------------
 
 - Este manual se actualiza periódicamente para reflejar cambios en
   regulaciones y procedimientos
@@ -85,3 +123,20 @@ Notas Importantes
   oficiales
 - Mantenga registros de todas las operaciones y documentación
   relacionada
+
+Historial de Cambios
+------------------
+
+.. list-table::
+   :header-rows: 1
+   :widths: 15 15 70
+
+   * - Fecha
+     - Versión
+     - Cambios
+   * - 2024-01-15
+     - 1.0
+     - Creación inicial del documento
+   * - 2024-01-15
+     - 1.1
+     - Actualización de especificaciones técnicas y códigos HS

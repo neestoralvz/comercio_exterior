@@ -8,6 +8,66 @@ Planes de Contingencia
    :description: Planes y procedimientos de contingencia para emergencias en el transporte de ácido sulfúrico
    :keywords: planes contingencia, emergencias, respuesta, protocolos, seguridad
 
+Hallazgos - planes_contingencia.rst
+==============================
+
+Fecha de verificación: 15/01/2024
+
+Protocolos de Emergencia
+--------------------
+* **Hallazgo**: Procedimientos no cubren todos los escenarios
+* **Acción**: Desarrollar protocolos adicionales
+* **Prioridad**: Alta
+* **Responsable**: Gestión de Crisis
+
+Cadena de Comunicación
+------------------
+* **Hallazgo**: Falta claridad en flujo de comunicación
+* **Acción**: Establecer protocolo de comunicación
+* **Prioridad**: Alta
+* **Responsable**: Comunicaciones
+
+Recursos de Emergencia
+------------------
+* **Hallazgo**: No se especifican recursos mínimos
+* **Acción**: Definir requisitos de recursos
+* **Prioridad**: Media
+* **Responsable**: Operaciones
+
+Coordinación Externa
+----------------
+* **Hallazgo**: Falta protocolo con autoridades
+* **Acción**: Desarrollar plan de coordinación
+* **Prioridad**: Media
+* **Responsable**: Relaciones Institucionales
+
+Acciones Inmediatas Requeridas
+---------------------------
+1. Desarrollar protocolos faltantes
+2. Establecer cadena de comunicación
+3. Definir recursos necesarios
+4. Crear plan de coordinación
+
+Consultas Necesarias
+-----------------
+* Protección Civil
+* Servicios de emergencia
+* Autoridades ambientales
+* Expertos en crisis
+
+Próximos Pasos
+------------
+1. Revisar protocolos actuales
+2. Desarrollar procedimientos
+3. Realizar simulacros
+4. Implementar mejoras
+
+Notas Adicionales
+--------------
+* Considerar escenarios extremos
+* Evaluar recursos adicionales
+* Mantener actualización continua
+
 Resumen
 =======
 
@@ -104,6 +164,6 @@ Historial de Cambios
    * - 2024-01-15
      - 1.0
      - Creación inicial del documento
-   * - 2024-01-20
+   * - 2024-01-15
      - 1.1
      - Actualización de protocolos de emergencia 

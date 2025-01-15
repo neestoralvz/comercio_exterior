@@ -8,79 +8,131 @@ Formalidades Fronterizas
    :description: Formalidades y procedimientos fronterizos para la exportación de ácido sulfúrico entre México y Guatemala
    :keywords: formalidades, frontera, aduana, inspección, documentación, exportación
 
-Resumen
-=======
+Formalidades Fronterizas 2025
+==========================
 
-Esta sección detalla las formalidades y procedimientos fronterizos necesarios para la exportación de ácido sulfúrico entre México y Guatemala, incluyendo inspecciones, documentación y trámites aduaneros.
+Esta sección detalla los procedimientos y requisitos actualizados para el cruce fronterizo de ácido sulfúrico entre México y Guatemala, incluyendo protocolos de inspección, documentación y coordinación con autoridades.
 
-Propósito
-========
+Estructura del Proceso
+===================
 
-Proporcionar una guía clara y detallada sobre los procedimientos y requisitos que deben cumplirse en la frontera para garantizar una exportación exitosa y conforme a la normativa.
+1. Pre-Llegada a Frontera
+----------------------
 
-Alcance
-======
+- Notificación anticipada
+- Verificación documental
+- Coordinación con agentes
+- Programación de inspecciones
 
-* Procedimientos de inspección fronteriza
-* Documentación requerida en frontera
-* Trámites aduaneros específicos
-* Coordinación con autoridades
-* Tiempos y costos asociados
+2. Proceso en Frontera
+------------------
+
+- Presentación ante autoridades
+- Inspecciones físicas
+- Verificaciones técnicas
+- Liberación aduanal
+
+3. Documentación Requerida
+----------------------
+
+- Permisos especiales
+- Certificados producto
+- Documentos transporte
+- Declaraciones aduanales
+
+4. Coordinación Operativa
+---------------------
+
+- Autoridades aduanales
+- Agencias reguladoras
+- Servicios de inspección
+- Transportistas autorizados
 
 Contenido Principal
 ================
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contenido:
+   :caption: Procedimientos Fronterizos:
 
    procedimientos_inspeccion
    documentacion_fronteriza
    tramites_aduaneros
    coordinacion_autoridades
 
-Aspectos Clave
-============
+Aspectos Críticos
+==============
 
-1. Inspección física de la mercancía
-2. Verificación documental completa
-3. Cumplimiento de requisitos sanitarios
-4. Coordinación con autoridades aduaneras
-5. Gestión de tiempos y recursos
+1. Inspección y Seguridad
+---------------------
+
+- Protocolos HAZMAT
+- Verificación producto
+- Control documental
+- Medidas seguridad
+
+2. Cumplimiento Regulatorio
+-----------------------
+
+- Requisitos México
+- Normativa Guatemala
+- Estándares internacionales
+- Actualizaciones 2025
+
+3. Gestión de Tiempos
+------------------
+
+- Horarios operación
+- Tiempos proceso
+- Programación cruces
+- Contingencias
+
+4. Costos Asociados
+---------------
+
+- Derechos aduanales
+- Servicios inspección
+- Maniobras especiales
+- Almacenaje temporal
+
+Recomendaciones Operativas
+=======================
+
+1. Pre-Operación
+-------------
+
+- Verificar documentación
+- Confirmar permisos
+- Programar inspecciones
+- Coordinar recursos
+
+2. Durante Operación
+----------------
+
+- Seguir protocolos
+- Mantener comunicación
+- Documentar proceso
+- Atender requerimientos
+
+3. Post-Operación
+--------------
+
+- Confirmar liberación
+- Archivar documentos
+- Evaluar proceso
+- Documentar mejoras
+
+.. note::
+   Los procedimientos y requisitos se actualizan regularmente.
+   Última actualización: 2025-01-15.
 
 .. warning::
-   El incumplimiento de las formalidades fronterizas puede resultar en retrasos significativos o rechazo de la exportación.
+   El incumplimiento de los requisitos puede resultar en
+   retrasos significativos y sanciones administrativas.
 
-Mejores Prácticas
-===============
-
-* Preparar documentación con anticipación
-* Mantener comunicación constante con autoridades
-* Verificar requisitos actualizados
-* Programar inspecciones oportunamente
-* Contar con personal capacitado
-
-Documentación Relacionada
-======================
-
-* :ref:`requisitos_legales`
-* :ref:`tramites_aduaneros`
-* :ref:`documentacion_requerida_legal`
-
-Referencias Normativas
-===================
-
-* Ley Aduanera de México
-* Ley de Aduanas de Guatemala
-* Acuerdos bilaterales México-Guatemala
-* Normativas internacionales aplicables
-
-Secciones Relacionadas
-===================
-
-* :ref:`transporte_y_logistica`
-* :ref:`requisitos_legales_y_aduaneros`
-* :ref:`normativas_y_regulaciones`
+.. important::
+   Mantener comunicación constante con autoridades y agentes
+   durante todo el proceso de cruce fronterizo.
 
 Historial de Cambios
 ==================
@@ -98,3 +150,6 @@ Historial de Cambios
    * - 2024-01-20
      - 1.1
      - Actualización de procedimientos fronterizos 
+   * - 2025-01-15
+     - 2.0
+     - Actualización de procedimientos y requisitos para 2025

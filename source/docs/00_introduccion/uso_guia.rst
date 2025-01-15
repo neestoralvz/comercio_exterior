@@ -14,10 +14,10 @@ Resumen
 Esta subsección proporciona instrucciones detalladas sobre cómo utilizar eficientemente la guía, incluyendo métodos de navegación, búsqueda y consulta de información.
 
 Descripción Detallada
-===================
+==================
 
 Navegación del Contenido
---------------------
+---------------------
 
 * Estructura jerárquica
 * Índices temáticos
@@ -28,7 +28,7 @@ Navegación del Contenido
    Utilice el índice y los marcadores para una navegación más eficiente.
 
 Métodos de Búsqueda
-----------------
+-----------------
 
 * Búsqueda por palabras clave
 * Filtros temáticos
@@ -39,7 +39,7 @@ Métodos de Búsqueda
    Verifique que está consultando la versión más reciente de la guía.
 
 Herramientas de Consulta
---------------------
+---------------------
 
 * Resaltado de texto
 * Notas al margen
@@ -104,6 +104,6 @@ Historial de Cambios
    * - 2024-01-15
      - 1.0
      - Creación inicial del documento
-   * - 2024-01-20
+   * - 2024-01-15
      - 1.1
      - Actualización de métodos de búsqueda 

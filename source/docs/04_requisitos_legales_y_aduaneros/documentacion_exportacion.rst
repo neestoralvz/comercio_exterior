@@ -1,169 +1,156 @@
-Documentación para Exportación de Ácido Sulfúrico
-=================================================
+Documentación para Exportación de Ácido Sulfúrico desde México
+========================================================
 
-1. Documentos Esenciales
+1. Documentos Comerciales
 ------------------------
 
 1.1 Factura Comercial
-~~~~~~~~~~~~~~~~~~~~~
-
-- **Finalidad**: Documento que acredita la venta internacional y declara
-  el valor de la mercancía
-- **Autoridad**: Se presenta ante el SAT y la aduana
-- **Requisitos clave**:
-
-  - Datos completos del exportador e importador
-  - Descripción detallada de la mercancía
-  - Valor unitario y total
-  - Términos de venta (Incoterm)
-  - Número de pedimento
-  - Firma del vendedor
-
-1.2 Lista de Empaque (Packing List)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-- **Finalidad**: Detalla el contenido específico del embarque
-- **Contenido requerido**:
-
-  - Cantidad exacta de producto
-  - Peso bruto y neto
-  - Dimensiones
-  - Tipo de embalaje
-  - Marcas y números de los contenedores
-
-1.3 Certificado de Origen
-~~~~~~~~~~~~~~~~~~~~~~~~~
-
-- **Finalidad**: Acredita el origen de la mercancía para beneficios
-  arancelarios
-- **Trámite**:
-
-  - Solicitud en `Ventanilla
-    Digital <https://www.ventanillaunica.gob.mx>`__
-  - Costo: Variable según cámara emisora
-  - Validez: Un año desde su emisión
-
-1.4 Hoja de Seguridad (MSDS)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-- **Finalidad**: Información detallada sobre manejo seguro del ácido
-  sulfúrico
-- **Contenido obligatorio**:
-
-  - Identificación de peligros
-  - Medidas de primeros auxilios
-  - Procedimientos ante derrames
-  - Información toxicológica
-  - Datos de transporte
-
-1.5 Ficha Técnica
-~~~~~~~~~~~~~~~~~
-
-- **Finalidad**: Especificaciones técnicas del producto
-- **Información requerida**:
-
-  - Composición química
-  - Propiedades físicas
-  - Concentración
-  - Especificaciones de calidad
-
-2. Pedimento de Exportación
----------------------------
-
-2.1 Proceso de Tramitación
-~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-1. Contratación de agente aduanal autorizado
-2. Recopilación de documentos soporte
-3. Captura electrónica en el sistema del SAT
-4. Validación y pago de contribuciones
-5. Presentación ante la aduana
-
-2.2 Campos Críticos del Pedimento
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-- Régimen aduanero (A1 para exportación definitiva)
-- Datos del exportador
-- Clasificación arancelaria
-- Valor comercial
-- País de destino
-- Cantidad y unidad de medida
-
-2. Permisos y Autorizaciones Específicas
----------------------------------------
-
-2.1 Permiso SEMARNAT
-~~~~~~~~~~~~~~~~~~~
-
-- **Finalidad**: Autorización para el manejo y transporte de materiales peligrosos
-- **Trámite**:
-  
-  - Presentar solicitud ante SEMARNAT
-  - Incluir estudio de impacto ambiental
-  - Plan de manejo de residuos peligrosos
-  - Tiempo de respuesta: 30 días hábiles
-  - Vigencia: 1 año
-
-2.2 Registro COFEPRIS
 ~~~~~~~~~~~~~~~~~~~~
 
-- **Finalidad**: Control sanitario para sustancias tóxicas
-- **Requisitos**:
+- **Propósito**: Documento principal que prueba la venta internacional
+- **Formato**: Digital o impreso en hoja membretada de la empresa
+- **Información requerida**:
 
-  - Licencia sanitaria vigente
-  - Aviso de funcionamiento
-  - Responsable sanitario
-  - Tiempo de trámite: 15 días hábiles
-  - Vigencia: Indefinida con renovación anual
+  - Número de factura y fecha
+  - Datos completos del exportador (RFC, dirección)
+  - Datos del importador (NIT, dirección)
+  - Descripción detallada del ácido sulfúrico
+  - Concentración y grado técnico (98%)
+  - Valor unitario y total en USD
+  - Incoterm acordado
+  - Forma y condiciones de pago
+  - Número de lote y fecha de producción
 
-2.3 Autorización SCT
-~~~~~~~~~~~~~~~~~~~
+- **Obtención**: Generada por el sistema contable del exportador
 
-- **Finalidad**: Permiso para transporte de materiales peligrosos
-- **Documentación requerida**:
+1.2 Lista de Empaque (Packing List)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-  - Póliza de seguro vigente
-  - Certificación de unidades de transporte
-  - Licencias especiales de conductores
-  - Tiempo de trámite: 20 días hábiles
+- **Propósito**: Detalla el contenido físico del embarque
+- **Formato**: Formato libre en hoja membretada
+- **Información requerida**:
+
+  - Número de bultos o contenedores
+  - Peso neto y bruto por unidad
+  - Dimensiones de los contenedores
+  - Marcas y números de identificación
+  - Referencias de la factura comercial
+  - Tipo de envase y material (ISO tank, contenedor especial)
+
+- **Obtención**: Generada por el área logística del exportador
+
+2. Documentos Aduaneros
+----------------------
+
+2.1 Pedimento de Exportación
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+- **Propósito**: Declaración oficial de exportación
+- **Formato**: A1 - Exportación Definitiva
+- **Información requerida**:
+
+  - Datos del exportador y agente aduanal
+  - Régimen aduanero (clave A1)
+  - Fracción arancelaria (2807.00.01)
+  - Cantidad y unidad de medida comercial
+  - Valor comercial y en aduana
+  - País de destino
+  - Identificadores especiales para material peligroso
+
+- **Obtención**: Tramitado por agente aduanal autorizado vía VUCEM
+
+2.2 Certificado de Origen
+~~~~~~~~~~~~~~~~~~~~~~~
+
+- **Propósito**: Acreditar origen para preferencias arancelarias
+- **Formato**: Formato oficial TLC México-Centroamérica
+- **Información requerida**:
+
+  - Datos del exportador e importador
+  - Descripción de mercancías
+  - Clasificación arancelaria
+  - Criterio de origen
+  - Declaración juramentada
+
+- **Obtención**: 
+  - Solicitud en Ventanilla Digital (VUCEM)
+  - Costo: Variable según cámara emisora
+  - Validez: 1 año
+
+3. Documentos Técnicos y de Seguridad
+-----------------------------------
+
+3.1 Hoja de Seguridad (MSDS)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+- **Propósito**: Información de seguridad y manejo
+- **Formato**: NOM-018-STPS-2015 / GHS
+- **Información requerida**:
+
+  - Identificación del producto
+  - Composición química
+  - Medidas de primeros auxilios
+  - Medidas contra incendios
+  - Control de derrames
+  - Manipulación y almacenamiento
+  - Propiedades físicas y químicas
+  - Información toxicológica
+  - Información de transporte
+
+- **Obtención**: Elaborada por el fabricante según NOM-018-STPS-2015
+
+3.2 Permiso SEMARNAT
+~~~~~~~~~~~~~~~~~~
+
+- **Propósito**: Autorización ambiental para exportación
+- **Formato**: SEMARNAT-07-015
+- **Información requerida**:
+
+  - Datos del exportador
+  - Características del residuo
+  - Plan de manejo
+  - Medidas de seguridad
+  - Rutas de transporte
+
+- **Obtención**:
+  - Presentación ante SEMARNAT
+  - Plazo: 10 días hábiles
+  - Costo: Según LFD vigente
+
+3.3 Autorización SCT
+~~~~~~~~~~~~~~~~~~
+
+- **Propósito**: Permiso para transporte terrestre
+- **Formato**: SCT-03-046
+- **Información requerida**:
+
+  - Datos del transportista
+  - Características del vehículo
+  - Rutas autorizadas
+  - Plan de contingencias
+  - Póliza de seguro
+
+- **Obtención**:
+  - Trámite ante SCT
   - Vigencia: 2 años
+  - Costo: Según LFD vigente
 
-3. Plazos y Autoridades
------------------------
+4. Documentos de Transporte
+-------------------------
 
-3.1 Tiempos de Proceso
-~~~~~~~~~~~~~~~~~~~~~~
+4.1 Carta Porte Internacional
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-- Certificado de Origen: 2-3 días hábiles
-- Validación de pedimento: 24-48 horas
-- Despacho aduanero: 1-2 días hábiles
+- **Propósito**: Contrato de transporte terrestre
+- **Formato**: Según convenio bilateral
+- **Información requerida**:
 
-3.2 Autoridades Involucradas
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  - Datos del transportista
+  - Descripción de la mercancía
+  - Puntos de origen y destino
+  - Valor declarado
+  - Condiciones del servicio
 
-- **SAT**: Validación fiscal y aduanera
-- **SEMARNAT**: Autorización ambiental
-- **COFEPRIS**: Certificación sanitaria
-- **SCT**: Autorización de transporte
+- **Obtención**: Emitida por el transportista autorizado
 
-4. Enlaces Útiles
------------------
-
-- `Formatos
-  SAT <https://www.sat.gob.mx/tramites/12827/presentacion-del-pedimento-de-importacion-y-exportacion>`__
-- `Ventanilla Única de Comercio
-  Exterior <https://www.ventanillaunica.gob.mx>`__
-- `Catálogo de Agentes
-  Aduanales <https://www.sat.gob.mx/aplicacion/81383/consulta-el-padron-de-agentes-aduanales>`__
-
-5. Notas Importantes
---------------------
-
-- Toda la documentación debe presentarse en español
-- Se recomienda conservar copias digitales y físicas por 5 años
-- La documentación debe ser consistente en todos los documentos
-- Verificar actualizaciones de requisitos en el portal del SAT
-
---------------
-
-*Última actualización: [Fecha actual]*
+*Última actualización: 2025-01-15*

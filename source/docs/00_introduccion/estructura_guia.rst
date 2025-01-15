@@ -14,10 +14,10 @@ Resumen
 Esta subsección detalla la estructura y organización de la guía, facilitando la navegación y comprensión del contenido para una consulta eficiente.
 
 Descripción Detallada
-===================
+==================
 
 Organización por Secciones
-----------------------
+-----------------------
 
 * Secciones principales
 * Subsecciones específicas
@@ -28,7 +28,7 @@ Organización por Secciones
    Cada sección está diseñada para ser autocontenida pero interconectada.
 
 Sistema de Referencias
-------------------
+-------------------
 
 * Referencias internas
 * Enlaces externos
@@ -39,7 +39,7 @@ Sistema de Referencias
    Verifique que los enlaces estén actualizados antes de su uso.
 
 Elementos de Apoyo
----------------
+----------------
 
 * Diagramas explicativos
 * Tablas de referencia
@@ -104,6 +104,6 @@ Historial de Cambios
    * - 2024-01-15
      - 1.0
      - Creación inicial del documento
-   * - 2024-01-20
+   * - 2024-01-15
      - 1.1
      - Actualización de estructura 

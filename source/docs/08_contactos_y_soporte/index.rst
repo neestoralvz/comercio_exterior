@@ -11,30 +11,50 @@ Contactos y Soporte
 Introducción
 ===========
 
-Esta sección proporciona información detallada sobre los contactos clave y recursos de soporte disponibles para la gestión de la exportación de ácido sulfúrico entre México y Guatemala.
+Esta sección proporciona información esencial sobre contactos, protocolos y recursos de soporte para la gestión segura y eficiente de la exportación de ácido sulfúrico entre México y Guatemala. Incluye procedimientos de emergencia, canales de comunicación y herramientas de apoyo actualizados al 2025.
 
-Propósito
-========
+Estructura del Soporte
+====================
 
-Facilitar el acceso rápido y efectivo a los contactos y recursos necesarios para la gestión de operaciones, emergencias y consultas relacionadas con la exportación de ácido sulfúrico.
+1. Sistema de Respuesta Inmediata
+------------------------------
 
-Alcance
-======
+- Centro de control 24/7
+- Protocolos de emergencia HAZMAT
+- Coordinación binacional
+- Respuesta a incidentes
 
-* Directorio de contactos clave
-* Procedimientos de comunicación
-* Protocolos de emergencia
-* Recursos de soporte
-* Canales de asistencia
+2. Red de Asistencia Técnica
+-------------------------
+
+- Soporte operativo
+- Asesoría regulatoria
+- Consultoría aduanal
+- Asistencia documental
+
+3. Recursos de Apoyo
+-----------------
+
+- Plataformas digitales
+- Documentación técnica
+- Herramientas de gestión
+- Materiales de capacitación
+
+4. Canales de Comunicación
+-----------------------
+
+- Líneas de emergencia
+- Contactos operativos
+- Medios electrónicos
+- Sistemas de notificación
 
 Contenido Principal
 ================
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contenido:
+   :caption: Secciones de Soporte:
 
-   directorio_contactos
    protocolos_emergencia
    recursos_soporte
    canales_asistencia
@@ -42,44 +62,45 @@ Contenido Principal
 Aspectos Clave
 ============
 
-1. Contactos de Emergencia
-----------------------
-* Números de emergencia
-* Protocolos de respuesta
-* Cadena de comunicación
-* Tiempos de respuesta
+1. Emergencias y Contingencias
+--------------------------
+
+- Respuesta inmediata 24/7
+- Protocolos HAZMAT
+- Coordinación con autoridades
+- Seguimiento de incidentes
 
 2. Soporte Operativo
-----------------
-* Asistencia técnica
-* Soporte logístico
-* Consultas aduaneras
-* Apoyo administrativo
+-----------------
+
+- Asistencia técnica
+- Apoyo documental
+- Gestión aduanera
+- Seguimiento logístico
 
 3. Recursos Disponibles
-------------------
-* Manuales y guías
-* Herramientas en línea
-* Capacitación
-* Documentación técnica
+-------------------
 
-Mejores Prácticas
-===============
+- Manuales y guías
+- Herramientas en línea
+- Capacitación continua
+- Asesoría especializada
 
-* Mantener información actualizada
-* Verificar disponibilidad de contactos
-* Documentar comunicaciones
-* Seguir protocolos establecidos
-* Confirmar recepción de mensajes
+4. Comunicación Efectiva
+--------------------
 
-.. important::
-   Mantener los contactos actualizados es crucial para una respuesta efectiva en situaciones de emergencia.
-
-.. warning::
-   En caso de emergencia, seguir estrictamente los protocolos de comunicación establecidos.
+- Canales prioritarios
+- Escalamiento de casos
+- Seguimiento de solicitudes
+- Retroalimentación
 
 .. note::
-   Los tiempos de respuesta pueden variar según la naturaleza de la consulta o emergencia.
+   Esta sección se actualiza regularmente para mantener la información
+   vigente y relevante. Última actualización: 2025-01-15.
+
+.. warning::
+   En caso de emergencia, siempre seguir los protocolos establecidos y
+   contactar inmediatamente a los números de emergencia designados.
 
 Documentos Relacionados
 ====================
@@ -119,4 +140,7 @@ Historial de Cambios
      - Creación inicial del documento
    * - 2024-01-20
      - 1.1
-     - Actualización de contactos y protocolos 
+     - Actualización de contactos y protocolos
+   * - 2025-01-15
+     - 2.0
+     - Actualización de la estructura del soporte y recursos disponibles

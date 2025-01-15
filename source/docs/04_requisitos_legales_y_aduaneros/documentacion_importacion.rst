@@ -1,189 +1,188 @@
 Documentación para Importación de Ácido Sulfúrico en Guatemala
 ==============================================================
 
-1. Documento Único Aduanero (DUA)
+1. Documentos Aduaneros Principales
 ---------------------------------
 
-1.1 Proceso de Llenado del DUA
+1.1 Declaración Única Aduanera (DUA)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+- **Propósito**: Declaración oficial de importación
+- **Formato**: Electrónico vía sistema SAQB'E
+- **Información requerida**:
+
+  - NIT y datos completos del importador
+  - Régimen de importación
+  - Partida arancelaria: 2807.00.00
+  - Valor CIF declarado
+  - País de origen y procedencia
+  - Tipo de cambio aplicable
+  - Documentos de soporte digitalizados
+
+- **Obtención**: 
+  - Transmisión electrónica vía agente aduanero
+  - Pago previo de impuestos
+  - Plazo de procesamiento: 24-48 horas
+
+1.2 Factura Comercial Legalizada
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-1. **Datos del Importador**
+- **Propósito**: Comprobante de compra internacional
+- **Formato**: Original con apostilla o legalización consular
+- **Información requerida**:
 
-   - NIT del importador
-   - Razón social
-   - Dirección fiscal
-   - Registro de importador activo
+  - Datos completos de comprador y vendedor
+  - Descripción detallada del producto
+  - Valor unitario y total
+  - Términos de entrega (Incoterm)
+  - País de origen
 
-2. **Información de la Mercancía**
+- **Obtención**: 
+  - Legalización en consulado de Guatemala en México
+  - Tiempo: 2-3 días hábiles
+  - Costo: Según arancel consular
 
-   - Clasificación arancelaria: 2807.00.10.00
-   - Descripción comercial detallada
-   - Valor CIF (Cost, Insurance, and Freight)
-   - País de origen y procedencia
+2. Permisos y Licencias Especiales
+--------------------------------
 
-3. **Documentos de Soporte**
+2.1 Licencia de Importación de Sustancias Químicas
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-   - Factura comercial
-   - Documento de transporte (BL, AWB o carta porte)
-   - Licencias o permisos especiales
-   - Certificado de origen (si aplica)
+- **Propósito**: Control de importación de sustancias peligrosas
+- **Formato**: DGAM-04
+- **Información requerida**:
 
-1.2 Presentación y Validación
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  - Datos del importador
+  - Descripción técnica del producto
+  - Uso previsto
+  - Cantidad a importar
+  - Almacén autorizado
 
-- Transmisión electrónica vía SAQB’E
-- Pago de aranceles e impuestos
-- Asignación de selectivo
+- **Obtención**:
+  - Solicitud ante DGAM (Dirección General de Armamento)
+  - Plazo: 15 días hábiles
+  - Vigencia: 30 días por embarque
+  - Costo: Q.2,500
 
-2. Requisitos Sanitarios y Permisos
------------------------------------
-
-2.1 Ministerio de Ambiente y Recursos Naturales (MARN)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-- **Licencia Ambiental**
-
-  - Formulario MARN-IA-001
-  - Estudio de Impacto Ambiental
-  - Plazo de obtención: 30-45 días hábiles
-  - Costo aproximado: Q.25,000 - Q.35,000
-
-2.2 Ministerio de Salud Pública (MSPAS)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-- **Licencia Sanitaria de Importación**
-
-  - Formulario DRCA-004
-  - Certificado de libre venta del país de origen
-  - Hoja de seguridad en español
-  - Plazo: 15-20 días hábiles
-  - Costo: Q.1,500
-
-2.3 Superintendencia de Administración Tributaria (SAT)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-- **Registro de Importador de Sustancias Controladas**
-
-  - Formulario SAT-DIA-PR-028
-  - Patente de comercio
-  - RTU actualizado
-  - Plazo: 10 días hábiles
-  - Vigencia: 1 año
-
-2.3 Permisos Especiales
-~~~~~~~~~~~~~~~~~~~~~~~
-
-- **Licencia de Importación de Sustancias Químicas**
-
-  - Emitida por la Dirección General de Control de Armas y Municiones
-  - Renovación anual
-  - Costo: Q.5,000
-
-3. Requisitos Específicos para Ácido Sulfúrico
---------------------------------------------
-
-3.1 Documentación Técnica
-~~~~~~~~~~~~~~~~~~~~~~~
-
-- **Certificado de Análisis** que incluya:
-
-  - Concentración exacta (98%)
-  - Pureza
-  - Densidad
-  - pH
-  - Contenido de metales pesados
-
-- **Ficha de Datos de Seguridad** actualizada según NOM-018-STPS-2015
-
-3.2 Requisitos de Etiquetado
-~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-- Etiquetas en español
-- Pictogramas de peligro según GHS
-- Información del importador
-- Número de lote y fecha de producción
-- Instrucciones de emergencia
-
-3. Procedimientos de Inspección
--------------------------------
-
-3.1 Inspección Física
-~~~~~~~~~~~~~~~~~~~~~
-
-- **Selectivo Rojo**
-
-  - Revisión documental completa
-  - Inspección física de la mercancía
-  - Verificación de etiquetado y embalaje
-  - Tiempo estimado: 1-2 días hábiles
-
-3.2 Control de Calidad
-~~~~~~~~~~~~~~~~~~~~~~
-
-- Toma de muestras (si aplica)
-- Análisis de laboratorio
-- Verificación de concentración
-- Cumplimiento de normas técnicas
-
-4. Proceso de Importación en Frontera
-----------------------------------
-
-4.1 Inspección Física
-~~~~~~~~~~~~~~~~~~~
-
-- Verificación de:
-
-  - Integridad de contenedores
-  - Etiquetado correcto
-  - Documentación completa
-  - Condiciones de transporte
-
-4.2 Liberación Aduanera
-~~~~~~~~~~~~~~~~~~~~~
-
-- Tiempo estimado: 24-48 horas
-- Requisitos:
-
-  - DUA pagado
-  - Permisos vigentes
-  - Inspección aprobada
-  - Pago de impuestos
-
-4. Costos y Plazos
-------------------
-
-4.1 Aranceles y Tributos
-~~~~~~~~~~~~~~~~~~~~~~~~
-
-- DAI (Derecho Arancelario a la Importación): 0%
-- IVA: 12%
-- Tasa por servicios aduaneros: Q.100
-
-4.2 Plazos Estimados
-~~~~~~~~~~~~~~~~~~~~
-
-- Tramitación del DUA: 1-2 días
-- Liberación en puerto: 2-3 días
-- Obtención de permisos previos: 30-45 días
-
-5. Requisitos de Almacenamiento
--------------------------------
-
-5.1 Instalaciones
-~~~~~~~~~~~~~~~~~
-
-- Área específica para productos corrosivos
-- Sistema de ventilación adecuado
-- Piso impermeable y resistente a ácidos
-- Señalización de seguridad
-
-5.2 Documentación in situ
+2.2 Licencia Ambiental MARN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
-- Hojas de seguridad (MSDS)
-- Procedimientos de emergencia
-- Registros de inventario
-- Plan de contingencia
+- **Propósito**: Autorización ambiental para manejo
+- **Formato**: MARN-IA-001
+- **Información requerida**:
+
+  - Estudio de impacto ambiental
+  - Plan de contingencia
+  - Medidas de mitigación
+  - Descripción de instalaciones
+
+- **Obtención**:
+  - Presentación ante MARN
+  - Plazo: 30-45 días hábiles
+  - Vigencia: 1 año
+  - Costo: Q.25,000 - Q.35,000
+
+2.3 Licencia Sanitaria MSPAS
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
+- **Propósito**: Control sanitario de sustancias químicas
+- **Formato**: DRCA-004
+- **Información requerida**:
+
+  - Certificado de libre venta
+  - Hoja de seguridad en español
+  - Especificaciones técnicas
+  - Plan de control de riesgos
+
+- **Obtención**:
+  - Trámite ante Ministerio de Salud
+  - Plazo: 15-20 días hábiles
+  - Vigencia: 1 año
+  - Costo: Q.1,500
+
+3. Documentación Técnica Requerida
+--------------------------------
+
+3.1 Certificado de Análisis
+~~~~~~~~~~~~~~~~~~~~~~~~
+
+- **Propósito**: Garantía de especificaciones técnicas
+- **Formato**: Original del fabricante
+- **Información requerida**:
+
+  - Concentración (98%)
+  - Densidad específica
+  - Pureza
+  - Contenido de metales pesados
+  - Fecha de análisis
+  - Número de lote
+
+- **Obtención**: Emitido por laboratorio del fabricante
+
+3.2 Hoja de Seguridad (MSDS)
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
+- **Propósito**: Información de seguridad y manejo
+- **Formato**: Sistema Globalmente Armonizado (GHS)
+- **Información requerida**:
+
+  - Identificación de peligros
+  - Medidas de emergencia
+  - Manipulación segura
+  - Información toxicológica
+  - Requisitos de transporte
+
+- **Obtención**: Proporcionada por el fabricante
+
+4. Documentos de Transporte
+-------------------------
+
+4.1 Carta Porte Internacional
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
+- **Propósito**: Contrato de transporte terrestre
+- **Formato**: Según convenio bilateral México-Guatemala
+- **Información requerida**:
+
+  - Datos del transportista autorizado
+  - Descripción de la mercancía
+  - Ruta autorizada
+  - Valor declarado
+  - Condiciones del servicio
+
+- **Obtención**: Emitida por transportista autorizado
+
+4.2 Manifiesto de Carga
+~~~~~~~~~~~~~~~~~~~~
+
+- **Propósito**: Control de carga en fronteras
+- **Formato**: Formato estándar regional
+- **Información requerida**:
+
+  - Lista de mercancías
+  - Peso y cantidad
+  - Consignatario
+  - Números de precintos
+  - Ruta declarada
+
+- **Obtención**: Generado por el transportista
+
+5. Requisitos Adicionales
+-----------------------
+
+5.1 Seguro de Carga
+~~~~~~~~~~~~~~~~
+
+- **Propósito**: Cobertura de riesgos en tránsito
+- **Formato**: Póliza de seguro
+- **Información requerida**:
+
+  - Valor asegurado
+  - Cobertura de riesgos
+  - Beneficiarios
+  - Condiciones especiales para materiales peligrosos
+
+- **Obtención**: Contratado con aseguradora guatemalteca autorizada
 
 6. Enlaces Importantes
 ----------------------
@@ -203,4 +202,4 @@ Documentación para Importación de Ácido Sulfúrico en Guatemala
 
 --------------
 
-*Última actualización: [Fecha actual]*
+*Última actualización: 2025-01-15*

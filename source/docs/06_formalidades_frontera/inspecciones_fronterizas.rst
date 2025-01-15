@@ -8,6 +8,66 @@ Inspecciones Fronterizas
    :description: Procedimientos de inspección fronteriza para el transporte de ácido sulfúrico entre México y Guatemala
    :keywords: inspecciones fronterizas, control aduanero, verificación, seguridad, revisión documental
 
+Hallazgos - inspecciones_fronterizas.rst
+====================================
+
+Fecha de verificación: 15/01/2024
+
+Tipos de Inspección
+---------------
+* **Hallazgo**: No se detallan procedimientos específicos por tipo
+* **Acción**: Desarrollar protocolos detallados por tipo de inspección
+* **Prioridad**: Alta
+* **Responsable**: Control Aduanal
+
+Requisitos Documentales
+-------------------
+* **Hallazgo**: Lista de documentos incompleta
+* **Acción**: Actualizar requisitos documentales
+* **Prioridad**: Alta
+* **Responsable**: Control Documental
+
+Tiempos de Proceso
+---------------
+* **Hallazgo**: No hay estimaciones de tiempo por tipo de inspección
+* **Acción**: Establecer tiempos estándar
+* **Prioridad**: Media
+* **Responsable**: Operaciones
+
+Coordinación de Inspecciones
+------------------------
+* **Hallazgo**: Falta protocolo de coordinación entre autoridades
+* **Acción**: Desarrollar procedimiento de coordinación
+* **Prioridad**: Media
+* **Responsable**: Relaciones Institucionales
+
+Acciones Inmediatas Requeridas
+---------------------------
+1. Desarrollar protocolos específicos
+2. Actualizar lista de documentos
+3. Establecer tiempos estándar
+4. Crear procedimiento de coordinación
+
+Consultas Necesarias
+-----------------
+* Autoridades aduanales
+* Agentes aduanales
+* Personal operativo
+* Autoridades sanitarias
+
+Próximos Pasos
+------------
+1. Contactar autoridades
+2. Desarrollar procedimientos
+3. Crear formatos estándar
+4. Implementar sistema de control
+
+Notas Adicionales
+--------------
+* Considerar inspecciones conjuntas
+* Evaluar uso de tecnología
+* Mantener registros detallados
+
 Resumen
 =======
 
@@ -104,6 +164,6 @@ Historial de Cambios
    * - 2024-01-15
      - 1.0
      - Creación inicial del documento
-   * - 2024-01-20
+   * - 2024-01-15
      - 1.1
      - Actualización de protocolos de inspección 

@@ -19,68 +19,147 @@ Descripción Detallada
 Legislación Mexicana
 ----------------
 
-* Ley Aduanera
-* Ley de Comercio Exterior
-* Ley General del Equilibrio Ecológico
-* Reglamentos aplicables
-
-.. important::
-   El cumplimiento de la legislación mexicana es obligatorio para todas las operaciones de exportación.
+* **Ley Aduanera**:
+  - Artículos 35, 36, 36-A (Despacho aduanero)
+  - Artículos 144, 145 (Facultades de autoridad)
+  - Reglas Generales de Comercio Exterior
+  - Anexos específicos para químicos
+* **Ley de Comercio Exterior**:
+  - Capítulo II: Facultades del Ejecutivo Federal
+  - Capítulo III: Origen de las Mercancías
+  - Artículos sobre medidas de regulación
+  - Disposiciones sobre permisos previos
+* **Ley General del Equilibrio Ecológico**:
+  - Título IV: Protección al Ambiente
+  - Capítulo sobre materiales peligrosos
+  - Regulaciones sobre impacto ambiental
+  - Normas de prevención
+* **Reglamento para el Transporte de Materiales**:
+  - Clasificación de materiales
+  - Requisitos de unidades
+  - Documentación necesaria
+  - Procedimientos de emergencia
 
 Legislación Guatemalteca
 -------------------
 
-* Ley de Aduanas
-* Código de Comercio
-* Ley de Protección Ambiental
-* Regulaciones específicas
+* **Ley Nacional de Aduanas**:
+  - Decreto 14-2013
+  - Procedimientos de importación
+  - Requisitos documentales
+  - Regímenes aduaneros
+* **Código Aduanero Uniforme Centroamericano**:
+  - CAUCA IV
+  - RECAUCA IV
+  - Procedimientos armonizados
+  - Requisitos regionales
+* **Ley de Protección y Mejoramiento del Ambiente**:
+  - Decreto 68-86
+  - Evaluación de impacto ambiental
+  - Control de sustancias peligrosas
+  - Medidas de protección
 
-.. warning::
-   Las infracciones a la legislación pueden resultar en sanciones severas y suspensión de operaciones.
+Acuerdos Comerciales
+----------------
 
-Acuerdos Internacionales
--------------------
+* **Tratado de Libre Comercio México-Centroamérica**:
+  - Capítulo sobre mercancías peligrosas
+  - Procedimientos aduaneros
+  - Certificación de origen
+  - Solución de controversias
+* **Acuerdo de Complementación Económica**:
+  - Preferencias arancelarias
+  - Normas de origen
+  - Procedimientos aduaneros
+  - Facilitación del comercio
 
-* Tratados comerciales
-* Convenios ambientales
-* Acuerdos bilaterales
-* Protocolos de seguridad
+Convenios Internacionales
+---------------------
 
-.. note::
-   Los acuerdos internacionales pueden modificar o complementar la legislación nacional.
+* **Convenio de Basilea**:
+  - Control de movimientos transfronterizos
+  - Manejo de residuos peligrosos
+  - Requisitos de notificación
+  - Procedimientos de consentimiento
+* **Sistema Globalmente Armonizado**:
+  - Clasificación de sustancias
+  - Etiquetado y marcado
+  - Fichas de seguridad
+  - Comunicación de peligros
+* **Convenio de Rotterdam**:
+  - Consentimiento fundamentado previo
+  - Lista de sustancias controladas
+  - Procedimientos de notificación
+  - Intercambio de información
 
-Requisitos Previos
-================
+Requisitos de Cumplimiento
+----------------------
 
-1. Conocimiento legal básico
-2. Asesoría jurídica
-3. Registros y permisos
-4. Documentación vigente
+1. **Autorizaciones Previas**:
+   * Permisos de exportación/importación
+   * Licencias ambientales
+   * Certificados de origen
+   * Dictámenes técnicos
+
+2. **Documentación Legal**:
+   * Poderes notariales
+   * Registros comerciales
+   * Pólizas de seguro
+   * Garantías financieras
+
+3. **Registros y Certificaciones**:
+   * Registro como exportador
+   * Certificación de instalaciones
+   * Registro de productos químicos
+   * Autorizaciones de transporte
+
+Procedimientos Legales
+------------------
+
+1. **Trámites Aduaneros**:
+   * Presentación de documentos
+   * Inspecciones físicas
+   * Liberación de mercancías
+   * Pago de aranceles
+
+2. **Gestiones Ambientales**:
+   * Estudios de impacto
+   * Planes de contingencia
+   * Monitoreo ambiental
+   * Reportes periódicos
+
+3. **Procesos de Verificación**:
+   * Auditorías de cumplimiento
+   * Inspecciones regulares
+   * Revisiones documentales
+   * Evaluaciones técnicas
 
 Ejemplos Prácticos
 ================
 
 .. code-block:: text
 
-   # Jerarquía Legal
+   # Matriz de Cumplimiento Legal
    
-   1. Constitución:
-      □ Artículos aplicables
-      □ Interpretaciones
-      □ Jurisprudencia
+   1. Requisitos Aduaneros:
+      □ Pedimento de exportación: A1
+      □ Certificado de origen: EUR.1
+      □ Permiso SEMARNAT: SGPA-03-021
+      □ Hoja de seguridad: GHS Rev.8
    
-   2. Leyes Secundarias:
-      □ Leyes federales
-      □ Reglamentos
-      □ Normas oficiales
+   2. Autorizaciones Ambientales:
+      □ Licencia ambiental: LA-2024-001
+      □ Estudio de impacto: EIA-2024-023
+      □ Plan de contingencia: PC-2024-045
+      □ Registro de emisiones: RE-2024-067
 
 Consideraciones Especiales
 =======================
 
-* Jurisdicción aplicable
-* Resolución de conflictos
-* Actualizaciones legales
-* Casos especiales
+* Actualizaciones regulatorias periódicas
+* Jurisdicción aplicable en controversias
+* Mecanismos de solución de disputas
+* Responsabilidad legal y seguros
 
 Documentación Relacionada
 ======================
@@ -102,6 +181,6 @@ Historial de Cambios
    * - 2024-01-15
      - 1.0
      - Creación inicial del documento
-   * - 2024-01-20
+   * - 2024-01-15
      - 1.1
-     - Actualización de marco legal aplicable 
+     - Actualización detallada del marco legal y requisitos de cumplimiento 

@@ -16,73 +16,124 @@ Esta subsección detalla los documentos financieros necesarios para las operacio
 Descripción Detallada
 ===================
 
-Documentos Principales
+Documentos Comerciales
 ------------------
 
-* Facturas comerciales
-* Comprobantes de pago
-* Estados de cuenta
-* Registros contables
-
-.. important::
-   Toda la documentación debe conservarse por el período establecido en las leyes fiscales.
+* **Facturas de Exportación**:
+  - Factura comercial internacional
+  - Factura proforma
+  - Nota de crédito/débito
+  - Lista de empaque
+* **Documentos Bancarios**:
+  - Swift de pago
+  - Carta de crédito
+  - Aviso de cobranza
+  - Comprobantes de transferencia
+* **Documentos Aduaneros**:
+  - Pedimento de exportación
+  - Certificado de origen
+  - Declaración de valor
+  - Documentos de transporte
 
 Registros Contables
 ---------------
 
-* Libro diario
-* Libro mayor
-* Balances
-* Reportes financieros
+* **Libros Contables**:
+  - Libro diario de exportaciones
+  - Libro mayor de clientes
+  - Registro de operaciones en divisas
+  - Control de cartera internacional
+* **Estados Financieros**:
+  - Balance general
+  - Estado de resultados
+  - Flujo de efectivo
+  - Notas a los estados financieros
+* **Reportes Específicos**:
+  - Análisis de cuentas por cobrar
+  - Reporte de antigüedad de saldos
+  - Control de créditos documentarios
+  - Conciliaciones bancarias
 
-.. warning::
-   La falta de documentación adecuada puede resultar en sanciones fiscales.
+Sistema de Archivo
+--------------
 
-Control y Archivo
--------------
+* **Archivo Físico**:
+  - Clasificación por tipo de documento
+  - Orden cronológico
+  - Expedientes por cliente
+  - Documentos originales críticos
+* **Archivo Digital**:
+  - Escaneo de documentos
+  - Respaldo en la nube
+  - Control de versiones
+  - Firma electrónica avanzada
+* **Control de Acceso**:
+  - Niveles de autorización
+  - Registro de consultas
+  - Protección de datos
+  - Trazabilidad de cambios
 
-* Sistema de archivo
-* Respaldo digital
-* Control de acceso
-* Período de retención
+Requisitos de Conservación
+----------------------
 
-.. note::
-   Se recomienda mantener un sistema de archivo digital con respaldo en la nube.
+* **Períodos de Retención**:
+  - Documentos fiscales: 5 años
+  - Registros contables: 10 años
+  - Contratos comerciales: vigencia + 5 años
+  - Documentos aduaneros: 5 años
+* **Formato de Conservación**:
+  - Original papel (documentos legales)
+  - Digital certificado
+  - Microfilm (opcional)
+  - Respaldo redundante
 
 Requisitos Previos
 ================
 
-1. Sistema contable actualizado
-2. Personal capacitado
-3. Políticas de archivo
-4. Infraestructura tecnológica
+1. **Infraestructura Tecnológica**:
+   * Sistema contable certificado
+   * Escáner de alta resolución
+   * Almacenamiento seguro
+   * Conexión a internet dedicada
+
+2. **Personal Calificado**:
+   * Contador certificado
+   * Especialista en comercio exterior
+   * Administrador de documentos
+   * Auditor interno
+
+3. **Políticas y Procedimientos**:
+   * Manual de gestión documental
+   * Política de respaldos
+   * Procedimientos de archivo
+   * Control de calidad
 
 Ejemplos Prácticos
 ================
 
 .. code-block:: text
 
-   # Sistema de Archivo
+   # Sistema de Gestión Documental
    
-   1. Documentos Comerciales:
-      □ Facturas
-      □ Pagos
-      □ Contratos
-      □ Correspondencia
+   1. Documentación de Exportación:
+      □ Factura comercial: FAC-EXP-2024-001
+      □ Pedimento: 24-001-3000001
+      □ Certificado: CERT-MX-GT-001
+      □ Carta de crédito: LC-2024-001
    
-   2. Registros Contables:
-      □ Diario
-      □ Mayor
-      □ Balances
-      □ Reportes
+   2. Control de Archivos:
+      □ Expediente físico: EXP-2024-001
+      □ Archivo digital: D:/EXP/2024/001
+      □ Respaldo: CLOUD/EXP/2024/001
+      □ Registro: REG-DOC-2024-001
 
 Consideraciones Especiales
 =======================
 
-* Requisitos legales
-* Auditorías externas
-* Confidencialidad
-* Respaldo de información
+* Cumplimiento de normas fiscales internacionales
+* Requerimientos de auditoría externa
+* Protección de datos personales
+* Certificación de documentos digitales
 
 Documentación Relacionada
 ======================
@@ -104,6 +155,6 @@ Historial de Cambios
    * - 2024-01-15
      - 1.0
      - Creación inicial del documento
-   * - 2024-01-20
+   * - 2024-01-15
      - 1.1
-     - Actualización de requisitos de documentación 
+     - Actualización detallada de requisitos documentales y sistemas de archivo 

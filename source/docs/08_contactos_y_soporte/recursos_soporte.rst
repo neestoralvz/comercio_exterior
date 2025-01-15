@@ -8,206 +8,201 @@ Recursos Soporte
    :description: Recursos y herramientas de soporte disponibles para la exportación de ácido sulfúrico
    :keywords: recursos, soporte, herramientas, asistencia, ayuda, documentación
 
-Resumen
-=======
-
-Esta subsección detalla los recursos y herramientas de soporte disponibles para facilitar el proceso de exportación de ácido sulfúrico, incluyendo documentación, sistemas y servicios de asistencia.
-
-Descripción Detallada
-===================
-
-Documentación Técnica
------------------
-
-* Manuales operativos
-* Guías de procedimientos
-* Fichas técnicas
-* Normativas aplicables
-
-.. important::
-   Mantener la documentación actualizada y accesible para todo el personal involucrado.
-
-Sistemas de Soporte
----------------
-
-* Plataformas en línea
-* Herramientas de gestión
-* Sistemas de seguimiento
-* Bases de datos
-
-.. warning::
-   Verificar accesos y permisos antes de utilizar los sistemas.
-
-Servicios de Asistencia
--------------------
-
-* Soporte técnico
-* Asesoría legal
-* Consultoría aduanera
-* Capacitación
-
-.. note::
-   Los servicios están disponibles en horarios específicos según el tipo de asistencia.
-
-Recursos Disponibles por Categoría
---------------------------------
-
-1. Documentación Técnica
-~~~~~~~~~~~~~~~~~~~~~~
-
-- **Manuales Operativos**:
-  
-  - Manual de operación HAZMAT
-  - Procedimientos de carga/descarga
-  - Protocolos de emergencia
-  - Guías de documentación
-
-- **Ubicación**:
-  
-  - Portal: https://docs.empresa.com
-  - Carpeta física: Oficina central
-  - Unidades de transporte
-  - App móvil offline
-
-2. Plataformas Digitales
-~~~~~~~~~~~~~~~~~~~~~~
-
-- **Sistema de Gestión de Exportaciones**:
-  
-  - URL: https://sge.empresa.com
-  - Acceso: Usuario corporativo
-  - Soporte: +52 (55) 5123-4570
-  - Funciones principales:
-    * Generación de documentos
-    * Seguimiento de embarques
-    * Gestión de incidencias
-    * Reportes operativos
-
-- **Portal Aduanal**:
-  
-  - URL: https://aduanas.empresa.com
-  - Acceso: Certificado FIEL
-  - Soporte: +52 (55) 5123-4571
-  - Funciones principales:
-    * Pedimentos electrónicos
-    * Consulta de regulaciones
-    * Validación documental
-    * Pagos en línea
-
-3. Herramientas de Seguimiento
-~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-- **GPS y Monitoreo**:
-  
-  - Sistema: TrackForce Pro
-  - Cobertura: México y Guatemala
-  - Actualización: Tiempo real
-  - Funciones:
-    * Ubicación de unidades
-    * Alertas de desvío
-    * Tiempos de recorrido
-    * Geocercas
-
-- **App Móvil**:
-  
-  - Nombre: LogiTrack
-  - Plataformas: iOS/Android
-  - Modo offline disponible
-  - Funciones:
-    * Documentación digital
-    * Reportes de incidentes
-    * Comunicación directa
-    * Checklist operativo
-
-4. Capacitación y Recursos Humanos
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-- **Programa de Entrenamiento**:
-  
-  - Cursos presenciales
-  - Módulos en línea
-  - Certificaciones
-  - Evaluaciones periódicas
-
-- **Temas Principales**:
-  
-  - Manejo de materiales peligrosos
-  - Documentación aduanal
-  - Protocolos de emergencia
-  - Normativa internacional
-
-5. Recursos de Consulta
-~~~~~~~~~~~~~~~~~~~~
-
-- **Biblioteca Digital**:
-  
-  - Normativas actualizadas
-  - Casos de estudio
-  - Mejores prácticas
-  - Templates documentales
-
-- **Base de Conocimiento**:
-  
-  - FAQ operativo
-  - Resolución de problemas
-  - Lecciones aprendidas
-  - Actualizaciones regulatorias
-
-Requisitos Previos
-================
-
-1. Credenciales de acceso
-2. Capacitación básica
-3. Equipo necesario
-4. Conexión a internet
-
-Ejemplos Prácticos
-================
-
-.. code-block:: text
-
-   # Acceso a Recursos
-   
-   1. Documentación:
-      □ Consultar manual
-      □ Verificar versión
-      □ Descargar guías
-      □ Revisar actualizaciones
-   
-   2. Sistemas:
-      □ Iniciar sesión
-      □ Seleccionar módulo
-      □ Realizar operación
-      □ Guardar registros
-
-Consideraciones Especiales
-=======================
-
-* Disponibilidad de recursos
-* Restricciones de acceso
-* Mantenimiento programado
-* Actualizaciones del sistema
-
-Documentación Relacionada
+Recursos de Soporte 2025
 ======================
 
-* :ref:`directorio_contactos`
-* :ref:`protocolos_emergencia`
-* :ref:`canales_asistencia`
+Esta sección detalla los recursos y herramientas actualizados disponibles para la gestión eficiente de la exportación de ácido sulfúrico entre México y Guatemala.
 
-Historial de Cambios
-==================
+Plataformas Digitales
+------------------
+
+1. Portal de Gestión Aduanera
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+- **URL**: https://portal.comercioexterior.mx
+- **Acceso**: Credenciales corporativas
+- **Funciones**:
+  - Seguimiento de embarques
+  - Gestión documental
+  - Reportes operativos
+  - Alertas en tiempo real
+
+2. Sistema de Trazabilidad HAZMAT
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+- **URL**: https://hazmat.tracking.com
+- **Acceso**: 2FA requerido
+- **Funciones**:
+  - Monitoreo GPS
+  - Control de temperatura
+  - Sensores de presión
+  - Alertas automáticas
+
+Documentación Técnica
+------------------
+
+1. Manuales Operativos
+~~~~~~~~~~~~~~~~~~~
 
 .. list-table::
    :header-rows: 1
-   :widths: 15 15 70
+   :widths: 40 30 30
 
-   * - Fecha
+   * - Manual
      - Versión
-     - Cambios
-   * - 2024-01-15
-     - 1.0
-     - Creación inicial del documento
-   * - 2024-01-20
-     - 1.1
-     - Actualización de recursos disponibles
+     - Última Actualización
+   * - Procedimientos HAZMAT
+     - 3.2
+     - 2025-01-15
+   * - Protocolos Emergencia
+     - 2.1
+     - 2025-01-10
+   * - Guía Documentación
+     - 1.8
+     - 2024-12-20
+
+2. Fichas Técnicas
+~~~~~~~~~~~~~~~
+
+- Especificaciones producto
+- Hojas de seguridad
+- Certificados análisis
+- Fichas emergencia
+
+3. Normativa Aplicable
+~~~~~~~~~~~~~~~~~~
+
+- Regulaciones México
+- Normativa Guatemala
+- Estándares internacionales
+- Actualizaciones 2025
+
+Herramientas de Gestión
+--------------------
+
+1. Software Especializado
+~~~~~~~~~~~~~~~~~~~~~
+
+.. list-table::
+   :header-rows: 1
+   :widths: 30 40 30
+
+   * - Herramienta
+     - Función
+     - Disponibilidad
+   * - SAP Logistics
+     - Gestión operativa
+     - 24/7
+   * - HAZMAT Track
+     - Monitoreo
+     - 24/7
+   * - DocManager
+     - Documentación
+     - Horario laboral
+
+2. Apps Móviles
+~~~~~~~~~~~~
+
+- **SafeHAZMAT**
+  - Consulta rápida
+  - Protocolos emergencia
+  - Contactos clave
+  - Offline disponible
+
+- **TrackChem**
+  - Seguimiento real
+  - Alertas push
+  - Reportes rápidos
+  - Sincronización automática
+
+Servicios de Soporte
+-----------------
+
+1. Soporte Técnico
+~~~~~~~~~~~~~~~
+
+.. list-table::
+   :header-rows: 1
+   :widths: 30 35 35
+
+   * - Nivel
+     - Horario
+     - Tiempo Respuesta
+   * - Nivel 1
+     - 24/7
+     - 15 minutos
+   * - Nivel 2
+     - Lun-Vie 8-18h
+     - 2 horas
+   * - Nivel 3
+     - Bajo demanda
+     - 24 horas
+
+2. Asesoría Especializada
+~~~~~~~~~~~~~~~~~~~~~
+
+- **Legal**:
+  - Normativa química
+  - Regulaciones transporte
+  - Permisos especiales
+  - Contratos
+
+- **Técnica**:
+  - Manejo producto
+  - Equipos seguridad
+  - Procedimientos
+  - Certificaciones
+
+Capacitación y Desarrollo
+----------------------
+
+1. Programas Disponibles
+~~~~~~~~~~~~~~~~~~~~
+
+.. list-table::
+   :header-rows: 1
+   :widths: 40 30 30
+
+   * - Curso
+     - Duración
+     - Frecuencia
+   * - HAZMAT Básico
+     - 8 horas
+     - Mensual
+   * - Emergencias Avanzado
+     - 16 horas
+     - Trimestral
+   * - Actualización Normativa
+     - 4 horas
+     - Semestral
+
+2. Recursos E-Learning
+~~~~~~~~~~~~~~~~~~
+
+- Módulos interactivos
+- Videos tutoriales
+- Evaluaciones en línea
+- Certificaciones digitales
+
+Mantenimiento y Actualización
+--------------------------
+
+1. **Documentación**:
+   - Revisión mensual
+   - Actualización trimestral
+   - Validación legal
+   - Control versiones
+
+2. **Sistemas**:
+   - Mantenimiento semanal
+   - Actualizaciones programadas
+   - Respaldos diarios
+   - Pruebas seguridad
+
+.. note::
+   Todos los recursos se actualizan regularmente para mantener
+   su vigencia y utilidad. Última revisión: 2025-01-15.
+
+.. warning::
+   El acceso a ciertos recursos requiere autenticación y
+   autorización previa. Contactar al administrador del sistema.

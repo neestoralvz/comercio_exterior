@@ -8,6 +8,66 @@ Directorio Contactos
    :description: Directorio completo de contactos para la exportación de ácido sulfúrico entre México y Guatemala
    :keywords: directorio, contactos, teléfonos, correos, emergencias, soporte
 
+Hallazgos - directorio_contactos.rst
+================================
+
+Fecha de verificación: 15/01/2024
+
+Información de Contacto
+-------------------
+* **Hallazgo**: Datos de contacto incompletos o desactualizados
+* **Acción**: Verificar y actualizar información
+* **Prioridad**: Alta
+* **Responsable**: Administración
+
+Categorización de Contactos
+-----------------------
+* **Hallazgo**: Falta estructura clara por tipo de contacto
+* **Acción**: Reorganizar directorio por categorías
+* **Prioridad**: Media
+* **Responsable**: Control Documental
+
+Contactos de Emergencia
+-------------------
+* **Hallazgo**: No se especifican tiempos de respuesta
+* **Acción**: Agregar información de disponibilidad
+* **Prioridad**: Alta
+* **Responsable**: Seguridad
+
+Sistema de Actualización
+--------------------
+* **Hallazgo**: No existe proceso de actualización periódica
+* **Acción**: Implementar sistema de verificación
+* **Prioridad**: Media
+* **Responsable**: Administración
+
+Acciones Inmediatas Requeridas
+---------------------------
+1. Verificar todos los contactos
+2. Reorganizar estructura del directorio
+3. Agregar información de disponibilidad
+4. Establecer proceso de actualización
+
+Consultas Necesarias
+-----------------
+* Autoridades actuales
+* Proveedores de servicios
+* Servicios de emergencia
+* Personal interno
+
+Próximos Pasos
+------------
+1. Contactar entidades listadas
+2. Verificar información
+3. Actualizar directorio
+4. Implementar sistema de control
+
+Notas Adicionales
+--------------
+* Considerar formato digital
+* Evaluar app móvil
+* Mantener copias de respaldo
+
 Resumen
 =======
 
@@ -104,6 +164,6 @@ Historial de Cambios
    * - 2024-01-15
      - 1.0
      - Creación inicial del documento
-   * - 2024-01-20
+   * - 2024-01-15
      - 1.1
      - Actualización de contactos y servicios 

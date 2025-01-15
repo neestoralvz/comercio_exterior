@@ -8,101 +8,167 @@ Normativas y Regulaciones
    :description: Marco normativo y regulatorio para la exportación de ácido sulfúrico entre México y Guatemala
    :keywords: normativas, regulaciones, leyes, normas, exportación, ácido sulfúrico
 
-Introducción
-===========
+Normativas y Regulaciones 2025
+===========================
 
-Esta sección detalla el marco normativo y regulatorio aplicable a la exportación de ácido sulfúrico entre México y Guatemala, incluyendo leyes, normas y regulaciones de ambos países.
+Esta sección detalla el marco normativo y regulatorio actualizado que rige la exportación de ácido sulfúrico entre México y Guatemala, incluyendo las disposiciones más recientes y cambios regulatorios.
 
-Propósito
-========
+Marco Regulatorio
+==============
 
-Establecer un marco de referencia claro sobre las normativas y regulaciones que rigen la exportación de ácido sulfúrico, asegurando el cumplimiento legal y operativo.
+1. Legislación Nacional
+-------------------
 
-Alcance
-======
+**México**:
 
-* Marco legal aplicable
-* Normas técnicas
-* Regulaciones específicas
-* Estándares internacionales
-* Requisitos de cumplimiento
+- Ley Aduanera
+- Ley de Comercio Exterior
+- Ley Federal de Metrología
+- Reglamentos SEMARNAT
+
+**Guatemala**:
+
+- Ley de Aduanas
+- Ley de Comercio Exterior
+- Normativa Ambiental
+- Regulaciones MARN
+
+2. Normativa Internacional
+----------------------
+
+- Convenios ONU
+- Acuerdos bilaterales
+- Estándares ISO
+- Protocolos HAZMAT
+
+3. Regulaciones Específicas
+-----------------------
+
+- Control sustancias
+- Transporte HAZMAT
+- Gestión ambiental
+- Seguridad industrial
+
+4. Estándares Técnicos
+------------------
+
+- Normas producto
+- Especificaciones transporte
+- Protocolos seguridad
+- Certificaciones calidad
 
 Contenido Principal
 ================
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contenido:
+   :caption: Marco Regulatorio:
 
    marco_legal
    normas_tecnicas
    regulaciones_especificas
    estandares_internacionales
 
-Aspectos Clave
-============
+Aspectos Críticos
+==============
 
-1. Marco Legal
-----------
-* Leyes federales
-* Reglamentos
-* Decretos
-* Acuerdos internacionales
+1. Cumplimiento Legal
+-----------------
 
-2. Normas Técnicas
---------------
-* Normas oficiales mexicanas
-* Normas guatemaltecas
-* Especificaciones técnicas
-* Criterios de calidad
+- Permisos requeridos
+- Licencias operación
+- Certificaciones obligatorias
+- Registros sanitarios
 
-3. Regulaciones Específicas
-----------------------
-* Control de sustancias químicas
-* Requisitos ambientales
-* Medidas de seguridad
-* Restricciones especiales
+2. Normativa Técnica
+----------------
 
-Mejores Prácticas
-===============
+- Especificaciones producto
+- Requisitos envase
+- Etiquetado reglamentario
+- Documentación técnica
 
-* Mantener registros actualizados
-* Verificar cambios regulatorios
-* Implementar sistemas de control
-* Capacitar al personal
-* Realizar auditorías periódicas
+3. Regulaciones Ambientales
+-----------------------
 
-.. important::
-   El cumplimiento normativo es fundamental para evitar sanciones y asegurar la continuidad operativa.
+- Control emisiones
+- Gestión residuos
+- Protección ambiental
+- Planes contingencia
 
-.. warning::
-   Las regulaciones están sujetas a cambios frecuentes; mantener una vigilancia constante.
+4. Seguridad Industrial
+-------------------
+
+- Protocolos manejo
+- Equipos protección
+- Procedimientos emergencia
+- Capacitación personal
+
+Actualizaciones 2025
+=================
+
+1. Nuevas Disposiciones
+-------------------
+
+- Regulación digital
+- Control trazabilidad
+- Reportes automáticos
+- Certificaciones verdes
+
+2. Cambios Normativos
+-----------------
+
+- Requisitos producto
+- Controles frontera
+- Documentación digital
+- Gestión remota
+
+3. Implementación
+-------------
+
+- Plazos cumplimiento
+- Procesos adaptación
+- Recursos necesarios
+- Capacitación requerida
+
+Recomendaciones Cumplimiento
+=========================
+
+1. Gestión Documental
+-----------------
+
+- Archivo digital
+- Control versiones
+- Registros actualizados
+- Auditorías internas
+
+2. Monitoreo Cambios
+----------------
+
+- Seguimiento normativo
+- Actualizaciones técnicas
+- Modificaciones procedimientos
+- Nuevos requisitos
+
+3. Capacitación Continua
+--------------------
+
+- Programas formación
+- Actualización personal
+- Evaluación competencias
+- Certificaciones requeridas
 
 .. note::
-   Consultar con expertos legales ante dudas específicas sobre la interpretación de normas.
+   La normativa se actualiza regularmente. Verificar cambios
+   trimestralmente. Última actualización: 2025-01-15.
 
-Documentos Relacionados
-====================
+.. warning::
+   El incumplimiento normativo puede resultar en sanciones
+   severas y suspensión de operaciones.
 
-* Textos legales vigentes
-* Manuales de procedimientos
-* Guías de cumplimiento
-* Formatos oficiales
-
-Referencias Normativas
-===================
-
-* Legislación mexicana
-* Legislación guatemalteca
-* Tratados internacionales
-* Acuerdos comerciales
-
-Secciones Relacionadas
-===================
-
-* :ref:`requisitos_legales_y_aduaneros`
-* :ref:`transporte_y_logistica`
-* :ref:`gestion_riesgos`
+.. important::
+   Mantener un sistema de gestión documental actualizado
+   para asegurar el cumplimiento continuo.
 
 Historial de Cambios
 ==================
@@ -120,3 +186,6 @@ Historial de Cambios
    * - 2024-01-20
      - 1.1
      - Actualización de marco normativo 
+   * - 2025-01-15
+     - 2.0
+     - Actualización de regulaciones y estándares para 2025

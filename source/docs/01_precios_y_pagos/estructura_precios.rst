@@ -16,73 +16,134 @@ Esta subsección detalla la metodología y los componentes utilizados para deter
 Descripción Detallada
 ===================
 
-Componentes del Precio
-------------------
+Componentes del Precio Base
+-----------------------
 
-* Costos directos de producción
-* Costos de transporte y logística
-* Gastos administrativos y operativos
-* Márgenes comerciales
+* **Costos directos de producción**:
+  - Materias primas y suministros
+  - Mano de obra directa
+  - Energía y servicios
+  - Control de calidad
+* **Costos indirectos**:
+  - Mantenimiento de instalaciones
+  - Depreciación de equipos
+  - Supervisión y control
+  - Gestión ambiental
 
-.. important::
-   La estructura de precios debe reflejar todos los costos involucrados en la operación.
+Costos Logísticos
+---------------
+
+* **Transporte**:
+  - Flete terrestre origen
+  - Flete internacional
+  - Flete terrestre destino
+  - Maniobras y transferencias
+* **Almacenamiento**:
+  - Tanques especializados
+  - Control de inventarios
+  - Monitoreo de condiciones
+* **Seguros**:
+  - Cobertura de carga
+  - Responsabilidad civil
+  - Riesgos ambientales
+
+Gastos Administrativos
+-------------------
+
+* **Operativos**:
+  - Gestión documental
+  - Trámites aduanales
+  - Certificaciones
+  - Permisos especiales
+* **Comerciales**:
+  - Comisiones bancarias
+  - Gestión de contratos
+  - Servicios de agentes
+* **Financieros**:
+  - Costos de cartas de crédito
+  - Garantías bancarias
+  - Seguros de crédito
 
 Factores de Ajuste
---------------
+---------------
 
-* Variaciones del mercado
-* Tipo de cambio
-* Volumen de compra
-* Términos de entrega
-
-.. warning::
-   Los precios están sujetos a ajustes según condiciones de mercado y acuerdos específicos.
+* **Mercado**:
+  - Precios internacionales de referencia
+  - Oferta y demanda regional
+  - Competencia local
+  - Tendencias del sector
+* **Económicos**:
+  - Tipo de cambio USD/MXN
+  - Tasas de interés
+  - Inflación
+  - Costos de combustible
+* **Comerciales**:
+  - Volumen de compra
+  - Frecuencia de pedidos
+  - Términos de entrega
+  - Plazo de pago
 
 Metodología de Cálculo
-------------------
+-------------------
 
-* Análisis de costos base
-* Aplicación de márgenes
-* Ajustes por volumen
-* Consideraciones especiales
+1. **Determinación del precio base**:
+   * Costo total de producción
+   * Margen operativo base
+   * Gastos fijos asignados
+   * Costos de cumplimiento normativo
 
-.. note::
-   La metodología se revisa periódicamente para mantener la competitividad.
+2. **Ajustes por volumen**:
+   * Escala de descuentos
+   * Bonificaciones por frecuencia
+   * Ajustes por temporada
+   * Compromisos de volumen anual
+
+3. **Ajustes por mercado**:
+   * Precios de referencia internacional
+   * Paridad de importación
+   * Condiciones locales de mercado
+   * Estrategia comercial regional
+
+4. **Consideraciones especiales**:
+   * Contratos a largo plazo
+   * Acuerdos de suministro preferencial
+   * Condiciones especiales de entrega
+   * Servicios adicionales incluidos
 
 Requisitos Previos
 ================
 
-1. Información actualizada de costos
-2. Análisis de mercado
-3. Políticas comerciales
-4. Acuerdos contractuales
+1. Análisis actualizado de costos operativos
+2. Estudio de mercado regional
+3. Evaluación de riesgos comerciales
+4. Políticas de precios aprobadas
 
 Ejemplos Prácticos
 ================
 
 .. code-block:: text
 
-   # Estructura Básica de Precio
+   # Estructura Detallada de Precio
    
-   1. Costo Base:
-      □ Materia prima
-      □ Producción
-      □ Empaque
-      □ Almacenamiento
+   1. Precio Base:
+      □ Costo de producción: $X/ton
+      □ Costos indirectos: Y%
+      □ Margen operativo: Z%
+      □ Gastos administrativos: W%
    
-   2. Costos Adicionales:
-      □ Transporte
-      □ Seguros
-      □ Trámites
-      □ Impuestos
+   2. Ajustes Comerciales:
+      □ Volumen >1000 ton: -A%
+      □ Contrato anual: -B%
+      □ Pago anticipado: -C%
+      □ Servicios especiales: +D%
 
 Consideraciones Especiales
 =======================
 
-* Fluctuaciones de mercado
-* Condiciones contractuales
-* Requisitos específicos del cliente
-* Competencia del mercado
+* Revisión trimestral de precios base
+* Cláusulas de ajuste por volatilidad
+* Condiciones de fuerza mayor
+* Mecanismos de resolución de disputas
 
 Documentación Relacionada
 ======================
@@ -104,6 +165,6 @@ Historial de Cambios
    * - 2024-01-15
      - 1.0
      - Creación inicial del documento
-   * - 2024-01-20
+   * - 2024-01-15
      - 1.1
-     - Actualización de componentes y factores de ajuste 
+     - Actualización detallada de componentes y metodología de precios 

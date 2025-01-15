@@ -8,6 +8,66 @@ Modos de Transporte
    :description: Modos de transporte disponibles para la exportación de ácido sulfúrico entre México y Guatemala
    :keywords: transporte, terrestre, ferroviario, marítimo, exportación
 
+Hallazgos - modos_transporte.rst
+============================
+
+Fecha de verificación: 15/01/2024
+
+Transporte Terrestre
+-----------------
+* **Hallazgo**: Falta detalle sobre especificaciones técnicas de unidades
+* **Acción**: Desarrollar manual técnico de especificaciones
+* **Prioridad**: Alta
+* **Responsable**: Ingeniería/Logística
+
+Transporte Ferroviario
+-------------------
+* **Hallazgo**: No se especifican acuerdos con operadores ferroviarios
+* **Acción**: Establecer convenios y procedimientos operativos
+* **Prioridad**: Media
+* **Responsable**: Departamento Comercial
+
+Transporte Marítimo
+----------------
+* **Hallazgo**: Información incompleta sobre requisitos portuarios
+* **Acción**: Documentar requisitos específicos por puerto
+* **Prioridad**: Media
+* **Responsable**: Operaciones Portuarias
+
+Análisis Comparativo
+-----------------
+* **Hallazgo**: No existe matriz comparativa de modos
+* **Acción**: Desarrollar análisis costo-beneficio por modo
+* **Prioridad**: Alta
+* **Responsable**: Planeación Logística
+
+Acciones Inmediatas Requeridas
+---------------------------
+1. Completar especificaciones técnicas
+2. Establecer contacto con operadores
+3. Desarrollar matrices comparativas
+4. Actualizar costos operativos
+
+Consultas Necesarias
+-----------------
+* Fabricantes de unidades especializadas
+* Operadores ferroviarios
+* Autoridades portuarias
+* Expertos en logística
+
+Próximos Pasos
+------------
+1. Evaluar proveedores de transporte
+2. Desarrollar procedimientos específicos
+3. Establecer acuerdos operativos
+4. Implementar sistema de seguimiento
+
+Notas Adicionales
+--------------
+* Considerar factores estacionales
+* Evaluar opciones intermodales
+* Actualizar análisis de costos
+
 Resumen
 =======
 

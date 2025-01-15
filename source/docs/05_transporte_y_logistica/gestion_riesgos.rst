@@ -8,6 +8,66 @@ Gestión de Riesgos
    :description: Gestión de riesgos en el transporte de ácido sulfúrico entre México y Guatemala
    :keywords: riesgos, prevención, contingencias, emergencias, seguridad
 
+Hallazgos - gestion_riesgos.rst
+===========================
+
+Fecha de verificación: 15/01/2024
+
+Identificación de Riesgos
+----------------------
+* **Hallazgo**: Matriz de riesgos requiere actualización y expansión
+* **Acción**: Desarrollar matriz completa con nuevos escenarios
+* **Prioridad**: Alta
+* **Responsable**: Gestión de Riesgos
+
+Evaluación y Análisis
+------------------
+* **Hallazgo**: Metodología de evaluación no está estandarizada
+* **Acción**: Implementar sistema estandarizado de evaluación
+* **Prioridad**: Alta
+* **Responsable**: Equipo de Análisis
+
+Medidas de Control
+---------------
+* **Hallazgo**: Controles preventivos requieren validación
+* **Acción**: Revisar y actualizar medidas de control
+* **Prioridad**: Media
+* **Responsable**: Operaciones
+
+Monitoreo y Seguimiento
+--------------------
+* **Hallazgo**: No existe sistema de seguimiento en tiempo real
+* **Acción**: Implementar sistema de monitoreo continuo
+* **Prioridad**: Media
+* **Responsable**: TI/Operaciones
+
+Acciones Inmediatas Requeridas
+---------------------------
+1. Actualizar matriz de riesgos
+2. Estandarizar metodología de evaluación
+3. Validar controles existentes
+4. Implementar sistema de monitoreo
+
+Consultas Necesarias
+-----------------
+* Expertos en gestión de riesgos
+* Aseguradoras
+* Autoridades regulatorias
+* Consultores especializados
+
+Próximos Pasos
+------------
+1. Revisar mejores prácticas internacionales
+2. Desarrollar procedimientos actualizados
+3. Capacitar personal en nueva metodología
+4. Establecer indicadores de seguimiento
+
+Notas Adicionales
+--------------
+* Considerar integración con sistemas existentes
+* Evaluar tecnologías de monitoreo
+* Actualizar planes de contingencia
+
 Resumen
 =======
 

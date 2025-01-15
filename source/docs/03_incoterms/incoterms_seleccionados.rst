@@ -73,13 +73,82 @@ Escenario DAP
 4. Recomendación para la Operación
 --------------------------------
 
-Para la exportación de ácido sulfúrico en esta ruta, se recomienda el uso de **DAP** por:
+Para la exportación de ácido sulfúrico en esta ruta, se recomienda el uso de **DAP** como Incoterm principal, con **FCA** como alternativa según el perfil del comprador:
 
-1. **Mayor control**: El vendedor mantiene control de la carga durante todo el trayecto
-2. **Experiencia**: Mayor conocimiento en manejo de materiales peligrosos
-3. **Eficiencia**: Gestión integral del transporte reduce tiempos muertos
-4. **Seguridad**: Un solo responsable del transporte minimiza riesgos
-5. **Documentación**: Facilita la gestión documental al tener un solo operador
+DAP - Recomendación Principal
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Justificación**:
+
+1. **Naturaleza del producto**: 
+   - El ácido sulfúrico requiere manejo especializado y equipo específico
+   - El vendedor tiene mayor experiencia en el manejo de materiales peligrosos
+   - Reduce riesgos de accidentes por cambio de responsabilidad en ruta
+
+2. **Aspectos regulatorios**:
+   - Facilita el cumplimiento de normativas NOM-002-SCT/2011
+   - Permite mejor control de la documentación de materiales peligrosos
+   - Asegura continuidad en la cadena de responsabilidad
+
+3. **Ventajas logísticas**:
+   - Control total de la cadena logística hasta el destino
+   - Mejor coordinación con autoridades en caso de emergencias
+   - Optimización de rutas y tiempos de entrega
+
+FCA - Alternativa Viable
+~~~~~~~~~~~~~~~~~~~~~~~
+
+**Justificación**:
+
+1. **Perfil del comprador**:
+   - Adecuado para compradores con experiencia en manejo de químicos
+   - Ideal cuando el comprador tiene transportistas certificados
+   - Preferible si el comprador tiene seguros específicos
+
+2. **Aspectos comerciales**:
+   - Permite al comprador mayor control sobre costos de transporte
+   - Facilita la integración con operaciones existentes del comprador
+   - Reduce la complejidad en la determinación del precio base
+
+Implicaciones para las Partes
+----------------------------
+
+Bajo DAP (Recomendación Principal):
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Para el Vendedor**:
+
+- Responsable del transporte hasta la planta del comprador
+- Asume costos de transporte internacional y seguros
+- Gestiona documentación de materiales peligrosos
+- Coordina permisos de tránsito en ambos países
+- Mantiene control de la carga hasta el destino
+
+**Para el Comprador**:
+
+- Solo responsable de la descarga y trámites de importación
+- Menor carga administrativa en logística
+- Precio final incluye transporte hasta su planta
+- Debe proporcionar información precisa del punto de entrega
+- Responsable de tener permisos de importación vigentes
+
+Bajo FCA (Alternativa):
+~~~~~~~~~~~~~~~~~~~~~~
+
+**Para el Vendedor**:
+
+- Responsabilidad limitada hasta el punto de entrega acordado
+- Gestiona solo documentación de exportación
+- Reduce exposición a riesgos internacionales
+- Simplifica la estructura de costos
+
+**Para el Comprador**:
+
+- Mayor control sobre la cadena logística
+- Responsable de contratar transporte internacional
+- Debe contar con permisos para transporte de materiales peligrosos
+- Asume riesgos desde el punto de carga
+- Gestiona documentación de tránsito internacional
 
 5. Ventajas y Desventajas para Transporte Terrestre
 ---------------------------------------------------

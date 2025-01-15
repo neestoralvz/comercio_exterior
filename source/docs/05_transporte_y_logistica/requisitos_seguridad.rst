@@ -8,6 +8,66 @@ Requisitos de Seguridad
    :description: Requisitos de seguridad para el transporte de ácido sulfúrico entre México y Guatemala
    :keywords: seguridad, transporte, protección, equipamiento, emergencias
 
+Hallazgos - requisitos_seguridad.rst
+================================
+
+Fecha de verificación: 15/01/2024
+
+Equipamiento y Certificaciones
+--------------------------
+* **Hallazgo**: Falta detalle sobre certificaciones específicas requeridas para equipos
+* **Acción**: Agregar lista completa de certificaciones por tipo de equipo
+* **Prioridad**: Alta
+* **Responsable**: Coordinador de Seguridad
+
+Protocolos y Procedimientos
+------------------------
+* **Hallazgo**: Protocolos de emergencia requieren mayor detalle operativo
+* **Acción**: Desarrollar procedimientos paso a paso para cada tipo de emergencia
+* **Prioridad**: Alta
+* **Responsable**: Equipo de Seguridad
+
+Capacitación y Entrenamiento
+-------------------------
+* **Hallazgo**: No se especifican requisitos mínimos de capacitación
+* **Acción**: Definir programa detallado de capacitación y certificación
+* **Prioridad**: Media
+* **Responsable**: Recursos Humanos
+
+Documentación y Registros
+----------------------
+* **Hallazgo**: Sistema de documentación de incidentes no definido
+* **Acción**: Implementar sistema de registro y seguimiento
+* **Prioridad**: Media
+* **Responsable**: Control Documental
+
+Acciones Inmediatas Requeridas
+---------------------------
+1. Revisar y actualizar lista de equipamiento requerido
+2. Desarrollar matrices de capacitación por rol
+3. Crear formatos estandarizados para registros
+4. Establecer programa de simulacros
+
+Consultas Necesarias
+-----------------
+* Autoridades de seguridad industrial
+* Proveedores de equipos certificados
+* Expertos en manejo de materiales peligrosos
+* Aseguradoras
+
+Próximos Pasos
+------------
+1. Contactar autoridades para validación de requisitos
+2. Desarrollar programa de certificación interno
+3. Actualizar manual de procedimientos
+4. Implementar sistema de auditoría
+
+Notas Adicionales
+--------------
+* Considerar implementación de sistema digital de seguimiento
+* Evaluar necesidad de equipos adicionales
+* Revisar compatibilidad con estándares internacionales
+
 Resumen
 =======
 

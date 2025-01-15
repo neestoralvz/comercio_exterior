@@ -19,70 +19,132 @@ Descripción Detallada
 Métodos de Pago Aceptados
 ---------------------
 
-* Carta de crédito irrevocable
-* Transferencia bancaria internacional
-* Pago anticipado
-* Cobranza documentaria
-
-.. important::
-   La carta de crédito es el método preferido para nuevas relaciones comerciales.
+* **Carta de Crédito (L/C)**:
+  - Irrevocable y confirmada
+  - Banco emisor de primera línea
+  - Vigencia mínima 60 días
+  - Documentos requeridos estándar
+* **Transferencia Bancaria Internacional**:
+  - Swift MT103
+  - Cuenta en USD o EUR
+  - Gastos compartidos (SHA)
+  - Referencia específica por operación
+* **Pago Anticipado**:
+  - Descuento aplicable: 2%
+  - Confirmación bancaria requerida
+  - Plazo máximo de embarque: 15 días
+* **Cobranza Documentaria**:
+  - Disponible para clientes establecidos
+  - Documentos contra pago (D/P)
+  - Documentos contra aceptación (D/A)
+  - Plazo máximo: 60 días fecha B/L
 
 Plazos y Condiciones
 ----------------
 
-* Términos de pago estándar
-* Plazos de crédito
-* Descuentos por pronto pago
-* Penalizaciones por retraso
-
-.. warning::
-   El incumplimiento de los plazos puede resultar en la suspensión de entregas.
+* **Términos de Pago Estándar**:
+  - Nuevos clientes: Pago anticipado o L/C
+  - Clientes establecidos: hasta 60 días
+  - Montos máximos según evaluación
+  - Revisión semestral de condiciones
+* **Descuentos Comerciales**:
+  - Pago anticipado: 2%
+  - Volumen >1000 MT/mes: 1.5%
+  - Contrato anual: 1%
+  - Historial excelente: 0.5%
+* **Penalizaciones**:
+  - Interés moratorio: LIBOR + 5%
+  - Gastos de cobranza: cargo al cliente
+  - Suspensión de entregas: +15 días mora
+  - Ejecución de garantías: +30 días mora
 
 Garantías y Seguros
 ---------------
 
-* Garantías bancarias
-* Seguro de crédito
-* Fianzas comerciales
-* Documentos de respaldo
+* **Garantías Bancarias**:
+  - Standby Letter of Credit
+  - Garantía de pago a primer requerimiento
+  - Aval bancario internacional
+  - Fianza de cumplimiento
+* **Seguro de Crédito**:
+  - Cobertura mínima: 80% del valor
+  - Evaluación previa del cliente
+  - Prima según calificación de riesgo
+  - Renovación anual
+* **Documentación de Respaldo**:
+  - Estados financieros auditados
+  - Referencias bancarias
+  - Reporte de buró de crédito
+  - Contratos comerciales vigentes
 
-.. note::
-   Las garantías requeridas dependerán del historial comercial y volumen de operación.
+Proceso de Evaluación Crediticia
+---------------------------
+
+1. **Documentación Requerida**:
+   * Estados financieros (3 años)
+   * Referencias comerciales (3 mínimo)
+   * Registro fiscal actualizado
+   * Estructura corporativa
+
+2. **Análisis de Riesgo**:
+   * Evaluación financiera
+   * Historial comercial
+   * Riesgo país
+   * Sector industrial
+
+3. **Determinación de Línea de Crédito**:
+   * Capacidad de pago
+   * Garantías disponibles
+   * Volumen proyectado
+   * Términos comerciales
 
 Requisitos Previos
 ================
 
-1. Evaluación crediticia
-2. Referencias comerciales
-3. Documentación legal
-4. Cuenta bancaria internacional
+1. **Documentación Legal**:
+   * Constitución de la empresa
+   * Poderes de representantes
+   * Permisos de importación
+   * Registro fiscal vigente
+
+2. **Información Financiera**:
+   * Estados financieros auditados
+   * Declaraciones fiscales
+   * Referencias bancarias
+   * Proyecciones financieras
+
+3. **Información Comercial**:
+   * Plan de compras anual
+   * Referencias comerciales
+   * Historial de importaciones
+   * Capacidad de almacenamiento
 
 Ejemplos Prácticos
 ================
 
 .. code-block:: text
 
-   # Proceso de Pago
+   # Proceso de Carta de Crédito
    
-   1. Carta de Crédito:
-      □ Solicitud
-      □ Apertura
-      □ Verificación
-      □ Ejecución
+   1. Apertura L/C:
+      □ Solicitud al banco emisor
+      □ Términos y condiciones según contrato
+      □ Documentos requeridos completos
+      □ Confirmación del banco avisador
    
-   2. Transferencia Bancaria:
-      □ Instrucciones
-      □ Confirmación
-      □ Seguimiento
-      □ Conciliación
+   2. Ejecución L/C:
+      □ Embarque del producto
+      □ Preparación de documentos
+      □ Presentación al banco
+      □ Pago contra documentos conformes
 
 Consideraciones Especiales
 =======================
 
-* Riesgo país
-* Historial crediticio
-* Volumen de operación
-* Relación comercial
+* Revisión trimestral de condiciones crediticias
+* Ajustes por cambios en calificación de riesgo
+* Modificaciones por condiciones de mercado
+* Casos de fuerza mayor
 
 Documentación Relacionada
 ======================
@@ -104,6 +166,6 @@ Historial de Cambios
    * - 2024-01-15
      - 1.0
      - Creación inicial del documento
-   * - 2024-01-20
+   * - 2024-01-15
      - 1.1
-     - Actualización de métodos de pago y condiciones 
+     - Actualización detallada de términos y condiciones de pago 

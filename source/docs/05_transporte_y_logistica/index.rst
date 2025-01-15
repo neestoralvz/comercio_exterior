@@ -8,31 +8,52 @@ Transporte y Logística
    :description: Aspectos de transporte y logística para la exportación de ácido sulfúrico entre México y Guatemala
    :keywords: transporte, logística, exportación, carga, seguridad, rutas
 
-Resumen
-=======
+Transporte y Logística 2025
+========================
 
-Esta sección detalla los aspectos relacionados con el transporte y la logística para la exportación de ácido sulfúrico entre México y Guatemala, incluyendo requisitos, procedimientos y medidas de seguridad.
+Esta sección detalla los procedimientos actualizados para el transporte y logística de ácido sulfúrico entre México y Guatemala, incluyendo requisitos técnicos, medidas de seguridad y gestión operativa.
 
-Propósito
-========
+Estructura Operativa
+=================
 
-Proporcionar una guía completa sobre los procesos de transporte y logística, asegurando el cumplimiento de normativas y la seguridad en el manejo del producto.
+1. Planificación Logística
+----------------------
 
-Alcance
-======
+- Evaluación de rutas
+- Selección transportistas
+- Programación embarques
+- Gestión recursos
 
-* Modos de transporte
-* Rutas autorizadas
-* Requisitos de seguridad
-* Documentación necesaria
-* Gestión de riesgos
+2. Operación Transporte
+-------------------
+
+- Protocolos carga
+- Monitoreo trayecto
+- Control seguridad
+- Documentación
+
+3. Requisitos Técnicos
+------------------
+
+- Especificaciones unidades
+- Equipamiento seguridad
+- Sistemas monitoreo
+- Certificaciones
+
+4. Gestión Documental
+-----------------
+
+- Permisos transporte
+- Hojas seguridad
+- Manifiestos carga
+- Pólizas seguro
 
 Contenido Principal
 ================
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contenido:
+   :caption: Procedimientos Logísticos:
 
    modos_transporte
    rutas_autorizadas
@@ -40,48 +61,98 @@ Contenido Principal
    documentacion_transporte
    gestion_riesgos
 
-Aspectos Clave
-============
+Aspectos Críticos
+==============
 
-1. Selección del modo de transporte
-2. Planificación de rutas
-3. Medidas de seguridad
-4. Control de documentación
-5. Gestión de emergencias
+1. Seguridad Operativa
+------------------
+
+- Protocolos HAZMAT
+- Control unidades
+- Monitoreo GPS
+- Respuesta emergencias
+
+2. Cumplimiento Técnico
+-------------------
+
+- Normativa México
+- Requisitos Guatemala
+- Estándares ONU
+- Certificaciones 2025
+
+3. Gestión Tiempos
+--------------
+
+- Programación cargas
+- Tiempos tránsito
+- Ventanas entrega
+- Contingencias
+
+4. Control Costos
+-------------
+
+- Tarifas transporte
+- Seguros especiales
+- Servicios adicionales
+- Imprevistos
+
+Recomendaciones Operativas
+=======================
+
+1. Pre-Operación
+-------------
+
+- Inspección unidades
+- Verificación documentos
+- Briefing operadores
+- Confirmación rutas
+
+2. Durante Transporte
+-----------------
+
+- Seguimiento GPS
+- Control temperatura
+- Reportes estatus
+- Gestión incidentes
+
+3. Post-Operación
+--------------
+
+- Confirmación entrega
+- Documentación final
+- Evaluación servicio
+- Registro incidencias
+
+Aspectos Tecnológicos
+==================
+
+1. Sistemas Tracking
+----------------
+
+- GPS satelital
+- Sensores temperatura
+- Control presión
+- Alarmas automáticas
+
+2. Documentación Digital
+-------------------
+
+- E-manifiestos
+- Firmas digitales
+- Reportes tiempo real
+- Archivo cloud
+
+.. note::
+   Los procedimientos y requisitos se actualizan regularmente.
+   Última actualización: 2025-01-15.
 
 .. warning::
-   El incumplimiento de los requisitos de transporte puede resultar en sanciones y accidentes.
+   El incumplimiento de especificaciones técnicas puede resultar
+   en la suspensión inmediata del transporte.
 
-Mejores Prácticas
-===============
-
-* Verificar autorizaciones de transportistas
-* Mantener comunicación constante
-* Monitorear condiciones de ruta
-* Actualizar documentación
-* Capacitar al personal
-
-Documentación Relacionada
-======================
-
-* :ref:`requisitos_legales`
-* :ref:`normativas_y_regulaciones`
-* :ref:`formalidades_frontera`
-
-Referencias Normativas
-===================
-
-* Reglamento SCT
-* Normas de transporte
-* Acuerdos internacionales
-* Regulaciones de mercancías peligrosas
-
-Secciones Relacionadas
-===================
-
-* :ref:`formalidades_frontera`
-* :ref:`gestion_riesgos`
-* :ref:`documentacion_fronteriza`
+.. important::
+   Mantener comunicación constante con el centro de control
+   durante todo el trayecto.
 
 Historial de Cambios
 ==================
@@ -99,3 +170,6 @@ Historial de Cambios
    * - 2024-01-20
      - 1.1
      - Actualización de requisitos de transporte 
+   * - 2025-01-15
+     - 2.0
+     - Actualización de procedimientos y requisitos para 2025

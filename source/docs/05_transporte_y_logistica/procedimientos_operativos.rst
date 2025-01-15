@@ -8,6 +8,66 @@ Procedimientos Operativos
    :description: Procedimientos operativos estándar para el transporte de ácido sulfúrico entre México y Guatemala
    :keywords: procedimientos, operaciones, carga, descarga, inspección, verificación
 
+Hallazgos - procedimientos_operativos.rst
+====================================
+
+Fecha de verificación: 15/01/2024
+
+Procedimientos de Carga
+-------------------
+* **Hallazgo**: Falta detalle en secuencia de verificación
+* **Acción**: Desarrollar lista de verificación detallada
+* **Prioridad**: Alta
+* **Responsable**: Operaciones
+
+Procedimientos Durante Transporte
+----------------------------
+* **Hallazgo**: No se especifican tiempos de verificación
+* **Acción**: Establecer cronograma de verificaciones
+* **Prioridad**: Alta
+* **Responsable**: Control Operativo
+
+Procedimientos de Descarga
+----------------------
+* **Hallazgo**: Protocolo de residuos incompleto
+* **Acción**: Desarrollar procedimiento de manejo de residuos
+* **Prioridad**: Media
+* **Responsable**: Gestión Ambiental
+
+Documentación Operativa
+-------------------
+* **Hallazgo**: Formatos de registro no estandarizados
+* **Acción**: Crear formatos unificados de registro
+* **Prioridad**: Media
+* **Responsable**: Control Documental
+
+Acciones Inmediatas Requeridas
+---------------------------
+1. Desarrollar listas de verificación detalladas
+2. Establecer cronogramas de control
+3. Implementar gestión de residuos
+4. Estandarizar formatos operativos
+
+Consultas Necesarias
+-----------------
+* Supervisores de operaciones
+* Expertos en manejo de residuos
+* Personal de seguridad
+* Autoridades regulatorias
+
+Próximos Pasos
+------------
+1. Revisar procedimientos actuales
+2. Desarrollar nuevos formatos
+3. Capacitar personal operativo
+4. Implementar sistema de control
+
+Notas Adicionales
+--------------
+* Considerar automatización de registros
+* Evaluar necesidad de equipos adicionales
+* Actualizar matriz de responsabilidades
+
 Resumen
 =======
 
@@ -104,6 +164,6 @@ Historial de Cambios
    * - 2024-01-15
      - 1.0
      - Creación inicial del documento
-   * - 2024-01-20
+   * - 2024-01-15
      - 1.1
      - Actualización de procedimientos operativos 
