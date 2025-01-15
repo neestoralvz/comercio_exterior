@@ -1,28 +1,42 @@
 .. _evaluacion_riesgos_detalle:
 
 
-Evaluación de Riesgos
-=====================
+Evaluación      de              Riesgos        
+=============== =============== ===============
+=============== =============== ===============
 
 .. meta::
    :description: Metodología y criterios para la evaluación de riesgos en el transporte de ácido sulfúrico
    :keywords: evaluación riesgos, análisis impacto, probabilidad, severidad, criterios
 
-Resumen
-=======
+Resumen        
+===============
 
 Esta subsección describe la metodología y criterios utilizados para evaluar los riesgos identificados en el transporte de |product|, estableciendo prioridades para su gestión.
 
-Descripción Detallada
-=====================
+Descripción     Detallada      
+=============== ===============
+=============== ===============
 
 Metodología de Evaluación
 -------------------------
 
+
 * Criterios de probabilidad
+
+
+
 * Niveles de impacto
+
+
+
 * Matrices de riesgo
+
+
+
 * Priorización
+
+
 
 .. important::
    La evaluación debe ser objetiva y basada en criterios establecidos.
@@ -30,10 +44,22 @@ Metodología de Evaluación
 Criterios de Impacto
 --------------------
 
+
 * Impacto en seguridad
+
+
+
 * Impacto ambiental
+
+
+
 * Impacto operativo
+
+
+
 * Impacto económico
+
+
 
 .. warning::
    Los criterios de impacto deben actualizarse según cambios en el entorno.
@@ -41,24 +67,38 @@ Criterios de Impacto
 Análisis de Probabilidad
 ------------------------
 
+
 * Frecuencia histórica
+
+
+
 * Factores contribuyentes
+
+
+
 * Condiciones predisponentes
+
+
+
 * Tendencias observadas
+
+
 
 .. note::
    El análisis de probabilidad debe considerar datos históricos y condiciones actuales.
 
-Requisitos Previos
-==================
+Requisitos      Previos        
+=============== ===============
+=============== ===============
 
 1. Datos históricos analizados
 2. Criterios de evaluación definidos
 3. Personal capacitado
 4. Herramientas de análisis
 
-Ejemplos Prácticos
-==================
+Ejemplos        Prácticos      
+=============== ===============
+=============== ===============
 
 .. code-block:: text
 
@@ -78,34 +118,54 @@ Ejemplos Prácticos
    2 - Menor
    1 - Insignificante
 
-Consideraciones Especiales
-==========================
+Consideraciones   Especiales     
+================= ===============
+================= ===============
 
-* Factores externos
-* Cambios regulatorios
-* Nuevas tecnologías
-* Experiencia operativa
+  * Factores externos
+  * Cambios regulatorios
+  * Nuevas tecnologías
+  * Experiencia operativa
 
-Documentación Relacionada
-=========================
+Documentación   Relacionada    
+=============== ===============
+=============== ===============
 
-* :ref:`identificacion_riesgos`
-* :ref:`medidas_preventivas`
-* :ref:`planes_contingencia`
+  * :ref:`identificacion_riesgos`
+  * :ref:`medidas_preventivas`
+  * :ref:`planes_contingencia`
 
-Historial de Cambios
-====================
+Historial       de              Cambios        
+=============== =============== ===============
+=============== =============== ===============
 
 .. list-table::
    :header-rows: 1
    :widths: 15 15 70
 
-   * - Fecha
-     - Versión
-     - Cambios
+
+   * - Column 1
+   * - Data 1
+     - Data 2
+     - Data 3
+
+     - Column 2
+     - Column 3
+
+
+
+
+
+* - Fecha
+
+
+
+
+  - Versión
+   - Cambios
    * - 2024-01-15
-     - 1.0
-     - Creación inicial del documento
+   - 1.0
+   - Creación inicial del documento
    * - 2024-01-20
-     - 1.1
-     - Actualización de criterios de evaluación
+   - 1.1
+   - Actualización de criterios de evaluación

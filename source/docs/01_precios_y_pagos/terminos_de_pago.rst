@@ -1,105 +1,150 @@
 .. _terminos_de_pago:
 
 
-Términos de Pago
-================
+Términos        de              Pago           
+=============== =============== ===============
+=============== =============== ===============
 
 .. meta::
    :description: Términos y condiciones de pago para la exportación de ácido sulfúrico, incluyendo métodos de pago y garantías
    :keywords: términos de pago, carta de crédito, transferencia bancaria, garantías, exportación, ácido sulfúrico
 
-Resumen
-=======
+Resumen        
+===============
 
 Esta sección detalla los términos y condiciones de pago disponibles para la exportación de |product| a |destination_country|, incluyendo los diferentes métodos de pago y sus implicaciones.
 
-Detalles
-========
+Detalles       
+===============
 
 Los términos de pago establecen las condiciones bajo las cuales se realizará la transacción comercial, considerando los riesgos y necesidades de ambas partes.
 
-Procedimiento
-=============
+Procedimiento  
+===============
 
 1. Evaluación del Cliente y Riesgo País
 
-   * Historial crediticio
-   * Situación financiera
-   * Riesgo país
-   * Relación comercial existente
+
+* Historial crediticio
+
+
+
+* Situación financiera
+
+
+
+* Riesgo país
+
+
+
+* Relación comercial existente
+
+
 
 2. Selección del Método de Pago
 
-   .. note::
-      La selección del método de pago debe balancear seguridad y facilidad de operación.
+    .. note::
+    La selección del método de pago debe balancear seguridad y facilidad de operación.
 
 3. Documentación y Formalización
 
-   .. warning::
-      Todos los términos de pago deben estar claramente documentados en el contrato de compraventa.
+    .. warning::
+    Todos los términos de pago deben estar claramente documentados en el contrato de compraventa.
 
-Requisitos
-==========
+Requisitos     
+===============
 
-* Documentación legal y financiera del cliente
-* Garantías bancarias (cuando aplique)
-* Contratos y acuerdos comerciales
-* Pólizas de seguro
+  * Documentación legal y financiera del cliente
+  * Garantías bancarias (cuando aplique)
+  * Contratos y acuerdos comerciales
+  * Pólizas de seguro
 
 .. important::
    La documentación debe estar completa y validada antes de iniciar la operación.
 
-Métodos de Pago Disponibles
-===========================
+Métodos         de              Pago            Disponibles    
+=============== =============== =============== ===============
+=============== =============== =============== ===============
 
 .. code-block:: text
 
    1. Carta de Crédito (L/C)
-      - Irrevocable
+
+  - Irrevocable
       - Confirmada
       - A la vista o a plazo
 
+
+
    2. Transferencia Bancaria
-      - Anticipada
+
+  - Anticipada
       - Contra documentos
       - Mixta
 
+
+
    3. Cobranza Documentaria
-      - A la vista
+
+  - A la vista
       - A plazo
 
-Consideraciones Especiales
-==========================
 
-* Plazos de pago
-* Costos bancarios
-* Requisitos documentales
-* Garantías adicionales
+
+Consideraciones   Especiales     
+================= ===============
+================= ===============
+
+  * Plazos de pago
+  * Costos bancarios
+  * Requisitos documentales
+  * Garantías adicionales
 
 .. tip::
    Se recomienda utilizar cartas de crédito confirmadas para nuevas relaciones comerciales.
 
-Documentación Relacionada
-=========================
+Documentación   Relacionada    
+=============== ===============
+=============== ===============
 
-* :ref:`precios`: Estructura de precios y cotizaciones
-* :ref:`requisitos_legales_y_aduaneros`: Documentación requerida
+  * :ref:`precios`: Estructura de precios y cotizaciones
+  * :ref:`requisitos_legales_y_aduaneros`: Documentación requerida
 
 .. seealso::
    Consulte las regulaciones bancarias internacionales vigentes y las políticas de crédito actualizadas.
 
-Historial de Cambios
-====================
+Historial       de              Cambios        
+=============== =============== ===============
+=============== =============== ===============
 
 .. list-table::
    :header-rows: 1
    :widths: 15 15 70
 
-   * - Fecha
-     - Versión
-     - Cambios
+
+   * - Column 1
+   * - Data 1
+     - Data 2
+     - Data 3
+
+     - Column 2
+     - Column 3
+
+
+
+
+
+* - Fecha
+
+
+
+
+  - Versión
+   - Cambios
    * - 2024-01-15
-     - 1.0
-     - Versión inicial del documento
+   - 1.0
+   - Versión inicial del documento
+
+
 
 |confidential|

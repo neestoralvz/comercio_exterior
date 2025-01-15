@@ -1,28 +1,42 @@
 .. _requisitos_importacion_detalle:
 
 
-Requisitos de Importación
-=========================
+Requisitos      de              Importación    
+=============== =============== ===============
+=============== =============== ===============
 
 .. meta::
    :description: Requisitos y procedimientos para la importación de ácido sulfúrico en Guatemala
    :keywords: importación, requisitos, permisos, licencias, documentación importación
 
-Resumen
-=======
+Resumen        
+===============
 
 Esta subsección detalla los requisitos y procedimientos necesarios para la importación de |product| en |destination_country|, incluyendo registros, permisos y documentación requerida.
 
-Descripción Detallada
-=====================
+Descripción     Detallada      
+=============== ===============
+=============== ===============
 
 Registro y Licencias
 --------------------
 
+
 * Registro tributario (NIT)
+
+
+
 * Registro de importador
+
+
+
 * Licencias especiales
+
+
+
 * Certificaciones MARN
+
+
 
 .. important::
    Los registros deben estar activos y vigentes en Guatemala.
@@ -30,10 +44,22 @@ Registro y Licencias
 Permisos Especiales
 -------------------
 
+
 * Autorización MARN
+
+
+
 * Permisos sanitarios
+
+
+
 * Licencias de importación
+
+
+
 * Permisos especiales
+
+
 
 .. warning::
    Los permisos deben tramitarse antes del arribo de la mercancía.
@@ -41,24 +67,38 @@ Permisos Especiales
 Documentación Requerida
 -----------------------
 
+
 * Declaración de importación
+
+
+
 * Factura comercial
+
+
+
 * Certificados de origen
+
+
+
 * Documentos de transporte
+
+
 
 .. note::
    La documentación debe presentarse en español o con traducción oficial.
 
-Requisitos Previos
-==================
+Requisitos      Previos        
+=============== ===============
+=============== ===============
 
 1. Registro como importador
 2. Permisos ambientales
 3. Licencias vigentes
 4. Documentación completa
 
-Ejemplos Prácticos
-==================
+Ejemplos        Prácticos      
+=============== ===============
+=============== ===============
 
 .. code-block:: text
 
@@ -76,34 +116,54 @@ Ejemplos Prácticos
       □ Hojas de seguridad
       □ Pólizas de seguro
 
-Consideraciones Especiales
-==========================
+Consideraciones   Especiales     
+================= ===============
+================= ===============
 
-* Tiempos de trámite
-* Requisitos específicos
-* Costos de importación
-* Restricciones locales
+  * Tiempos de trámite
+  * Requisitos específicos
+  * Costos de importación
+  * Restricciones locales
 
-Documentación Relacionada
-=========================
+Documentación   Relacionada    
+=============== ===============
+=============== ===============
 
-* :ref:`requisitos_exportacion`
-* :ref:`documentacion_legal`
-* :ref:`tramites_aduanales`
+  * :ref:`requisitos_exportacion`
+  * :ref:`documentacion_legal`
+  * :ref:`tramites_aduanales`
 
-Historial de Cambios
-====================
+Historial       de              Cambios        
+=============== =============== ===============
+=============== =============== ===============
 
 .. list-table::
    :header-rows: 1
    :widths: 15 15 70
 
-   * - Fecha
-     - Versión
-     - Cambios
+
+   * - Column 1
+   * - Data 1
+     - Data 2
+     - Data 3
+
+     - Column 2
+     - Column 3
+
+
+
+
+
+* - Fecha
+
+
+
+
+  - Versión
+   - Cambios
    * - 2024-01-15
-     - 1.0
-     - Creación inicial del documento
+   - 1.0
+   - Creación inicial del documento
    * - 2024-01-20
-     - 1.1
-     - Actualización de requisitos de importación
+   - 1.1
+   - Actualización de requisitos de importación

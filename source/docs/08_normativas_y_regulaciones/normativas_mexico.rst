@@ -1,14 +1,16 @@
 .. _normativas_mexico_detalle:
 
 
-Normativas Mexicanas
-====================
+Normativas      Mexicanas      
+=============== ===============
+=============== ===============
 
 Este documento describe las normativas y regulaciones mexicanas aplicables a la exportación de |product|.
 
 
-Descripción Detallada
-=====================
+Descripción     Detallada      
+=============== ===============
+=============== ===============
 
 
 Normas Oficiales Mexicanas
@@ -19,24 +21,29 @@ Regulaciones Sectoriales
 ------------------------
 
 
-Requisitos Previos
-==================
+Requisitos      Previos        
+=============== ===============
+=============== ===============
 
 
-Ejemplos Prácticos
-==================
+Ejemplos        Prácticos      
+=============== ===============
+=============== ===============
 
 
-Consideraciones Especiales
-==========================
+Consideraciones   Especiales     
+================= ===============
+================= ===============
 
 
-Documentación Relacionada
-=========================
+Documentación   Relacionada    
+=============== ===============
+=============== ===============
 
 
-Historial de Cambios
-====================
+Historial       de              Cambios        
+=============== =============== ===============
+=============== =============== ===============
 
-* **2024-03-20:** Creación inicial del documento.
-* **2024-03-21:** Actualización de NOMs aplicables.
+  * **2024-03-20:** Creación inicial del documento.
+  * **2024-03-21:** Actualización de NOMs aplicables.

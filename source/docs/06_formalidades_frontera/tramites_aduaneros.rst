@@ -1,28 +1,42 @@
-.. _tramites_aduaneros:
+.. _06_formalidades_frontera_tramites_aduaneros_tramites_aduaneros:
 
 
-Trámites Aduaneros
-==================
+Trámites        Aduaneros      
+=============== ===============
+=============== ===============
 
 .. meta::
    :description: Trámites aduaneros necesarios para la exportación de ácido sulfúrico entre México y Guatemala
    :keywords: trámites, aduana, exportación, pedimento, clasificación, aranceles
 
-Resumen
-=======
+Resumen        
+===============
 
 Esta subsección detalla los trámites aduaneros requeridos para la exportación de ácido sulfúrico, incluyendo procedimientos, clasificación arancelaria y valoración de mercancías.
 
-Descripción Detallada
-=====================
+Descripción     Detallada      
+=============== ===============
+=============== ===============
 
 Procedimientos Aduaneros
 ------------------------
 
+
 * Presentación de documentos
+
+
+
 * Revisión documental
+
+
+
 * Inspección física
+
+
+
 * Liberación de mercancía
+
+
 
 .. important::
    Los trámites deben realizarse en el orden establecido por la autoridad aduanera.
@@ -30,10 +44,22 @@ Procedimientos Aduaneros
 Clasificación Arancelaria
 -------------------------
 
+
 * Determinación de fracción
+
+
+
 * Verificación de aranceles
+
+
+
 * Regulaciones específicas
+
+
+
 * Permisos aplicables
+
+
 
 .. warning::
    Una clasificación incorrecta puede resultar en sanciones y retrasos.
@@ -41,24 +67,38 @@ Clasificación Arancelaria
 Valoración de Mercancías
 ------------------------
 
+
 * Método de valoración
+
+
+
 * Documentos soporte
+
+
+
 * Cálculo de impuestos
+
+
+
 * Declaración de valor
+
+
 
 .. note::
    La valoración debe realizarse conforme a las normas internacionales.
 
-Requisitos Previos
-==================
+Requisitos      Previos        
+=============== ===============
+=============== ===============
 
 1. Registro como exportador
 2. Agente aduanal autorizado
 3. Documentación completa
 4. Pago de derechos
 
-Ejemplos Prácticos
-==================
+Ejemplos        Prácticos      
+=============== ===============
+=============== ===============
 
 .. code-block:: text
 
@@ -76,34 +116,54 @@ Ejemplos Prácticos
       □ Inspección mercancía
       □ Liberación embarque
 
-Consideraciones Especiales
-==========================
+Consideraciones   Especiales     
+================= ===============
+================= ===============
 
-* Tiempos de proceso
-* Costos asociados
-* Requisitos específicos
-* Horarios de atención
+  * Tiempos de proceso
+  * Costos asociados
+  * Requisitos específicos
+  * Horarios de atención
 
-Documentación Relacionada
-=========================
+Documentación   Relacionada    
+=============== ===============
+=============== ===============
 
-* :ref:`documentacion_fronteriza`
-* :ref:`procedimientos_inspeccion`
-* :ref:`coordinacion_autoridades`
+  * :ref:`documentacion_fronteriza`
+  * :ref:`procedimientos_inspeccion`
+  * :ref:`coordinacion_autoridades`
 
-Historial de Cambios
-====================
+Historial       de              Cambios        
+=============== =============== ===============
+=============== =============== ===============
 
 .. list-table::
    :header-rows: 1
    :widths: 15 15 70
 
-   * - Fecha
-     - Versión
-     - Cambios
+
+   * - Column 1
+   * - Data 1
+     - Data 2
+     - Data 3
+
+     - Column 2
+     - Column 3
+
+
+
+
+
+* - Fecha
+
+
+
+
+  - Versión
+   - Cambios
    * - 2024-01-15
-     - 1.0
-     - Creación inicial del documento
+   - 1.0
+   - Creación inicial del documento
    * - 2024-01-20
-     - 1.1
-     - Actualización de trámites aduaneros
+   - 1.1
+   - Actualización de trámites aduaneros

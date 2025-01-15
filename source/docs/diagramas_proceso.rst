@@ -1,8 +1,9 @@
 .. _diagramas_proceso:
 
 
-Diagramas de Proceso
-====================
+Diagramas       de              Proceso        
+=============== =============== ===============
+=============== =============== ===============
 
 Este documento contiene los diagramas de flujo que ilustran los procesos
 principales de exportación y ventas.
@@ -74,5 +75,9 @@ Diagrama de Proceso de Ventas
 Historial de Cambios
 --------------------
 
-* **2024-03-20:** Creación inicial de los diagramas de proceso.
-* **2024-03-21:** Ajustes en el flujo de exportación para incluir el módulo de selección.
+
+  * **2024-03-20:** Creación inicial de los diagramas de proceso.
+
+
+
+  * **2024-03-21:** Ajustes en el flujo de exportación para incluir el módulo de selección.

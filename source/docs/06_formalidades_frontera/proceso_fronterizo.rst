@@ -1,45 +1,95 @@
 .. _proceso_fronterizo:
 
 
-Proceso Fronterizo
-==================
+Proceso         Fronterizo     
+=============== ===============
+=============== ===============
 
 .. meta::
    :description: Procedimientos y requisitos para el cruce fronterizo de ácido sulfúrico entre México y Guatemala
    :keywords: frontera, aduana, cruce, trámites, documentación
 
-Hallazgos - proceso_fronterizo.rst
-==================================
+Hallazgos       -               proceso_fronterizo.rst  
+=============== =============== ========================
+=============== =============== ========================
 
 Fecha de verificación: 15/01/2024
 
 Procedimientos Actuales
 -----------------------
-* **Hallazgo**: Falta detalle en secuencia de trámites
-* **Acción**: Desarrollar guía paso a paso
-* **Prioridad**: Alta
-* **Responsable**: Operaciones Aduanales
+
+  * **Hallazgo**: Falta detalle en secuencia de trámites
+
+
+
+  * **Acción**: Desarrollar guía paso a paso
+
+
+
+  * **Prioridad**: Alta
+
+
+
+  * **Responsable**: Operaciones Aduanales
+
+
 
 Puntos de Cruce
 ---------------
-* **Hallazgo**: No se especifican horarios y capacidades
-* **Acción**: Documentar información operativa
-* **Prioridad**: Alta
-* **Responsable**: Logística
+
+  * **Hallazgo**: No se especifican horarios y capacidades
+
+
+
+  * **Acción**: Documentar información operativa
+
+
+
+  * **Prioridad**: Alta
+
+
+
+  * **Responsable**: Logística
+
+
 
 Documentación Requerida
 -----------------------
-* **Hallazgo**: Lista de documentos incompleta
-* **Acción**: Actualizar requisitos documentales
-* **Prioridad**: Media
-* **Responsable**: Control Documental
+
+  * **Hallazgo**: Lista de documentos incompleta
+
+
+
+  * **Acción**: Actualizar requisitos documentales
+
+
+
+  * **Prioridad**: Media
+
+
+
+  * **Responsable**: Control Documental
+
+
 
 Tiempos de Proceso
 ------------------
-* **Hallazgo**: No hay estimaciones de tiempo
-* **Acción**: Establecer tiempos estándar
-* **Prioridad**: Media
-* **Responsable**: Planeación
+
+  * **Hallazgo**: No hay estimaciones de tiempo
+
+
+
+  * **Acción**: Establecer tiempos estándar
+
+
+
+  * **Prioridad**: Media
+
+
+
+  * **Responsable**: Planeación
+
+
 
 Acciones Inmediatas Requeridas
 ------------------------------
@@ -50,10 +100,22 @@ Acciones Inmediatas Requeridas
 
 Consultas Necesarias
 --------------------
+
 * Autoridades aduanales
+
+
+
 * Agentes aduanales
+
+
+
 * Personal operativo
+
+
+
 * Transportistas
+
+
 
 Próximos Pasos
 --------------
@@ -64,25 +126,47 @@ Próximos Pasos
 
 Notas Adicionales
 -----------------
+
 * Considerar variaciones estacionales
+
+
+
 * Evaluar alternativas de cruce
+
+
+
 * Mantener comunicación constante
 
-Resumen
-=======
+
+
+Resumen        
+===============
 
 Esta subsección detalla los procedimientos y requisitos necesarios para el proceso de cruce fronterizo del ácido sulfúrico.
 
-Descripción Detallada
-=====================
+Descripción     Detallada      
+=============== ===============
+=============== ===============
 
 Procedimientos Fronterizos
 --------------------------
 
+
 * Trámites previos
+
+
+
 * Proceso de cruce
+
+
+
 * Revisiones requeridas
+
+
+
 * Documentación necesaria
+
+
 
 .. important::
    Todos los trámites deben completarse antes del arribo a frontera.
@@ -90,10 +174,22 @@ Procedimientos Fronterizos
 Puntos de Cruce Autorizados
 ---------------------------
 
+
 * Ubicaciones autorizadas
+
+
+
 * Horarios de operación
+
+
+
 * Capacidades de proceso
+
+
+
 * Servicios disponibles
+
+
 
 .. warning::
    Solo se permite el cruce por puntos autorizados.
@@ -101,24 +197,38 @@ Puntos de Cruce Autorizados
 Documentación y Trámites
 ------------------------
 
+
 * Documentos requeridos
+
+
+
 * Permisos especiales
+
+
+
 * Certificaciones necesarias
+
+
+
 * Formatos aduanales
+
+
 
 .. note::
    La documentación debe estar completa y vigente.
 
-Requisitos Previos
-==================
+Requisitos      Previos        
+=============== ===============
+=============== ===============
 
 1. Documentación completa
 2. Permisos vigentes
 3. Unidad verificada
 4. Personal autorizado
 
-Ejemplos Prácticos
-==================
+Ejemplos        Prácticos      
+=============== ===============
+=============== ===============
 
 .. code-block:: text
 
@@ -136,31 +246,51 @@ Ejemplos Prácticos
       □ Inspección física
       □ Liberación
 
-Consideraciones Especiales
-==========================
+Consideraciones   Especiales     
+================= ===============
+================= ===============
 
-* Horarios de operación
-* Tiempos de espera
-* Restricciones especiales
-* Casos de emergencia
+  * Horarios de operación
+  * Tiempos de espera
+  * Restricciones especiales
+  * Casos de emergencia
 
-Documentación Relacionada
-=========================
+Documentación   Relacionada    
+=============== ===============
+=============== ===============
 
-* :ref:`requisitos_seguridad`
-* :ref:`documentacion_transporte`
-* :ref:`tramites_aduaneros`
+  * :ref:`requisitos_seguridad`
+  * :ref:`documentacion_transporte`
+  * ``tramites_aduaneros``
 
-Historial de Cambios
-====================
+Historial       de              Cambios        
+=============== =============== ===============
+=============== =============== ===============
 
 .. list-table::
    :header-rows: 1
    :widths: 15 15 70
 
-   * - Fecha
-     - Versión
-     - Cambios
+
+   * - Column 1
+   * - Data 1
+     - Data 2
+     - Data 3
+
+     - Column 2
+     - Column 3
+
+
+
+
+
+* - Fecha
+
+
+
+
+  - Versión
+   - Cambios
    * - 2024-01-15
-     - 1.0
-     - Creación inicial del documento
+   - 1.0
+   - Creación inicial del documento

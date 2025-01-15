@@ -1,28 +1,42 @@
 .. _medidas_preventivas_detalle:
 
 
-Medidas Preventivas
-===================
+Medidas         Preventivas    
+=============== ===============
+=============== ===============
 
 .. meta::
    :description: Medidas y controles preventivos para la gestión de riesgos en el transporte de ácido sulfúrico
    :keywords: medidas preventivas, control riesgos, prevención, seguridad, mantenimiento
 
-Resumen
-=======
+Resumen        
+===============
 
 Esta subsección detalla las medidas preventivas implementadas para minimizar los riesgos identificados en el transporte de |product|, incluyendo controles operativos y procedimientos de seguridad.
 
-Descripción Detallada
-=====================
+Descripción     Detallada      
+=============== ===============
+=============== ===============
 
 Controles Operativos
 --------------------
 
+
 * Mantenimiento preventivo
+
+
+
 * Inspecciones regulares
+
+
+
 * Monitoreo continuo
+
+
+
 * Procedimientos estandarizados
+
+
 
 .. important::
    Los controles operativos deben aplicarse de manera sistemática y documentada.
@@ -30,10 +44,22 @@ Controles Operativos
 Capacitación y Entrenamiento
 ----------------------------
 
+
 * Programas de capacitación
+
+
+
 * Simulacros periódicos
+
+
+
 * Actualización de conocimientos
+
+
+
 * Certificaciones requeridas
+
+
 
 .. warning::
    Todo el personal debe mantener sus certificaciones actualizadas.
@@ -41,24 +67,38 @@ Capacitación y Entrenamiento
 Sistemas de Seguridad
 ---------------------
 
+
 * Equipos de monitoreo
+
+
+
 * Sistemas de alerta temprana
+
+
+
 * Dispositivos de seguridad
+
+
+
 * Comunicaciones redundantes
+
+
 
 .. note::
    Los sistemas de seguridad deben verificarse regularmente.
 
-Requisitos Previos
-==================
+Requisitos      Previos        
+=============== ===============
+=============== ===============
 
 1. Plan de mantenimiento establecido
 2. Personal capacitado
 3. Equipos certificados
 4. Procedimientos documentados
 
-Ejemplos Prácticos
-==================
+Ejemplos        Prácticos      
+=============== ===============
+=============== ===============
 
 .. code-block:: text
 
@@ -76,34 +116,54 @@ Ejemplos Prácticos
       □ Calibración de instrumentos
       □ Actualización de registros
 
-Consideraciones Especiales
-==========================
+Consideraciones   Especiales     
+================= ===============
+================= ===============
 
-* Condiciones climáticas
-* Rutas específicas
-* Requisitos regulatorios
-* Mejores prácticas industriales
+  * Condiciones climáticas
+  * Rutas específicas
+  * Requisitos regulatorios
+  * Mejores prácticas industriales
 
-Documentación Relacionada
-=========================
+Documentación   Relacionada    
+=============== ===============
+=============== ===============
 
-* :ref:`identificacion_riesgos`
-* :ref:`evaluacion_riesgos`
-* :ref:`planes_contingencia`
+  * :ref:`identificacion_riesgos`
+  * :ref:`evaluacion_riesgos`
+  * :ref:`planes_contingencia`
 
-Historial de Cambios
-====================
+Historial       de              Cambios        
+=============== =============== ===============
+=============== =============== ===============
 
 .. list-table::
    :header-rows: 1
    :widths: 15 15 70
 
-   * - Fecha
-     - Versión
-     - Cambios
+
+   * - Column 1
+   * - Data 1
+     - Data 2
+     - Data 3
+
+     - Column 2
+     - Column 3
+
+
+
+
+
+* - Fecha
+
+
+
+
+  - Versión
+   - Cambios
    * - 2024-01-15
-     - 1.0
-     - Creación inicial del documento
+   - 1.0
+   - Creación inicial del documento
    * - 2024-01-20
-     - 1.1
-     - Actualización de programas de mantenimiento
+   - 1.1
+   - Actualización de programas de mantenimiento

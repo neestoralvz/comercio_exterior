@@ -1,28 +1,42 @@
 .. _estructura_guia_detalle:
 
 
-Estructura de Guía
-==================
+Estructura      de              Guía           
+=============== =============== ===============
+=============== =============== ===============
 
 .. meta::
    :description: Estructura y organización de la guía de exportación de ácido sulfúrico
    :keywords: estructura, organización, secciones, contenido, navegación
 
-Resumen
-=======
+Resumen        
+===============
 
 Esta subsección detalla la estructura y organización de la guía, facilitando la navegación y comprensión del contenido para una consulta eficiente.
 
-Descripción Detallada
-=====================
+Descripción     Detallada      
+=============== ===============
+=============== ===============
 
 Organización por Secciones
 --------------------------
 
+
 * Secciones principales
+
+
+
 * Subsecciones específicas
+
+
+
 * Referencias cruzadas
+
+
+
 * Índices temáticos
+
+
 
 .. important::
    Cada sección está diseñada para ser autocontenida pero interconectada.
@@ -30,10 +44,22 @@ Organización por Secciones
 Sistema de Referencias
 ----------------------
 
+
 * Referencias internas
+
+
+
 * Enlaces externos
+
+
+
 * Documentos relacionados
+
+
+
 * Bibliografía
+
+
 
 .. warning::
    Verifique que los enlaces estén actualizados antes de su uso.
@@ -41,24 +67,38 @@ Sistema de Referencias
 Elementos de Apoyo
 ------------------
 
+
 * Diagramas explicativos
+
+
+
 * Tablas de referencia
+
+
+
 * Ejemplos prácticos
+
+
+
 * Notas aclaratorias
+
+
 
 .. note::
    Los elementos de apoyo se actualizan regularmente con nuevos ejemplos.
 
-Requisitos Previos
-==================
+Requisitos      Previos        
+=============== ===============
+=============== ===============
 
 1. Conocimiento básico de navegación
 2. Acceso a documentación completa
 3. Software de visualización PDF
 4. Conexión a internet
 
-Ejemplos Prácticos
-==================
+Ejemplos        Prácticos      
+=============== ===============
+=============== ===============
 
 .. code-block:: text
 
@@ -76,34 +116,54 @@ Ejemplos Prácticos
       □ Ejemplos
       □ Referencias
 
-Consideraciones Especiales
-==========================
+Consideraciones   Especiales     
+================= ===============
+================= ===============
 
-* Actualizaciones periódicas
-* Versiones disponibles
-* Formatos de archivo
-* Accesibilidad
+  * Actualizaciones periódicas
+  * Versiones disponibles
+  * Formatos de archivo
+  * Accesibilidad
 
-Documentación Relacionada
-=========================
+Documentación   Relacionada    
+=============== ===============
+=============== ===============
 
-* :ref:`uso_guia`
-* :ref:`actualizaciones`
-* :ref:`proposito_guia`
+  * ``uso_guia``
+  * ``actualizaciones``
+  * ``proposito_guia``
 
-Historial de Cambios
-====================
+Historial       de              Cambios        
+=============== =============== ===============
+=============== =============== ===============
 
 .. list-table::
    :header-rows: 1
    :widths: 15 15 70
 
-   * - Fecha
-     - Versión
-     - Cambios
+
+   * - Column 1
+   * - Data 1
+     - Data 2
+     - Data 3
+
+     - Column 2
+     - Column 3
+
+
+
+
+
+* - Fecha
+
+
+
+
+  - Versión
+   - Cambios
    * - 2024-01-15
-     - 1.0
-     - Creación inicial del documento
+   - 1.0
+   - Creación inicial del documento
    * - 2024-01-15
-     - 1.1
-     - Actualización de estructura
+   - 1.1
+   - Actualización de estructura

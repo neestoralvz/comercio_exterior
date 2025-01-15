@@ -2,183 +2,621 @@
 .. _seguimiento_monitoreo:
 
 
-Seguimiento y Monitoreo
-=======================
+Seguimiento     y               Monitoreo      
+=============== =============== ===============
+=============== =============== ===============
 
 .. meta::
    :description: Sistemas y procedimientos para el seguimiento y monitoreo del transporte de ácido sulfúrico
    :keywords: seguimiento, monitoreo, GPS, control, rastreo, seguridad, telemetría, IoT, sensores, blockchain, IA
 
-Resumen
-=======
+Resumen        
+===============
 
 Esta subsección describe los sistemas y procedimientos implementados para el seguimiento y monitoreo en tiempo real del transporte de |product|, incluyendo tecnologías avanzadas de rastreo, telemetría IoT, análisis predictivo, protocolos de reporte y sistemas de control integrados con redundancia múltiple.
 
-Descripción Detallada
-=====================
+Descripción     Detallada      
+=============== ===============
+=============== ===============
 
 Tecnologías de Monitoreo
 ------------------------
 
+
 * **Sistema GPS Satelital**
-    - Rastreo en tiempo real con actualización cada 15 segundos
-    - Geoperimetraje (geofencing) dinámico con machine learning
-    - Alertas predictivas de desvíos
-    - Redundancia con constelaciones GPS/GLONASS/Galileo
-    - Precisión de posicionamiento: ±2 metros
-    - Historial de rutas con blockchain
-    - Análisis predictivo de rutas
-    - Detección automática de patrones anómalos
+
+
+
+
+  - Rastreo en tiempo real con actualización cada 15 segundos
+
+
+
+  - Geoperimetraje (geofencing) dinámico con machine learning
+
+
+
+  - Alertas predictivas de desvíos
+
+
+
+  - Redundancia con constelaciones GPS/GLONASS/Galileo
+
+
+
+  - Precisión de posicionamiento: ±2 metros
+
+
+
+  - Historial de rutas con blockchain
+
+
+
+  - Análisis predictivo de rutas
+
+
+
+  - Detección automática de patrones anómalos
+
+
+
 
 * **Sensores y Telemetría**
-    - Sensores de temperatura digitales
-        * Rango: -20°C a 60°C
-        * Precisión: ±0.1°C
-        * Tiempo de respuesta: 1 segundo
-        * Calibración automática
-    - Monitores de presión inteligentes
-        * Rango: 0-10 bar
-        * Precisión: ±0.05 bar
-        * Alertas configurables multinivel
-        * Compensación automática
-    - Sensores de nivel y densidad
-        * Tecnología ultrasónica/radar
-        * Precisión: ±0.1%
-        * Medición continua
-        * Autodiagnóstico
-    - Acelerómetros triaxiales
-        * Detección de impactos 3D
-        * Análisis de comportamiento de conducción
-        * Detección de frenados bruscos
-        * Estabilidad en curvas
+
+
+
+
+  - Sensores de temperatura digitales
+
+
+
+* Rango: -20°C a 60°C
+
+
+
+* Precisión: ±0.1°C
+
+
+
+* Tiempo de respuesta: 1 segundo
+
+
+
+* Calibración automática
+
+
+
+  - Monitores de presión inteligentes
+
+
+
+* Rango: 0-10 bar
+
+
+
+* Precisión: ±0.05 bar
+
+
+
+* Alertas configurables multinivel
+
+
+
+* Compensación automática
+
+
+
+  - Sensores de nivel y densidad
+
+
+
+* Tecnología ultrasónica/radar
+
+
+
+* Precisión: ±0.1%
+
+
+
+* Medición continua
+
+
+
+* Autodiagnóstico
+
+
+
+  - Acelerómetros triaxiales
+
+
+
+* Detección de impactos 3D
+
+
+
+* Análisis de comportamiento de conducción
+
+
+
+* Detección de frenados bruscos
+
+
+
+* Estabilidad en curvas
+
+
+
 
 * **Sistemas IoT Integrados**
-    - Conectividad múltiple
-        * 5G/4G/LTE principal
-        * Satelital Inmarsat como respaldo
-        * LoRaWAN para sensores
-        * Mesh networking local
-    - Procesamiento edge computing
-        * Análisis en tiempo real
-        * Filtrado de datos inteligente
-        * Compresión adaptativa
-        * Cache local 72 horas
-    - Plataforma cloud enterprise
-        * Alta disponibilidad (99.99%)
-        * Encriptación end-to-end
-        * Redundancia geográfica
-        * Análisis Big Data
+
+
+
+
+  - Conectividad múltiple
+
+
+
+* 5G/4G/LTE principal
+
+
+
+* Satelital Inmarsat como respaldo
+
+
+
+* LoRaWAN para sensores
+
+
+
+* Mesh networking local
+
+
+
+  - Procesamiento edge computing
+
+
+
+* Análisis en tiempo real
+
+
+
+* Filtrado de datos inteligente
+
+
+
+* Compresión adaptativa
+
+
+
+* Cache local 72 horas
+
+
+
+  - Plataforma cloud enterprise
+
+
+
+* Alta disponibilidad (99.99%)
+
+
+
+* Encriptación end-to-end
+
+
+
+* Redundancia geográfica
+
+
+
+* Análisis Big Data
+
+
 
 Protocolos de Control
 ---------------------
 
+
 * **Reportes Programados**
-    - Checklist pre-viaje digital
-        * 150 puntos de verificación
-        * Validación biométrica
-        * Fotografías georreferenciadas
-        * Firma digital blockchain
-    - Reportes automatizados
-        * Posición cada 15 minutos
-        * Estado de sistemas cada 5 minutos
-        * Condiciones ambientales cada minuto
-        * Eventos críticos inmediatos
-    - Validación multinivel
-        * Verificación automática
-        * Supervisión humana
-        * IA de patrones
-        * Auditoría blockchain
+
+
+
+
+  - Checklist pre-viaje digital
+
+
+
+* 150 puntos de verificación
+
+
+
+* Validación biométrica
+
+
+
+* Fotografías georreferenciadas
+
+
+
+* Firma digital blockchain
+
+
+
+  - Reportes automatizados
+
+
+
+* Posición cada 15 minutos
+
+
+
+* Estado de sistemas cada 5 minutos
+
+
+
+* Condiciones ambientales cada minuto
+
+
+
+* Eventos críticos inmediatos
+
+
+
+  - Validación multinivel
+
+
+
+* Verificación automática
+
+
+
+* Supervisión humana
+
+
+
+* IA de patrones
+
+
+
+* Auditoría blockchain
+
+
+
 
 * **Monitoreo Continuo**
-    - Análisis de conducción
-        * Velocidad instantánea y promedio
-        * Aceleraciones y frenados
-        * Comportamiento en curvas
-        * Tiempos de conducción
-    - Monitoreo de sistemas críticos
-        * Estado de componentes
-        * Diagnóstico predictivo
-        * Alertas de mantenimiento
-        * Eficiencia operativa
-    - Control de carga
-        * Temperatura y presión
-        * Nivel y densidad
-        * Integridad de contenedor
-        * Detección de fugas
+
+
+
+
+  - Análisis de conducción
+
+
+
+* Velocidad instantánea y promedio
+
+
+
+* Aceleraciones y frenados
+
+
+
+* Comportamiento en curvas
+
+
+
+* Tiempos de conducción
+
+
+
+  - Monitoreo de sistemas críticos
+
+
+
+* Estado de componentes
+
+
+
+* Diagnóstico predictivo
+
+
+
+* Alertas de mantenimiento
+
+
+
+* Eficiencia operativa
+
+
+
+  - Control de carga
+
+
+
+* Temperatura y presión
+
+
+
+* Nivel y densidad
+
+
+
+* Integridad de contenedor
+
+
+
+* Detección de fugas
+
+
+
 
 * **Gestión de Alertas**
-    - Sistema de clasificación
-        * Nivel 1: Informativo
-        * Nivel 2: Precaución
-        * Nivel 3: Advertencia
-        * Nivel 4: Emergencia
-    - Protocolos de respuesta
-        * Tiempo máximo nivel 4: 30 segundos
-        * Tiempo máximo nivel 3: 2 minutos
-        * Tiempo máximo nivel 2: 5 minutos
-        * Tiempo máximo nivel 1: 15 minutos
-    - Escalamiento automático
-        * Notificaciones multicanal
-        * Confirmación de recepción
-        * Seguimiento de acciones
-        * Documentación automática
+
+
+
+
+  - Sistema de clasificación
+
+
+
+* Nivel 1: Informativo
+
+
+
+* Nivel 2: Precaución
+
+
+
+* Nivel 3: Advertencia
+
+
+
+* Nivel 4: Emergencia
+
+
+
+  - Protocolos de respuesta
+
+
+
+* Tiempo máximo nivel 4: 30 segundos
+
+
+
+* Tiempo máximo nivel 3: 2 minutos
+
+
+
+* Tiempo máximo nivel 2: 5 minutos
+
+
+
+* Tiempo máximo nivel 1: 15 minutos
+
+
+
+  - Escalamiento automático
+
+
+
+* Notificaciones multicanal
+
+
+
+* Confirmación de recepción
+
+
+
+* Seguimiento de acciones
+
+
+
+* Documentación automática
+
+
 
 Centro de Control
 -----------------
 
+
 * **Infraestructura**
-    - Operación 24/7/365
-        * Personal certificado HAZMAT
-        * Rotación de 3 turnos
-        * Soporte multilingüe
-        * Protocolos ISO 27001
-    - Sistemas redundantes
-        * UPS triple redundante
-        * Generadores de respaldo
-        * Enlaces de comunicación duales
-        * Servidores espejo
-    - Centro de visualización
-        * Videowall 8K
-        * Estaciones de trabajo ergonómicas
-        * Sistemas de comunicación integrados
-        * Sala de crisis dedicada
+
+
+
+
+  - Operación 24/7/365
+
+
+
+* Personal certificado HAZMAT
+
+
+
+* Rotación de 3 turnos
+
+
+
+* Soporte multilingüe
+
+
+
+* Protocolos ISO 27001
+
+
+
+  - Sistemas redundantes
+
+
+
+* UPS triple redundante
+
+
+
+* Generadores de respaldo
+
+
+
+* Enlaces de comunicación duales
+
+
+
+* Servidores espejo
+
+
+
+  - Centro de visualización
+
+
+
+* Videowall 8K
+
+
+
+* Estaciones de trabajo ergonómicas
+
+
+
+* Sistemas de comunicación integrados
+
+
+
+* Sala de crisis dedicada
+
+
+
 
 * **Capacidades Operativas**
-    - Monitoreo de flota
-        * Visualización en tiempo real
-        * Análisis predictivo de rutas
-        * Optimización dinámica
-        * Gestión de recursos
-    - Sistema de comunicaciones
-        * Voz sobre IP encriptada
-        * Mensajería instantánea segura
-        * Radio digital troncalizada
-        * Videoconferencia HD
-    - Coordinación de emergencias
-        * Protocolos HAZMAT
-        * Enlaces con autoridades
-        * Recursos de respuesta
-        * Simulaciones periódicas
+
+
+
+
+  - Monitoreo de flota
+
+
+
+* Visualización en tiempo real
+
+
+
+* Análisis predictivo de rutas
+
+
+
+* Optimización dinámica
+
+
+
+* Gestión de recursos
+
+
+
+  - Sistema de comunicaciones
+
+
+
+* Voz sobre IP encriptada
+
+
+
+* Mensajería instantánea segura
+
+
+
+* Radio digital troncalizada
+
+
+
+* Videoconferencia HD
+
+
+
+  - Coordinación de emergencias
+
+
+
+* Protocolos HAZMAT
+
+
+
+* Enlaces con autoridades
+
+
+
+* Recursos de respuesta
+
+
+
+* Simulaciones periódicas
+
+
+
 
 * **Gestión de Datos**
-    - Análisis en tiempo real
-        * Machine learning
-        * Detección de anomalías
-        * Predicción de riesgos
-        * Optimización de rutas
-    - Reportería avanzada
-        * Dashboards personalizados
-        * KPIs operativos
-        * Análisis de tendencias
-        * Reportes automatizados
-    - Almacenamiento seguro
-        * Blockchain para trazabilidad
-        * Encriptación AES-256
-        * Respaldo multinivel
-        * Retención 10 años
 
-Requisitos Previos
-==================
+
+
+
+  - Análisis en tiempo real
+
+
+
+* Machine learning
+
+
+
+* Detección de anomalías
+
+
+
+* Predicción de riesgos
+
+
+
+* Optimización de rutas
+
+
+
+  - Reportería avanzada
+
+
+
+* Dashboards personalizados
+
+
+
+* KPIs operativos
+
+
+
+* Análisis de tendencias
+
+
+
+* Reportes automatizados
+
+
+
+  - Almacenamiento seguro
+
+
+
+* Blockchain para trazabilidad
+
+
+
+* Encriptación AES-256
+
+
+
+* Respaldo multinivel
+
+
+
+* Retención 10 años
+
+
+
+Requisitos      Previos        
+=============== ===============
+=============== ===============
 
 1. Equipamiento tecnológico instalado y certificado
 2. Personal con certificación en sistemas avanzados
@@ -189,8 +627,9 @@ Requisitos Previos
 7. Auditoría de seguridad completada
 8. Redundancia verificada
 
-Procedimientos Operativos
-=========================
+Procedimientos   Operativos     
+================ ===============
+================ ===============
 
 .. code-block:: text
 
@@ -226,56 +665,140 @@ Procedimientos Operativos
       □ Registro en blockchain
       □ Auditoría de respuesta
 
-Consideraciones Especiales
-==========================
+Consideraciones   Especiales     
+================= ===============
+================= ===============
+
 
 * **Zonas sin Cobertura**
-    - Protocolos de respaldo satelital
-    - Almacenamiento local de datos
-    - Sincronización automática
-    - Procedimientos alternativos
+
+
+
+
+  - Protocolos de respaldo satelital
+
+
+
+  - Almacenamiento local de datos
+
+
+
+  - Sincronización automática
+
+
+
+  - Procedimientos alternativos
+
+
+
 
 * **Condiciones Adversas**
-    - Protocolos específicos por condición
-    - Sistemas redundantes activados
-    - Monitoreo intensificado
-    - Recursos adicionales disponibles
+
+
+
+
+  - Protocolos específicos por condición
+
+
+
+  - Sistemas redundantes activados
+
+
+
+  - Monitoreo intensificado
+
+
+
+  - Recursos adicionales disponibles
+
+
+
 
 * **Contingencias Tecnológicas**
-    - Sistemas de respaldo inmediato
-    - Procedimientos manuales documentados
-    - Recuperación de datos garantizada
-    - Soporte técnico 24/7
+
+
+
+
+  - Sistemas de respaldo inmediato
+
+
+
+  - Procedimientos manuales documentados
+
+
+
+  - Recuperación de datos garantizada
+
+
+
+  - Soporte técnico 24/7
+
+
+
 
 * **Mejora Continua**
-    - Análisis de datos históricos
-    - Actualización de algoritmos
-    - Optimización de procesos
-    - Incorporación de nuevas tecnologías
 
-Documentación Relacionada
-=========================
 
-* :ref:`planificacion_transporte`
-* :ref:`requisitos_seguridad`
-* :ref:`protocolos_emergencia`
-* :ref:`gestion_riesgos`
-* :ref:`matriz_riesgos`
-* :ref:`planes_contingencia`
 
-Historial de Cambios
-====================
+
+  - Análisis de datos históricos
+
+
+
+  - Actualización de algoritmos
+
+
+
+  - Optimización de procesos
+
+
+
+  - Incorporación de nuevas tecnologías
+
+
+
+Documentación   Relacionada    
+=============== ===============
+=============== ===============
+
+  * :ref:`planificacion_transporte`
+  * :ref:`requisitos_seguridad`
+  * :ref:`protocolos_emergencia`
+  * ``gestion_riesgos``
+  * ``matriz_riesgos``
+  * :ref:`planes_contingencia`
+
+Historial       de              Cambios        
+=============== =============== ===============
+=============== =============== ===============
 
 .. list-table::
    :header-rows: 1
    :widths: 15 15 70
 
-   * - Fecha
-     - Versión
-     - Cambios
+
+   * - Column 1
+   * - Data 1
+     - Data 2
+     - Data 3
+
+     - Column 2
+     - Column 3
+
+
+
+
+
+* - Fecha
+
+
+
+
+  - Versión
+   - Cambios
    * - 2024-01-15
-     - 1.0
-     - Creación inicial del documento
+   - 1.0
+   - Creación inicial del documento
    * - 2024-01-15
-     - 1.1
-     - Actualización completa con especificaciones técnicas detalladas y protocolos avanzados de monitoreo
+   - 1.1
+   - Actualización completa con especificaciones técnicas detalladas y protocolos avanzados de monitoreo

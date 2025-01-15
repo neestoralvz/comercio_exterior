@@ -1,66 +1,73 @@
 .. _costos_riesgos:
 
 
-Costos y Riesgos
-================
+Costos          y               Riesgos        
+=============== =============== ===============
+=============== =============== ===============
 
 .. meta::
    :description: Distribución de costos y riesgos según los Incoterms en la exportación de ácido sulfúrico
    :keywords: costos, riesgos, seguros, transporte, incoterms, exportación
 
-Resumen
-=======
+Resumen        
+===============
 
 Esta subsección detalla la distribución de costos y riesgos entre vendedor y comprador según los diferentes términos Incoterms aplicables en la exportación de ácido sulfúrico.
 
-Descripción Detallada
-=====================
+Descripción     Detallada      
+=============== ===============
+=============== ===============
 
 .. _costos_asociados:
 
-Distribución de Costos
-======================
+Distribución    de              Costos         
+=============== =============== ===============
+=============== =============== ===============
 
-* Costos de producción y embalaje
-* Costos de transporte y manipulación
-* Gastos de despacho y documentación
-* Seguros y garantías
+  * Costos de producción y embalaje
+  * Costos de transporte y manipulación
+  * Gastos de despacho y documentación
+  * Seguros y garantías
 
 .. important::
    La distribución de costos debe estar claramente especificada en el contrato comercial.
 
-Transferencia de Riesgos
-========================
+Transferencia   de              Riesgos        
+=============== =============== ===============
+=============== =============== ===============
 
-* Punto de transferencia
-* Responsabilidad por pérdidas
-* Cobertura de seguros
-* Documentación de respaldo
+  * Punto de transferencia
+  * Responsabilidad por pérdidas
+  * Cobertura de seguros
+  * Documentación de respaldo
 
 .. warning::
    La falta de claridad en la transferencia de riesgos puede generar disputas comerciales.
 
-Seguros y Garantías
-===================
+Seguros         y               Garantías      
+=============== =============== ===============
+=============== =============== ===============
 
-* Tipos de seguros requeridos
-* Coberturas mínimas
-* Beneficiarios designados
-* Procedimientos de reclamo
+  * Tipos de seguros requeridos
+  * Coberturas mínimas
+  * Beneficiarios designados
+  * Procedimientos de reclamo
 
 .. note::
    Los seguros deben cubrir adecuadamente los riesgos específicos del transporte de ácido sulfúrico.
 
-Requisitos Previos
-==================
+Requisitos      Previos        
+=============== ===============
+=============== ===============
 
 1. Evaluación de riesgos
 2. Análisis de costos
 3. Políticas de seguro
 4. Procedimientos de reclamo
 
-Ejemplos Prácticos
-==================
+Ejemplos        Prácticos      
+=============== ===============
+=============== ===============
 
 .. code-block:: text
 
@@ -78,34 +85,54 @@ Ejemplos Prácticos
       □ Retraso
       □ Incumplimiento
 
-Consideraciones Especiales
-==========================
+Consideraciones   Especiales     
+================= ===============
+================= ===============
 
-* Naturaleza del producto
-* Ruta de transporte
-* Condiciones climáticas
-* Requisitos regulatorios
+  * Naturaleza del producto
+  * Ruta de transporte
+  * Condiciones climáticas
+  * Requisitos regulatorios
 
-Documentación Relacionada
-=========================
+Documentación   Relacionada    
+=============== ===============
+=============== ===============
 
-* :ref:`terminos_aplicables`
-* :ref:`responsabilidades`
-* :ref:`documentacion_requerida`
+  * :ref:`terminos_aplicables`
+  * :ref:`responsabilidades`
+  * :ref:`documentacion_requerida`
 
-Historial de Cambios
-====================
+Historial       de              Cambios        
+=============== =============== ===============
+=============== =============== ===============
 
 .. list-table::
    :header-rows: 1
    :widths: 15 15 70
 
-   * - Fecha
-     - Versión
-     - Cambios
+
+   * - Column 1
+   * - Data 1
+     - Data 2
+     - Data 3
+
+     - Column 2
+     - Column 3
+
+
+
+
+
+* - Fecha
+
+
+
+
+  - Versión
+   - Cambios
    * - 2024-01-15
-     - 1.0
-     - Creación inicial del documento
+   - 1.0
+   - Creación inicial del documento
    * - 2024-01-20
-     - 1.1
-     - Actualización de matriz de costos y riesgos
+   - 1.1
+   - Actualización de matriz de costos y riesgos

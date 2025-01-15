@@ -1,5 +1,6 @@
-Procedimiento de Importación en Guatemala
-=========================================
+Procedimiento   de              Importación     en              Guatemala      
+=============== =============== =============== =============== ===============
+=============== =============== =============== =============== ===============
 
 Procedimiento Aduanero de Entrada
 ---------------------------------
@@ -10,23 +11,23 @@ Procedimiento Aduanero de Entrada
 Documentos Básicos
 ^^^^^^^^^^^^^^^^^^
 
-- Declaración Única Aduanera (DUA)
-- Factura comercial
-- Lista de empaque
-- Certificado de origen (si aplica)
-- MSDS (Hoja de seguridad) del ácido sulfúrico en español
-- Manifiesto de carga
-- Carta porte internacional
-- Póliza de seguro internacional
+  - Declaración Única Aduanera (DUA)
+  - Factura comercial
+  - Lista de empaque
+  - Certificado de origen (si aplica)
+  - MSDS (Hoja de seguridad) del ácido sulfúrico en español
+  - Manifiesto de carga
+  - Carta porte internacional
+  - Póliza de seguro internacional
 
 Permisos Especiales
 ^^^^^^^^^^^^^^^^^^^
 
-- Licencia de importación del MARN
-- Autorización del Ministerio de Energía y Minas
-- Certificado de registro sanitario
+  - Licencia de importación del MARN
+  - Autorización del Ministerio de Energía y Minas
+  - Certificado de registro sanitario
 
-2. Proceso de Internación
+  2. Proceso de Internación
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Llegada a Aduana Tecún Umán
@@ -43,9 +44,9 @@ Llegada a Aduana Tecún Umán
 Aranceles Aplicables
 ^^^^^^^^^^^^^^^^^^^^
 
-- Derechos arancelarios de importación (DAI): 0-15%
-- IVA: 12%
-- Tasa por servicios aduaneros
+  - Derechos arancelarios de importación (DAI): 0-15%
+  - IVA: 12%
+  - Tasa por servicios aduaneros
 
 Proceso de Pago
 ^^^^^^^^^^^^^^^
@@ -61,19 +62,19 @@ Proceso de Pago
 Inspección MARN
 ^^^^^^^^^^^^^^^
 
-- Verificación de documentación ambiental
-- Revisión de medidas de seguridad
-- Comprobación de etiquetado
-- Validación de permisos especiales
+  - Verificación de documentación ambiental
+  - Revisión de medidas de seguridad
+  - Comprobación de etiquetado
+  - Validación de permisos especiales
 
 Control Sanitario
 ^^^^^^^^^^^^^^^^^
 
-- Inspección física del producto
-- Verificación de condiciones de transporte
-- Revisión de certificados sanitarios
+  - Inspección física del producto
+  - Verificación de condiciones de transporte
+  - Revisión de certificados sanitarios
 
-5. Liberación de Mercancía
+  5. Liberación de Mercancía
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Proceso Final
@@ -90,16 +91,18 @@ Normativa Local Aplicable
 Regulaciones MARN
 ~~~~~~~~~~~~~~~~~
 
-- Acuerdo Gubernativo 137-2016 (Reglamento de Evaluación, Control y
+  - Acuerdo Gubernativo 137-2016 (Reglamento de Evaluación, Control y
+
   Seguimiento Ambiental)
-- Listado Taxativo de Proyectos, Obras, Industrias o Actividades
-- Normas para el manejo de sustancias químicas peligrosas
+  - Listado Taxativo de Proyectos, Obras, Industrias o Actividades
+  - Normas para el manejo de sustancias químicas peligrosas
 
 Ministerio de Economía
 ~~~~~~~~~~~~~~~~~~~~~~
 
-- Ley de Comercio Exterior
-- Reglamento sobre el Régimen de Tránsito Aduanero Internacional
+  - Ley de Comercio Exterior
+  - Reglamento sobre el Régimen de Tránsito Aduanero Internacional
+
   Terrestre
 
 Contactos de Apoyo
@@ -108,9 +111,9 @@ Contactos de Apoyo
 Aduana Tecún Umán
 ~~~~~~~~~~~~~~~~~
 
-- Dirección: Km. 251 Carretera a Tecún Umán
-- Teléfono: +502 7776-8000
-- Email: info@sat.gob.gt
+  - Dirección: Km. 251 Carretera a Tecún Umán
+  - Teléfono: +502 7776-8000
+  - Email: info@sat.gob.gt
 
 Autoridades Competentes
 ~~~~~~~~~~~~~~~~~~~~~~~
@@ -118,7 +121,7 @@ Autoridades Competentes
 MARN Guatemala
 ^^^^^^^^^^^^^^
 
-- Ventanilla Ambiental
+  - Ventanilla Ambiental
 
   - Tel: +502 2423-0500
   - Email: ventanillaambiental@marn.gob.gt
@@ -126,7 +129,7 @@ MARN Guatemala
 Dirección de Comercio Exterior - MINECO
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-- Dirección de Comercio Exterior
+  - Dirección de Comercio Exterior
 
   - Tel: +502 2412-0200
   - Email: comercioexterior@mineco.gob.gt
@@ -139,18 +142,40 @@ Agencias Aduanales
 
 1. Agencia Aduanal Tecún Umán
 
-   - Tel: +502 7776-8100
-   - Contacto: Lic. Mario González
+
+  - Tel: +502 7776-8100
+
+
+
+  - Contacto: Lic. Mario González
+
+
 
 2. Servicios Aduaneros Integrados
 
-   - Tel: +502 7776-8200
-   - Email: servicios@aduanasintegradas.com
+
+  - Tel: +502 7776-8200
+
+
+
+  - Email: servicios@aduanasintegradas.com
+
+
 
 Enlaces Útiles
 --------------
 
-- `SAT Guatemala <https://portal.sat.gob.gt/>`__
-- `MARN Guatemala <https://www.marn.gob.gt/>`__
-- `Ministerio de Economía <https://www.mineco.gob.gt/>`__
-- `Ventanilla Ágil de Importaciones <https://vai.gt/>`__
+
+  - `SAT Guatemala <https://portal.sat.gob.gt/>`__
+
+
+
+  - `MARN Guatemala <https://www.marn.gob.gt/>`__
+
+
+
+  - `Ministerio de Economía <https://www.mineco.gob.gt/>`__
+
+
+
+  - `Ventanilla Ágil de Importaciones <https://vai.gt/>`__

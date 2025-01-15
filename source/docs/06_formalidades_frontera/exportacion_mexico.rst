@@ -1,5 +1,6 @@
-Procedimiento de Exportación en México - Frontera Suchiate
-==========================================================
+Procedimiento   de              Exportación     en              México          -               Frontera        Suchiate       
+=============== =============== =============== =============== =============== =============== =============== ===============
+=============== =============== =============== =============== =============== =============== =============== ===============
 
 Procedimiento Aduanero de Salida
 --------------------------------
@@ -7,22 +8,22 @@ Procedimiento Aduanero de Salida
 1. Preparación Documental Previa
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-- Pedimento de exportación (A1)
-- Factura comercial
-- Lista de empaque
-- Certificado de origen (si aplica)
-- MSDS (Hoja de seguridad) del ácido sulfúrico
-- Permiso de SEMARNAT para exportación de materiales peligrosos
-- Carta porte internacional
-- Póliza de seguro internacional
+  - Pedimento de exportación (A1)
+  - Factura comercial
+  - Lista de empaque
+  - Certificado de origen (si aplica)
+  - MSDS (Hoja de seguridad) del ácido sulfúrico
+  - Permiso de SEMARNAT para exportación de materiales peligrosos
+  - Carta porte internacional
+  - Póliza de seguro internacional
 
-2. Llegada al Punto Aduanero
+  2. Llegada al Punto Aduanero
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Ubicación y Horarios
 ^^^^^^^^^^^^^^^^^^^^
 
-- **Aduana de Ciudad Hidalgo, Chiapas**
+  - **Aduana de Ciudad Hidalgo, Chiapas**
 
   - Dirección: Carretera Panamericana Km. 1, Ciudad Hidalgo, Chiapas
   - Horario de operación: Lunes a Viernes 9:00 - 18:00
@@ -61,8 +62,8 @@ Proceso de Revisión
 Semáforo Fiscal
 ^^^^^^^^^^^^^^^
 
-- **Luz Verde**: Desaduanamiento directo
-- **Luz Roja**: Revisión física de la mercancía
+  - **Luz Verde**: Desaduanamiento directo
+  - **Luz Roja**: Revisión física de la mercancía
 
 Revisión Física (en caso de luz roja)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -78,14 +79,14 @@ Revisión Física (en caso de luz roja)
 Impuestos Aplicables
 ^^^^^^^^^^^^^^^^^^^^
 
-- DTA (Derecho de Trámite Aduanero)
-- Impuestos estatales (si aplican)
+  - DTA (Derecho de Trámite Aduanero)
+  - Impuestos estatales (si aplican)
 
 Métodos de Pago
 ^^^^^^^^^^^^^^^
 
-- Pago electrónico previo
-- Cuenta aduanera de garantía
+  - Pago electrónico previo
+  - Cuenta aduanera de garantía
 
 Rol del Agente Aduanal
 ----------------------
@@ -101,18 +102,28 @@ Responsabilidades Principales
 Servicios Adicionales
 ~~~~~~~~~~~~~~~~~~~~~
 
-- Asesoría en regulaciones y restricciones
-- Coordinación con transportistas
-- Seguimiento del proceso de exportación
-- Gestión de contingencias
+  - Asesoría en regulaciones y restricciones
+  - Coordinación con transportistas
+  - Seguimiento del proceso de exportación
+  - Gestión de contingencias
 
 Enlaces Importantes
 -------------------
 
-- `Portal del SAT - Comercio
-  Exterior <https://www.sat.gob.mx/comercio-exterior>`__
-- `VUCEM - Ventanilla Única <https://www.ventanillaunica.gob.mx/>`__
-- `SEMARNAT - Permisos de Exportación <https://www.gob.mx/semarnat>`__
+
+  - `Portal del SAT - Comercio
+
+
+
+    Exterior <https://www.sat.gob.mx/comercio-exterior>`__
+
+  - `VUCEM - Ventanilla Única <https://www.ventanillaunica.gob.mx/>`__
+
+
+
+  - `SEMARNAT - Permisos de Exportación <https://www.gob.mx/semarnat>`__
+
+
 
 Contactos de Emergencia
 -----------------------
@@ -120,12 +131,12 @@ Contactos de Emergencia
 Aduana de Ciudad Hidalgo
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
-- Central de Emergencias: +52 (962) 698-0198
-- Supervisión Aduanera: +52 (962) 698-0199
+  - Central de Emergencias: +52 (962) 698-0198
+  - Supervisión Aduanera: +52 (962) 698-0199
 
 Autoridades Locales
 ~~~~~~~~~~~~~~~~~~~
 
-- Protección Civil: 911
-- Bomberos: +52 (962) 626-0616
-- Cruz Roja: +52 (962) 626-0555
+  - Protección Civil: 911
+  - Bomberos: +52 (962) 626-0616
+  - Cruz Roja: +52 (962) 626-0555

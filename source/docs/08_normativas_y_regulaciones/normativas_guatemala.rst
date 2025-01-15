@@ -1,31 +1,45 @@
 .. _normativas_guatemala_detalle:
 
 
-Normativas Guatemaltecas
-========================
+Normativas      Guatemaltecas  
+=============== ===============
+=============== ===============
 
 .. meta::
    :description: Marco normativo y regulatorio guatemalteco para la importación y transporte de ácido sulfúrico
    :keywords: normativas Guatemala, leyes, regulaciones, SAT, MARN, importación
 
 
-Resumen
-=======
+Resumen        
+===============
 
 Esta subsección detalla las normativas y regulaciones guatemaltecas aplicables a la importación y transporte de |product|, incluyendo leyes nacionales y disposiciones específicas.
 
 
-Descripción Detallada
-=====================
+Descripción     Detallada      
+=============== ===============
+=============== ===============
 
 
 Marco Legal General
 -------------------
 
+
 * Ley de Aduanas
+
+
+
 * Código Aduanero Uniforme Centroamericano
+
+
+
 * Ley de Transporte
+
+
+
 * Ley de Protección Ambiental
+
+
 
 .. important::
    El marco legal guatemalteco debe cumplirse desde el ingreso al país.
@@ -34,10 +48,22 @@ Marco Legal General
 Regulaciones Específicas
 ------------------------
 
+
 * Normas de importación
+
+
+
 * Regulaciones de transporte
+
+
+
 * Disposiciones ambientales
+
+
+
 * Controles sanitarios
+
+
 
 .. warning::
    El incumplimiento puede resultar en retención de mercancías y multas.
@@ -46,17 +72,30 @@ Regulaciones Específicas
 Autoridades Competentes
 -----------------------
 
+
 * SAT (Superintendencia de Administración Tributaria)
+
+
+
 * MARN (Ministerio de Ambiente)
+
+
+
 * Ministerio de Salud
+
+
+
 * Autoridades locales
+
+
 
 .. note::
    Mantener comunicación activa con las autoridades competentes.
 
 
-Requisitos Previos
-==================
+Requisitos      Previos        
+=============== ===============
+=============== ===============
 
 1. Registro de importador
 2. Permisos ambientales
@@ -64,8 +103,9 @@ Requisitos Previos
 4. Autorizaciones sanitarias
 
 
-Ejemplos Prácticos
-==================
+Ejemplos        Prácticos      
+=============== ===============
+=============== ===============
 
 .. code-block:: text
 
@@ -84,36 +124,56 @@ Ejemplos Prácticos
       □ Documentación vehicular
 
 
-Consideraciones Especiales
-==========================
+Consideraciones   Especiales     
+================= ===============
+================= ===============
 
-* Zonas restringidas
-* Horarios permitidos
-* Rutas autorizadas
-* Requisitos locales
-
-
-Documentación Relacionada
-=========================
-
-* :ref:`normativas_mexico`
-* :ref:`normativas_internacionales`
-* :ref:`formalidades_frontera`
+  * Zonas restringidas
+  * Horarios permitidos
+  * Rutas autorizadas
+  * Requisitos locales
 
 
-Historial de Cambios
-====================
+Documentación   Relacionada    
+=============== ===============
+=============== ===============
+
+  * :ref:`normativas_mexico`
+  * :ref:`normativas_internacionales`
+  * :ref:`formalidades_frontera`
+
+
+Historial       de              Cambios        
+=============== =============== ===============
+=============== =============== ===============
 
 .. list-table::
    :header-rows: 1
    :widths: 15 15 70
 
-   * - Fecha
-     - Versión
-     - Cambios
+
+   * - Column 1
+   * - Data 1
+     - Data 2
+     - Data 3
+
+     - Column 2
+     - Column 3
+
+
+
+
+
+* - Fecha
+
+
+
+
+  - Versión
+   - Cambios
    * - 2024-01-15
-     - 1.0
-     - Creación inicial del documento
+   - 1.0
+   - Creación inicial del documento
    * - 2024-01-20
-     - 1.1
-     - Actualización de requisitos de importación
+   - 1.1
+   - Actualización de requisitos de importación

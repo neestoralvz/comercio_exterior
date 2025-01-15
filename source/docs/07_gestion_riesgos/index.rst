@@ -1,8 +1,9 @@
-.. _gestion_riesgos:
+.. _07_gestion_riesgos_index_gestion_riesgos:
 
 
-Gestión de Riesgos
-==================
+Gestión         de              Riesgos        
+=============== =============== ===============
+=============== =============== ===============
 
 .. meta::
    :description: Gestión y mitigación de riesgos en el transporte de ácido sulfúrico entre México y Guatemala
@@ -13,8 +14,8 @@ Gestión de Riesgos
    :local:
    :backlinks: none
 
-Introducción
-============
+Introducción   
+===============
 
 Esta sección detalla los procedimientos y medidas para la gestión efectiva de riesgos en el transporte de |product| desde |origin_country| hacia |destination_country|.
 
@@ -28,16 +29,16 @@ Establecer un marco integral para la identificación, evaluación y mitigación 
 .. _alcance_riesgos:
 
 Alcance
--------
 
-* Identificación de riesgos
-* Evaluación de impacto
-* Medidas preventivas
-* Planes de contingencia
-* Protocolos de emergencia
+  * Identificación de riesgos
+  * Evaluación de impacto
+  * Medidas preventivas
+  * Planes de contingencia
+  * Protocolos de emergencia
 
-Contenido Principal
-===================
+Contenido       Principal      
+=============== ===============
+=============== ===============
 
 .. toctree::
    :maxdepth: 2
@@ -51,10 +52,22 @@ Contenido Principal
 Identificación de Riesgos
 -------------------------
 
+
 * Riesgos operativos
+
+
+
 * Riesgos ambientales
+
+
+
 * Riesgos regulatorios
+
+
+
 * Riesgos de seguridad
+
+
 
 .. tip::
    La identificación temprana de riesgos permite una mejor planificación preventiva.
@@ -64,10 +77,22 @@ Identificación de Riesgos
 Evaluación de Riesgos
 ---------------------
 
+
 * Metodología de evaluación
+
+
+
 * Criterios de impacto
+
+
+
 * Probabilidad de ocurrencia
+
+
+
 * Niveles de riesgo
+
+
 
 .. warning::
    Todos los riesgos identificados deben ser evaluados y documentados.
@@ -77,24 +102,38 @@ Evaluación de Riesgos
 Medidas Preventivas
 -------------------
 
+
 * Controles operativos
+
+
+
 * Capacitación
+
+
+
 * Mantenimiento preventivo
+
+
+
 * Auditorías de seguridad
 
-Aspectos Clave
-==============
 
-* Gestión proactiva
-* Monitoreo continuo
-* Actualización de planes
-* Mejora continua
+
+Aspectos        Clave          
+=============== ===============
+=============== ===============
+
+  * Gestión proactiva
+  * Monitoreo continuo
+  * Actualización de planes
+  * Mejora continua
 
 .. important::
    La gestión de riesgos debe ser un proceso continuo y dinámico.
 
-Mejores Prácticas
-=================
+Mejores         Prácticas      
+=============== ===============
+=============== ===============
 
 1. Evaluación periódica de riesgos
 2. Actualización de procedimientos
@@ -104,43 +143,66 @@ Mejores Prácticas
 .. note::
    Las mejores prácticas deben adaptarse a las condiciones específicas de cada operación.
 
-Documentos Relacionados
-=======================
+Documentos      Relacionados   
+=============== ===============
+=============== ===============
 
-* :download:`Manual de Gestión de Riesgos <../templates/manual_riesgos.pdf>`
-* :download:`Protocolos de Emergencia <../templates/protocolos_emergencia.pdf>`
+  * :download:`Manual de Gestión de Riesgos <../templates/manual_riesgos.pdf>`
+  * :download:`Protocolos de Emergencia <../templates/protocolos_emergencia.pdf>`
 
-Referencias Normativas
-======================
+Referencias     Normativas     
+=============== ===============
+=============== ===============
 
-* Normas de seguridad
-* Regulaciones de transporte
-* Estándares internacionales
-* Protocolos de emergencia
+  * Normas de seguridad
+  * Regulaciones de transporte
+  * Estándares internacionales
+  * Protocolos de emergencia
 
-Secciones Relacionadas
-======================
+Secciones       Relacionadas   
+=============== ===============
+=============== ===============
 
-* :ref:`transporte_y_logistica`
-* :ref:`seguridad_transporte`
-* :ref:`planes_contingencia`
+  * :ref:`transporte_y_logistica`
+  * :ref:`seguridad_transporte`
+  * :ref:`planes_contingencia`
 
 .. seealso::
    Consulte las actualizaciones de normativas de seguridad en ambos países.
 
-Historial de Cambios
-====================
+Historial       de              Cambios        
+=============== =============== ===============
+=============== =============== ===============
 
 .. list-table::
    :header-rows: 1
    :widths: 15 15 70
 
-   * - Fecha
-     - Versión
-     - Cambios
+
+   * - Column 1
+   * - Data 1
+     - Data 2
+     - Data 3
+
+     - Column 2
+     - Column 3
+
+
+
+
+
+* - Fecha
+
+
+
+
+  - Versión
+   - Cambios
    * - 2024-01-15
-     - 1.0
-     - Versión inicial del documento
+   - 1.0
+   - Versión inicial del documento
+
+
 
 |disclaimer|
 
