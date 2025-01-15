@@ -1,0 +1,152 @@
+# Plan de Acción para la Documentación con Sphinx (Iteración 13) - Diagnóstico y Mejora
+
+## Diagnóstico del Estado Actual
+
+*   **Conversión a reStructuredText:** Completada.
+*   **Estructura de Carpetas:** Correcta (`docs`, `dev` en raíz).
+    *   El archivo `substitutions.rst` se ha movido a la carpeta `docs`.
+*   **Archivos `index.rst`:** Creados y actualizados en cada subcarpeta.
+*   **Contenido:** Se ha avanzado en la aplicación de plantillas y la
+    actualización de contenido, pero persisten errores de compilación
+    debido a:
+    *   Subtítulos con subrayado insuficiente.
+    *   Etiquetas de referencia duplicadas.
+    *   Definiciones de sustitución duplicadas.
+    *   Documentos no incluidos en la `toctree`.
+    *   Referencias a etiquetas no definidas.
+    *   Archivos PDF faltantes.
+*   **Configuración de Sphinx:**
+    *   Se ha actualizado `conf.py` para corregir la ruta del
+        archivo de sustituciones.
+    *   Se ha incluido la extensión `sphinxcontrib-mermaid` para
+        los diagramas.
+    *   Se ha añadido un logo y un favicon básicos (placeholders).
+*   **Referencias a Markdown:** Actualizadas.
+*   **Mejores Prácticas:** Aplicadas en la mayoría de la
+    documentación.
+*   **Diagramas:** Creados en `diagramas_proceso.rst` pero no se
+    visualizan por errores de compilación.
+*   **Plantillas:** Creadas y aplicadas a todas las secciones.
+*   **Estilos:** `custom.css` implementado y mejorado.
+*   **JavaScript:** `custom.js` implementado y mejorado.
+*   **Verificación:** Se ha avanzado en la verificación, pero se ha
+    detenido para resolver los problemas de compilación.
+
+## Análisis del Problema
+
+Los errores de compilación actuales impiden la generación correcta de
+la documentación en HTML. Los errores principales se refieren a la
+estructura de los archivos `.rst` (subtítulos y etiquetas duplicadas),
+la gestión de sustituciones y la inclusión de archivos en la
+`toctree`. Se necesita una revisión sistemática para corregir estos
+errores antes de continuar con la verificación y actualización del
+contenido.
+
+## Plan de Acción Mejorado (Iteración 13)
+
+### 1. Resolver Errores de Compilación
+
+*   **Objetivo:**  Generar la documentación HTML sin errores ni
+    advertencias.
+*   **Acciones:**
+    *   **Subtítulos:** Revisar todos los archivos `.rst` y
+        asegurar que los subtítulos tengan el subrayado de la
+        longitud correcta.
+    *   **Etiquetas Duplicadas:** Identificar y eliminar las
+        etiquetas duplicadas. Asegurar que cada etiqueta sea única
+        dentro del proyecto.
+    *   **Sustituciones:**
+        *   Eliminar las definiciones de sustituciones duplicadas
+            de los archivos individuales.
+        *   Mantener las definiciones de sustituciones solamente en
+            `substitutions.rst`.
+        *   Verificar que `conf.py` apunte a `substitutions.rst` dentro de la carpeta `docs`.
+    *   **Toctree:**  Revisar `index.rst` y los `index.rst` de cada
+        subcarpeta para asegurar que todos los archivos `.rst` estén
+        incluidos en la estructura de navegación.
+        *   Añadir los archivos faltantes a la `toctree`
+            correspondiente.
+        *   Ajustar `:maxdepth:` si es necesario.
+    *   **Referencias:**  Corregir las referencias a etiquetas no
+        definidas.
+        *   Verificar que la etiqueta exista.
+        *   Corregir el nombre de la etiqueta en la referencia, si
+            es necesario.
+    *   **Archivos Faltantes:**
+        *   Crear archivos PDF de ejemplo (placeholders) para los
+            documentos referenciados como descargables (o
+            eliminar la referencia si no son esenciales en este
+            momento).
+        *   Asegurar que las rutas a los archivos descargables sean
+            correctas.
+    *   **Compilar y Verificar:** Ejecutar `make html` después de
+        cada corrección para verificar que se hayan resuelto los
+        errores.
+
+### 2.  Diagramas de Flujo
+
+*   **Objetivo:**  Integrar correctamente los diagramas de flujo a la
+    documentación.
+*   **Acciones:**
+    *   **Corregir Directiva:** Reemplazar `.. mermaid::` por
+        `.. mermaid-setup::` o `.. mermaid:: :align: center` para la
+        correcta visualización.
+    *   **Verificar Instalación:** Asegurar que la extensión
+        `sphinxcontrib-mermaid` esté correctamente instalada y
+        configurada en `conf.py`.
+    *   **Compilar y Revisar:**  Ejecutar `make html` y verificar
+        la correcta visualización de los diagramas en la
+        documentación HTML.
+
+### 3.  Verificación y Validación de la Información (Después de Corregir Errores)
+
+*   **Objetivo:** Asegurar que toda la información sea precisa,
+    veraz y esté actualizada.
+*   **Acciones:** Continuar con el proceso de verificación detallado
+    en la Iteración 10, incluyendo la validación con expertos y la
+    consulta de fuentes oficiales.
+
+### 4. Completar Información Pendiente
+
+*   **Objetivo:** Llenar los vacíos de información identificados
+    durante la verificación (`[?]`).
+*   **Acciones:**
+    *   Investigar y documentar la información faltante.
+    *   Crear la sección `directorio.rst` bajo
+        `08_contactos_y_soporte/`.
+
+### 5.  Revisión Final y Validación con Usuarios
+
+*   **Objetivo:**  Asegurar la calidad y usabilidad de la
+    documentación.
+*   **Acciones:**
+    *   Realizar una revisión final de la documentación compilada.
+    *   Presentar la documentación a los equipos involucrados
+        para validación.
+    *   Recabar feedback y realizar ajustes.
+
+### 6.  Mantenimiento y Mejora Continua
+
+*   **Objetivo:** Mantener la documentación actualizada y relevante.
+*   **Acciones:**
+    *   Establecer un proceso de revisión periódica (trimestral).
+    *   Habilitar un canal para feedback y sugerencias.
+    *   Actualizar la documentación con regularidad.
+
+## Próximos Pasos
+
+1.  **Resolver los errores de compilación** relacionados con los
+    subtítulos, etiquetas duplicadas, sustituciones, toctree,
+    referencias y archivos faltantes.
+2.  **Corregir la directiva de Mermaid** para la correcta
+    visualización de los diagramas.
+3.  **Compilar la documentación** y verificar que se genere sin
+    errores.
+4.  **Continuar con el proceso de verificación y validación** una
+    vez que la documentación se compile correctamente.
+
+Este plan de acción mejorado, en su decimotercera iteración, se centra
+en **resolver los problemas técnicos que impiden la correcta
+compilación** de la documentación. Una vez resueltos estos problemas,
+se podrá continuar con la verificación, validación y mejora del
+contenido.

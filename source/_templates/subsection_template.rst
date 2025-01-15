@@ -1,8 +1,8 @@
 .. _nombre_subseccion:
 
-====================
+
 Título Subsección
-====================
+=================
 
 .. meta::
    :description: Breve descripción de la subsección para SEO
@@ -19,25 +19,25 @@ Detalles
 Descripción detallada del tema principal de la subsección.
 
 Procedimiento
-============
+=============
 
 1. Primer paso del procedimiento
-   
+
    * Detalle importante
    * Consideración especial
 
 2. Segundo paso del procedimiento
-   
+
    .. note::
       Nota relevante para este paso.
 
 3. Tercer paso del procedimiento
-   
+
    .. warning::
       Advertencia importante sobre este paso.
 
 Requisitos
-=========
+==========
 
 * Requisito 1
 * Requisito 2
@@ -47,14 +47,14 @@ Requisitos
    Información crucial sobre los requisitos.
 
 Ejemplos
-=======
+========
 
 .. code-block:: text
 
    Ejemplo de uso o aplicación
 
 Consideraciones Especiales
-========================
+==========================
 
 * Primera consideración
 * Segunda consideración
@@ -64,7 +64,7 @@ Consideraciones Especiales
    Consejo útil relacionado con estas consideraciones.
 
 Documentación Relacionada
-=======================
+=========================
 
 * :ref:`documento_relacionado1`: Descripción de la relación
 * :ref:`documento_relacionado2`: Descripción de la relación
@@ -73,7 +73,7 @@ Documentación Relacionada
    Referencias adicionales y recursos útiles.
 
 Historial de Cambios
-==================
+====================
 
 .. list-table::
    :header-rows: 1
@@ -84,4 +84,4 @@ Historial de Cambios
      - Cambios
    * - 2024-01-15
      - 1.0
-     - Versión inicial del documento 
+     - Versión inicial del documento

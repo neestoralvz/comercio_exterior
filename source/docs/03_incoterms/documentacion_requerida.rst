@@ -1,8 +1,8 @@
 .. _documentacion_requerida:
 
-======================
+
 Documentación Requerida
-======================
+=======================
 
 .. meta::
    :description: Documentación necesaria según los Incoterms para la exportación de ácido sulfúrico
@@ -14,10 +14,10 @@ Resumen
 Esta subsección detalla la documentación requerida según los diferentes términos Incoterms aplicables en la exportación de ácido sulfúrico, incluyendo certificados, permisos y documentos comerciales.
 
 Descripción Detallada
-===================
+=====================
 
 Documentos Comerciales
-------------------
+----------------------
 
 * Factura comercial
 * Lista de empaque
@@ -28,7 +28,7 @@ Documentos Comerciales
    Todos los documentos deben estar correctamente completados y legalizados cuando sea necesario.
 
 Certificados y Permisos
--------------------
+-----------------------
 
 * Certificados de calidad
 * Permisos de exportación
@@ -39,7 +39,7 @@ Certificados y Permisos
    La falta de documentación puede resultar en retrasos y costos adicionales.
 
 Documentos de Transporte
--------------------
+------------------------
 
 * Conocimiento de embarque
 * Carta porte
@@ -50,7 +50,7 @@ Documentos de Transporte
    Los documentos específicos varían según el modo de transporte y el Incoterm utilizado.
 
 Requisitos Previos
-================
+==================
 
 1. Registro como exportador
 2. Permisos vigentes
@@ -58,18 +58,18 @@ Requisitos Previos
 4. Sistema de gestión documental
 
 Ejemplos Prácticos
-================
+==================
 
 .. code-block:: text
 
    # Lista de Documentos
-   
+
    1. Documentos Básicos:
       □ Factura comercial
       □ Lista de empaque
       □ Certificado origen
       □ Permisos exportación
-   
+
    2. Documentos Adicionales:
       □ Certificados calidad
       □ Pólizas seguro
@@ -77,7 +77,7 @@ Ejemplos Prácticos
       □ Declaraciones aduaneras
 
 Consideraciones Especiales
-=======================
+==========================
 
 * Requisitos específicos por país
 * Plazos de tramitación
@@ -85,14 +85,14 @@ Consideraciones Especiales
 * Validez de documentos
 
 Documentación Relacionada
-======================
+=========================
 
 * :ref:`terminos_aplicables`
 * :ref:`responsabilidades`
 * :ref:`costos_riesgos`
 
 Historial de Cambios
-==================
+====================
 
 .. list-table::
    :header-rows: 1
@@ -106,4 +106,4 @@ Historial de Cambios
      - Creación inicial del documento
    * - 2024-01-20
      - 1.1
-     - Actualización de requisitos documentales 
+     - Actualización de requisitos documentales

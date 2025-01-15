@@ -1,23 +1,91 @@
 .. _recursos_soporte:
 
-=================
-Recursos Soporte
-=================
+
+Recursos de Soporte
+===================
+
+
+Plataformas Digitales
+---------------------
+
+
+1. Portal de Gestión Aduanera
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+2. Sistema de Trazabilidad HAZMAT
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+Documentación Técnica
+---------------------
+
+
+1. Manuales Operativos
+~~~~~~~~~~~~~~~~~~~~~~
+
+
+2. Fichas Técnicas
+~~~~~~~~~~~~~~~~~~
+
+
+3. Normativa Aplicable
+~~~~~~~~~~~~~~~~~~~~~~
+
+
+Herramientas de Gestión
+-----------------------
+
+
+1. Software Especializado
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+2. Apps Móviles
+~~~~~~~~~~~~~~~
+
+
+Servicios de Soporte
+--------------------
+
+
+1. Soporte Técnico
+~~~~~~~~~~~~~~~~~~
+
+
+2. Asesoría Especializada
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+Capacitación y Desarrollo
+-------------------------
+
+
+1. Programas Presenciales
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+2. Plataforma E-Learning
+~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+Mantenimiento y Actualización
+-----------------------------
 
 .. meta::
    :description: Recursos y herramientas de soporte disponibles para la exportación de ácido sulfúrico
    :keywords: recursos, soporte, herramientas, asistencia, ayuda, documentación, HAZMAT, capacitación, monitoreo
 
 Recursos de Soporte
-=================
+===================
 
 Esta sección detalla los recursos y herramientas actualizados disponibles para la gestión eficiente de la exportación de ácido sulfúrico entre México y Guatemala, incluyendo plataformas digitales, documentación técnica y servicios de soporte especializado.
 
 Plataformas Digitales
-------------------
+---------------------
 
 1. Portal de Gestión Aduanera
-~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - **VUCEM México**
     * URL: https://www.ventanillaunica.gob.mx
@@ -42,7 +110,7 @@ Plataformas Digitales
         - Pagos en línea
 
 2. Sistema de Trazabilidad HAZMAT
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - **Control Center**
     * URL: https://hazmat.tracking.com
@@ -57,10 +125,10 @@ Plataformas Digitales
         - Reportes personalizados
 
 Documentación Técnica
-------------------
+---------------------
 
 1. Manuales Operativos
-~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~
 
 .. list-table::
    :header-rows: 1
@@ -80,7 +148,7 @@ Documentación Técnica
      - 2024-01-15
 
 2. Fichas Técnicas
-~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~
 
 - **Especificaciones Producto**
     * Ficha técnica ácido sulfúrico
@@ -95,7 +163,7 @@ Documentación Técnica
     * Fichas intervención
 
 3. Normativa Aplicable
-~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~
 
 - **México**
     * NOM-002-SCT/2011
@@ -110,10 +178,10 @@ Documentación Técnica
     * Acuerdo Gubernativo 148-2020
 
 Herramientas de Gestión
---------------------
+-----------------------
 
 1. Software Especializado
-~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. list-table::
    :header-rows: 1
@@ -133,7 +201,7 @@ Herramientas de Gestión
      - 24/7
 
 2. Apps Móviles
-~~~~~~~~~~~~
+~~~~~~~~~~~~~~~
 
 - **SafeHAZMAT Pro**
     * Versión: 2.5.1
@@ -158,10 +226,10 @@ Herramientas de Gestión
         - Sincronización cloud
 
 Servicios de Soporte
------------------
+--------------------
 
 1. Soporte Técnico
-~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~
 
 .. list-table::
    :header-rows: 1
@@ -184,7 +252,7 @@ Servicios de Soporte
      - < 24 horas
 
 2. Asesoría Especializada
-~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - **Consultoría Legal**
     * Normativa química
@@ -201,10 +269,10 @@ Servicios de Soporte
     * Tiempo respuesta: < 4h
 
 Capacitación y Desarrollo
-----------------------
+-------------------------
 
 1. Programas Presenciales
-~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. list-table::
    :header-rows: 1
@@ -224,7 +292,7 @@ Capacitación y Desarrollo
      - Semestral
 
 2. Plataforma E-Learning
-~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 - **Módulos Disponibles**
     * Básico HAZMAT
@@ -242,7 +310,7 @@ Capacitación y Desarrollo
     * Certificados digitales
 
 Mantenimiento y Actualización
---------------------------
+-----------------------------
 
 1. **Gestión Documental**
     * Revisión: Mensual

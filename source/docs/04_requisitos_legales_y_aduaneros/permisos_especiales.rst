@@ -1,13 +1,16 @@
+.. _permisos_especiales:
+
+
 Permisos Especiales para Exportación e Importación de Ácido Sulfúrico
-================================================================
+=====================================================================
 
 1. Permisos Requeridos en México (Exportación)
---------------------------------------------
+==============================================
 
 1.1 SEMARNAT - Autorización de Movimiento Transfronterizo
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+=========================================================
 
-- **Entidad**: Dirección General de Gestión Integral de Materiales y Actividades Riesgosas
+- **Entidad**: Secretaría de Medio Ambiente y Recursos Naturales
 - **Tipo**: Autorización para exportación de materiales peligrosos
 - **Formato**: SEMARNAT-07-029-A
 - **Requisitos**:
@@ -34,7 +37,7 @@ Permisos Especiales para Exportación e Importación de Ácido Sulfúrico
 - **Renovación**: Nueva solicitud por cada embarque
 
 1.2 COFEPRIS - Permiso Sanitario
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+================================
 
 - **Entidad**: Comisión Federal para la Protección contra Riesgos Sanitarios
 - **Tipo**: Permiso para exportación de sustancias tóxicas
@@ -62,7 +65,7 @@ Permisos Especiales para Exportación e Importación de Ácido Sulfúrico
 - **Renovación**: 30 días antes del vencimiento
 
 1.3 SCT - Permiso de Transporte
-~~~~~~~~~~~~~~~~~~~~~~~~~~~
+===============================
 
 - **Entidad**: Dirección General de Autotransporte Federal
 - **Tipo**: Permiso para transporte de materiales peligrosos
@@ -91,12 +94,12 @@ Permisos Especiales para Exportación e Importación de Ácido Sulfúrico
 - **Renovación**: 60 días antes del vencimiento
 
 2. Permisos Requeridos en Guatemala (Importación)
-----------------------------------------------
+=================================================
 
 2.1 DGAM - Licencia de Importación
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+==================================
 
-- **Entidad**: Dirección General de Armamento
+- **Entidad**: Dirección General de Aduanas y Migración
 - **Tipo**: Licencia para importación de sustancias controladas
 - **Formato**: DGAM-04-2024
 - **Requisitos**:
@@ -122,7 +125,7 @@ Permisos Especiales para Exportación e Importación de Ácido Sulfúrico
 - **Renovación**: Nueva solicitud por embarque
 
 2.2 MARN - Licencia Ambiental
-~~~~~~~~~~~~~~~~~~~~~~~~~
+=============================
 
 - **Entidad**: Ministerio de Ambiente y Recursos Naturales
 - **Tipo**: Licencia ambiental para manejo de sustancias peligrosas
@@ -151,7 +154,7 @@ Permisos Especiales para Exportación e Importación de Ácido Sulfúrico
 - **Renovación**: 60 días antes del vencimiento
 
 2.3 MSPAS - Licencia Sanitaria
-~~~~~~~~~~~~~~~~~~~~~~~~~
+==============================
 
 - **Entidad**: Ministerio de Salud Pública y Asistencia Social
 - **Tipo**: Licencia sanitaria de importación
@@ -179,10 +182,10 @@ Permisos Especiales para Exportación e Importación de Ácido Sulfúrico
 - **Renovación**: 30 días antes del vencimiento
 
 3. Resumen de Costos y Tiempos
-----------------------------
+==============================
 
 3.1 México (Exportación)
-~~~~~~~~~~~~~~~~~~~~~
+========================
 
 - SEMARNAT: $4,811.00 MXN (por embarque)
 - COFEPRIS: $4,180.00 MXN (180 días)
@@ -191,7 +194,7 @@ Permisos Especiales para Exportación e Importación de Ácido Sulfúrico
 - **Tiempo total**: 15-20 días hábiles
 
 3.2 Guatemala (Importación)
-~~~~~~~~~~~~~~~~~~~~~~~
+===========================
 
 - DGAM: Q.3,000.00 (por embarque)
 - MARN: Q.27,500.00 (anual)
@@ -200,7 +203,7 @@ Permisos Especiales para Exportación e Importación de Ácido Sulfúrico
 - **Tiempo total**: 40-50 días hábiles
 
 4. Recomendaciones para la Gestión
---------------------------------
+==================================
 
 1. **Planificación Estratégica**:
    - Iniciar trámites 90 días antes
@@ -221,7 +224,7 @@ Permisos Especiales para Exportación e Importación de Ácido Sulfúrico
    - Auditoría interna de cumplimiento
 
 Historial de Cambios
-==================
+====================
 
 .. list-table::
    :header-rows: 1

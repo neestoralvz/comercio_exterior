@@ -1,8 +1,8 @@
 .. _seguridad_transporte:
 
-=====================
+
 Seguridad en Transporte
-=====================
+=======================
 
 .. meta::
    :description: Protocolos y medidas de seguridad para el transporte de ácido sulfúrico entre México y Guatemala
@@ -14,10 +14,10 @@ Resumen
 Esta subsección detalla los protocolos y medidas de seguridad implementados para garantizar un transporte seguro del ácido sulfúrico, incluyendo procedimientos de emergencia, capacitación del personal y equipamiento requerido según estándares internacionales.
 
 Protocolos de Seguridad
---------------------
+-----------------------
 
 1. **Procedimientos Preventivos**:
-   
+
    * **Pre-viaje**:
      - Inspección completa del vehículo
      - Verificación de documentación
@@ -37,7 +37,7 @@ Protocolos de Seguridad
      - Evaluación de la operación
 
 2. **Control de Riesgos**:
-   
+
    * **Evaluación Continua**:
      - Análisis de ruta
      - Identificación de puntos críticos
@@ -51,10 +51,10 @@ Protocolos de Seguridad
      - Procedimientos de verificación
 
 Planes de Emergencia
-----------------
+--------------------
 
 1. **Respuesta a Incidentes**:
-   
+
    * **Derrames**:
      - Contención inmediata
      - Notificación a autoridades
@@ -74,7 +74,7 @@ Planes de Emergencia
      - Procedimientos de contingencia
 
 2. **Coordinación de Emergencias**:
-   
+
    * **Centro de Control**:
      - Monitoreo 24/7
      - Coordinación de recursos
@@ -88,10 +88,10 @@ Planes de Emergencia
      - Soporte logístico
 
 Capacitación y Certificación
-------------------------
+----------------------------
 
 1. **Programa de Capacitación**:
-   
+
    * **Básica**:
      - Manejo de materiales peligrosos
      - Procedimientos de emergencia
@@ -111,7 +111,7 @@ Capacitación y Certificación
      - Lecciones aprendidas
 
 2. **Certificaciones Requeridas**:
-   
+
    * **Personal Operativo**:
      - Licencia tipo E vigente
      - Certificado HAZMAT
@@ -125,10 +125,10 @@ Capacitación y Certificación
      - Evaluación de riesgos
 
 Equipamiento de Seguridad
----------------------
+-------------------------
 
 1. **Equipo Personal**:
-   
+
    * **EPP Básico**:
      - Traje químico nivel A
      - Respirador autónomo
@@ -142,7 +142,7 @@ Equipamiento de Seguridad
      - Kit de primeros auxilios
 
 2. **Equipo Vehicular**:
-   
+
    * **Emergencias**:
      - Kit de contención HAZMAT
      - Extintores especializados
@@ -156,10 +156,10 @@ Equipamiento de Seguridad
      - Botón de pánico
 
 Sistemas de Monitoreo
------------------
+---------------------
 
 1. **Tecnología de Seguimiento**:
-   
+
    * **GPS Avanzado**:
      - Posición en tiempo real
      - Geocercas
@@ -173,7 +173,7 @@ Sistemas de Monitoreo
      - Condiciones ambientales
 
 2. **Control y Reportes**:
-   
+
    * **Monitoreo**:
      - Centro de control 24/7
      - Seguimiento en tiempo real
@@ -187,10 +187,10 @@ Sistemas de Monitoreo
      - Auditoría de seguridad
 
 Procedimientos de Verificación
---------------------------
+------------------------------
 
 1. **Inspecciones**:
-   
+
    * **Pre-operativas**:
      - Lista de verificación completa
      - Revisión de documentos
@@ -204,7 +204,7 @@ Procedimientos de Verificación
      - Auditorías de cumplimiento
 
 2. **Documentación**:
-   
+
    * **Registros**:
      - Bitácoras de viaje
      - Reportes de incidentes
@@ -218,7 +218,7 @@ Procedimientos de Verificación
      - Auditoría periódica
 
 Consideraciones Especiales
-=======================
+==========================
 
 * **Condiciones Adversas**:
   - Protocolos específicos
@@ -239,15 +239,15 @@ Consideraciones Especiales
   - Requisitos especiales
 
 Documentación Relacionada
-======================
+=========================
 
 * :ref:`requisitos_seguridad`
 * :ref:`procedimientos_operativos`
-* :ref:`planes_emergencia`
+* :ref:`planes_contingencia`
 * :ref:`matriz_riesgos`
 
 Historial de Cambios
-==================
+====================
 
 .. list-table::
    :header-rows: 1
@@ -261,4 +261,4 @@ Historial de Cambios
      - Creación inicial del documento
    * - 2024-01-15
      - 1.1
-     - Actualización completa de protocolos de seguridad y procedimientos de emergencia 
+     - Actualización completa de protocolos de seguridad y procedimientos de emergencia

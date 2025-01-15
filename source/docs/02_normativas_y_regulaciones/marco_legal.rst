@@ -1,8 +1,8 @@
 .. _marco_legal:
 
-============
+
 Marco Legal
-============
+===========
 
 .. meta::
    :description: Marco legal aplicable a la exportación de ácido sulfúrico entre México y Guatemala
@@ -14,10 +14,10 @@ Resumen
 Esta subsección detalla el marco legal aplicable a la exportación de ácido sulfúrico entre México y Guatemala, incluyendo leyes, reglamentos y acuerdos internacionales.
 
 Descripción Detallada
-===================
+=====================
 
 Legislación Mexicana
-----------------
+--------------------
 
 * **Ley Aduanera**:
   - Artículos 35, 36, 36-A (Despacho aduanero)
@@ -41,7 +41,7 @@ Legislación Mexicana
   - Procedimientos de emergencia
 
 Legislación Guatemalteca
--------------------
+------------------------
 
 * **Ley Nacional de Aduanas**:
   - Decreto 14-2013
@@ -60,7 +60,7 @@ Legislación Guatemalteca
   - Medidas de protección
 
 Acuerdos Comerciales
-----------------
+--------------------
 
 * **Tratado de Libre Comercio México-Centroamérica**:
   - Capítulo sobre mercancías peligrosas
@@ -74,7 +74,7 @@ Acuerdos Comerciales
   - Facilitación del comercio
 
 Convenios Internacionales
----------------------
+-------------------------
 
 * **Convenio de Basilea**:
   - Control de movimientos transfronterizos
@@ -93,7 +93,7 @@ Convenios Internacionales
   - Intercambio de información
 
 Requisitos de Cumplimiento
-----------------------
+--------------------------
 
 1. **Autorizaciones Previas**:
    * Permisos de exportación/importación
@@ -114,7 +114,7 @@ Requisitos de Cumplimiento
    * Autorizaciones de transporte
 
 Procedimientos Legales
-------------------
+----------------------
 
 1. **Trámites Aduaneros**:
    * Presentación de documentos
@@ -135,18 +135,18 @@ Procedimientos Legales
    * Evaluaciones técnicas
 
 Ejemplos Prácticos
-================
+==================
 
 .. code-block:: text
 
    # Matriz de Cumplimiento Legal
-   
+
    1. Requisitos Aduaneros:
       □ Pedimento de exportación: A1
       □ Certificado de origen: EUR.1
       □ Permiso SEMARNAT: SGPA-03-021
       □ Hoja de seguridad: GHS Rev.8
-   
+
    2. Autorizaciones Ambientales:
       □ Licencia ambiental: LA-2024-001
       □ Estudio de impacto: EIA-2024-023
@@ -154,7 +154,7 @@ Ejemplos Prácticos
       □ Registro de emisiones: RE-2024-067
 
 Consideraciones Especiales
-=======================
+==========================
 
 * Actualizaciones regulatorias periódicas
 * Jurisdicción aplicable en controversias
@@ -162,14 +162,14 @@ Consideraciones Especiales
 * Responsabilidad legal y seguros
 
 Documentación Relacionada
-======================
+=========================
 
 * :ref:`normas_tecnicas`
 * :ref:`regulaciones_especificas`
 * :ref:`estandares_internacionales`
 
 Historial de Cambios
-==================
+====================
 
 .. list-table::
    :header-rows: 1
@@ -183,4 +183,4 @@ Historial de Cambios
      - Creación inicial del documento
    * - 2024-01-15
      - 1.1
-     - Actualización detallada del marco legal y requisitos de cumplimiento 
+     - Actualización detallada del marco legal y requisitos de cumplimiento

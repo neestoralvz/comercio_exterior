@@ -1,6 +1,6 @@
 .. _nombre_seccion:
 
-====================
+
 Título de la Sección
 ====================
 
@@ -14,7 +14,7 @@ Título de la Sección
    :backlinks: none
 
 Introducción
-===========
+============
 
 Breve descripción del propósito y contenido de esta sección.
 
@@ -33,12 +33,12 @@ Alcance
 Define el alcance y los límites de esta sección, especificando qué temas se cubren y cuáles no.
 
 Contenido Principal
-=================
+===================
 
 .. _subseccion1:
 
 Subsección 1
------------
+------------
 
 Descripción detallada de la primera subsección.
 
@@ -52,7 +52,7 @@ Descripción detallada de la primera subsección.
 .. _subseccion2:
 
 Subsección 2
------------
+------------
 
 Descripción detallada de la segunda subsección.
 
@@ -60,7 +60,7 @@ Descripción detallada de la segunda subsección.
    Advertencia importante sobre aspectos críticos.
 
 Aspectos Clave
-============
+==============
 
 * Punto clave 1
 * Punto clave 2
@@ -70,7 +70,7 @@ Aspectos Clave
    Información crucial que debe tenerse en cuenta.
 
 Mejores Prácticas
-===============
+=================
 
 1. Primera mejor práctica
 2. Segunda mejor práctica
@@ -80,20 +80,20 @@ Mejores Prácticas
    Notas adicionales sobre las mejores prácticas.
 
 Documentos Relacionados
-=====================
+=======================
 
 * :download:`Plantilla de Documento <path/to/template.pdf>`
 * :download:`Formulario Ejemplo <path/to/form.pdf>`
 
 Referencias Normativas
-====================
+======================
 
 * Norma 1
 * Norma 2
 * Regulación aplicable
 
 Secciones Relacionadas
-=====================
+======================
 
 * :ref:`seccion_relacionada1`: Descripción de la relación
 * :ref:`seccion_relacionada2`: Descripción de la relación
@@ -102,7 +102,7 @@ Secciones Relacionadas
    Información adicional relevante y referencias externas.
 
 Historial de Cambios
-==================
+====================
 
 .. list-table::
    :header-rows: 1
@@ -121,4 +121,4 @@ Historial de Cambios
    :caption: Contenido Detallado
 
    subseccion1
-   subseccion2 
+   subseccion2

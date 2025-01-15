@@ -1,13 +1,13 @@
 Agentes Aduanales Recomendados - Ruta México-Guatemala
-===================================================
+======================================================
 
 Agentes Aduanales en México
---------------------------
+---------------------------
 
 1. González & Asociados - Ciudad Hidalgo
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-- **Contacto Principal**: 
+- **Contacto Principal**:
   - Lic. María González Ramírez
   - Tel: +52 (962) 698-1234
   - Móvil: +52 (962) 101-2233 (WhatsApp disponible)
@@ -31,7 +31,7 @@ Agentes Aduanales en México
   - Certificación en manejo de materiales peligrosos
 
 2. Grupo Aduanal Frontera Sur - Suchiate
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - **Contacto Principal**:
   - Lic. Roberto Méndez Torres
@@ -57,10 +57,10 @@ Agentes Aduanales en México
   - ISO 14001:2015
 
 Agentes Aduanales en Guatemala
-----------------------------
+------------------------------
 
 1. Servicios Aduanales Tecún Umán
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - **Contacto Principal**:
   - Lic. Carlos Estrada Morales
@@ -86,7 +86,7 @@ Agentes Aduanales en Guatemala
   - Certificación BASC
 
 2. Aduanas Integradas de Guatemala
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - **Contacto Principal**:
   - Licda. Ana María López
@@ -112,10 +112,10 @@ Agentes Aduanales en Guatemala
   - Certificación en manejo de materiales peligrosos
 
 Tarifas y Servicios 2025
------------------------
+------------------------
 
 1. Servicios Básicos
-~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~
 
 ========================== ============ ==============
 Servicio                   México (MXN) Guatemala (GTQ)
@@ -127,7 +127,7 @@ Gestión de permisos      2,500-3,500   Q.2,000-2,500
 ========================== ============ ==============
 
 2. Servicios Especializados
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 ========================== ============ ==============
 Servicio                   México (MXN) Guatemala (GTQ)
@@ -139,7 +139,7 @@ Almacenaje/día             500-800     Q.400-600
 ========================== ============ ==============
 
 Criterios de Selección
---------------------
+----------------------
 
 1. **Experiencia Verificada**:
    - Mínimo 10 años en operaciones con químicos
@@ -162,7 +162,7 @@ Criterios de Selección
    - Términos de pago flexibles
 
 Recomendaciones de Contacto
--------------------------
+---------------------------
 
 1. **Primer Contacto**:
    - Solicitar presentación corporativa

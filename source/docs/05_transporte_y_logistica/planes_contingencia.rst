@@ -1,8 +1,8 @@
 .. _planes_contingencia:
 
-====================
+
 Planes de Contingencia
-====================
+======================
 
 .. meta::
    :description: Planes y procedimientos de contingencia para el transporte de ácido sulfúrico entre México y Guatemala
@@ -14,10 +14,10 @@ Resumen
 Esta subsección detalla los planes y procedimientos de contingencia establecidos para responder a emergencias durante el transporte de |product|, incluyendo protocolos de respuesta, coordinación con autoridades y recursos disponibles.
 
 Descripción Detallada
-===================
+=====================
 
 Estructura de Respuesta
--------------------
+=======================
 
 * **Centro de Control**
     - Operación 24/7
@@ -38,10 +38,10 @@ Estructura de Respuesta
     - Sistemas de comunicación
 
 Protocolos de Emergencia
---------------------
+========================
 
 1. **Derrames de Producto**
-   
+
    * **Respuesta Inmediata**
      - Evaluación inicial
      - Contención primaria
@@ -61,7 +61,7 @@ Protocolos de Emergencia
      - Lecciones aprendidas
 
 2. **Accidentes Viales**
-   
+
    * **Respuesta Inmediata**
      - Evaluación de la escena
      - Atención a lesionados
@@ -81,7 +81,7 @@ Protocolos de Emergencia
      - Actualización de protocolos
 
 3. **Fallas Técnicas**
-   
+
    * **Evaluación Inicial**
      - Diagnóstico rápido
      - Medidas de seguridad
@@ -95,7 +95,7 @@ Protocolos de Emergencia
      - Documentación técnica
 
 Coordinación con Autoridades
-------------------------
+============================
 
 * **México**
     - Protección Civil
@@ -116,10 +116,10 @@ Coordinación con Autoridades
     - Seguimiento oficial
 
 Recursos y Equipamiento
--------------------
+=======================
 
 1. **Equipos de Emergencia**
-   
+
    * **Contención**
      - Kits HAZMAT nivel A
      - Materiales absorbentes
@@ -139,7 +139,7 @@ Recursos y Equipamiento
      - Herramientas especializadas
 
 2. **Ubicación de Recursos**
-   
+
    * **Puntos Estratégicos**
      - Bases operativas
      - Estaciones de emergencia
@@ -153,7 +153,7 @@ Recursos y Equipamiento
      - Apoyo especializado: 120 min
 
 Capacitación y Simulacros
-----------------------
+=========================
 
 * **Programa de Capacitación**
     - Respuesta a emergencias
@@ -174,7 +174,7 @@ Capacitación y Simulacros
     - Validación de procedimientos
 
 Requisitos Previos
-================
+==================
 
 1. Planes de contingencia aprobados
 2. Personal capacitado y certificado
@@ -183,24 +183,24 @@ Requisitos Previos
 5. Coordinación establecida con autoridades
 
 Procedimientos de Activación
-========================
+============================
 
 .. code-block:: text
 
    # Protocolo de Activación de Emergencia
-   
+
    1. Notificación Inicial:
       □ Evaluación de la situación
       □ Clasificación de la emergencia
       □ Activación de recursos
       □ Notificación a autoridades
-   
+
    2. Respuesta Inmediata:
       □ Despliegue de recursos
       □ Implementación de protocolos
       □ Control de la situación
       □ Comunicación continua
-   
+
    3. Gestión Post-incidente:
       □ Evaluación de daños
       □ Documentación del evento
@@ -208,7 +208,7 @@ Procedimientos de Activación
       □ Actualización de planes
 
 Consideraciones Especiales
-=======================
+==========================
 
 * **Condiciones Adversas**
     - Protocolos específicos
@@ -229,7 +229,7 @@ Consideraciones Especiales
     - Recursos locales
 
 Documentación Relacionada
-======================
+=========================
 
 * :ref:`matriz_riesgos`
 * :ref:`seguridad_transporte`
@@ -237,7 +237,7 @@ Documentación Relacionada
 * :ref:`rutas_autorizadas`
 
 Historial de Cambios
-==================
+====================
 
 .. list-table::
    :header-rows: 1
@@ -251,4 +251,4 @@ Historial de Cambios
      - Creación inicial del documento
    * - 2024-01-15
      - 1.1
-     - Desarrollo completo de planes de contingencia y protocolos de emergencia 
+     - Desarrollo completo de planes de contingencia y protocolos de emergencia

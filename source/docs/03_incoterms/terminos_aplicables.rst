@@ -1,6 +1,6 @@
 .. _terminos_aplicables:
 
-===================
+
 Términos Aplicables
 ===================
 
@@ -14,10 +14,10 @@ Resumen
 Esta subsección detalla los términos Incoterms más relevantes y aplicables para la exportación de ácido sulfúrico entre México y Guatemala, explicando sus características y aplicabilidad.
 
 Descripción Detallada
-===================
+=====================
 
 EXW (En Fábrica)
--------------
+----------------
 
 * Entrega en instalaciones del vendedor
 * Mínima obligación para el vendedor
@@ -28,7 +28,7 @@ EXW (En Fábrica)
    EXW no es recomendado para exportaciones debido a las limitaciones en trámites aduaneros.
 
 FCA (Franco Transportista)
-----------------------
+--------------------------
 
 * Entrega en punto acordado
 * Despacho de exportación incluido
@@ -39,7 +39,7 @@ FCA (Franco Transportista)
    Especificar claramente el punto de entrega y responsabilidades de carga/descarga.
 
 FOB/CIF (Marítimos)
----------------
+-------------------
 
 * FOB: Entrega a bordo del buque
 * CIF: Incluye costo, seguro y flete
@@ -50,7 +50,7 @@ FOB/CIF (Marítimos)
    Estos términos son los más comunes en exportaciones marítimas de productos químicos.
 
 Requisitos Previos
-================
+==================
 
 1. Conocimiento de Incoterms 2020
 2. Evaluación de capacidades logísticas
@@ -58,24 +58,24 @@ Requisitos Previos
 4. Infraestructura disponible
 
 Ejemplos Prácticos
-================
+==================
 
 .. code-block:: text
 
    # Comparación de Términos
-   
+
    1. EXW:
       □ Costo base del producto
       □ Sin costos adicionales
       □ Riesgo mínimo
-   
+
    2. FOB:
       □ Incluye transporte interno
       □ Despacho de exportación
       □ Carga en buque
 
 Consideraciones Especiales
-=======================
+==========================
 
 * Capacidad logística
 * Costos asociados
@@ -83,14 +83,14 @@ Consideraciones Especiales
 * Preferencias del mercado
 
 Documentación Relacionada
-======================
+=========================
 
 * :ref:`responsabilidades`
 * :ref:`costos_riesgos`
 * :ref:`documentacion_requerida`
 
 Historial de Cambios
-==================
+====================
 
 .. list-table::
    :header-rows: 1
@@ -104,4 +104,4 @@ Historial de Cambios
      - Creación inicial del documento
    * - 2024-01-20
      - 1.1
-     - Actualización de términos y ejemplos 
+     - Actualización de términos y ejemplos

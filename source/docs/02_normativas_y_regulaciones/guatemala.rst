@@ -1,8 +1,8 @@
 .. _normativas_guatemala:
 
-=========================
+
 Normativas Guatemala
-=========================
+====================
 
 .. meta::
    :description: Regulaciones y normativas guatemaltecas aplicables a la importación de ácido sulfúrico
@@ -19,10 +19,10 @@ Detalles
 El marco regulatorio guatemalteco establece requisitos específicos para la importación y manejo de sustancias químicas peligrosas.
 
 Procedimiento
-============
+=============
 
 1. Permisos de Importación
-   
+
    * Licencia de importación
    * Registro de importador de sustancias químicas
    * Permisos ambientales
@@ -31,7 +31,7 @@ Procedimiento
       Los permisos deben tramitarse antes del envío de la mercancía.
 
 2. Autorizaciones Sanitarias
-   
+
    * Registro sanitario
    * Certificado de libre venta
    * Permisos especiales
@@ -40,13 +40,13 @@ Procedimiento
       La falta de autorizaciones puede resultar en el rechazo de la importación.
 
 3. Trámites Aduaneros
-   
+
    * Declaración de importación
    * Clasificación arancelaria
    * Documentación específica
 
 Requisitos
-=========
+==========
 
 * Reglamento de Sustancias Químicas Controladas
 * Normas técnicas guatemaltecas aplicables
@@ -57,7 +57,7 @@ Requisitos
    Todos los documentos deben presentarse en español o con traducción oficial.
 
 Ejemplos de Documentación
-======================
+=========================
 
 .. code-block:: text
 
@@ -73,7 +73,7 @@ Ejemplos de Documentación
       - Especificaciones técnicas
 
 Consideraciones Especiales
-========================
+==========================
 
 * Requisitos de almacenamiento
 * Restricciones de transporte
@@ -84,7 +84,7 @@ Consideraciones Especiales
    Se recomienda trabajar con un agente aduanal autorizado en Guatemala.
 
 Documentación Relacionada
-=======================
+=========================
 
 * :ref:`requisitos_legales_y_aduaneros`: Trámites de importación
 * :ref:`transporte_y_logistica`: Requisitos de transporte
@@ -93,7 +93,7 @@ Documentación Relacionada
    Consulte la página de la SAT Guatemala para actualizaciones en requisitos aduaneros.
 
 Historial de Cambios
-==================
+====================
 
 .. list-table::
    :header-rows: 1

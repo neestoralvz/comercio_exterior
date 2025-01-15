@@ -1,8 +1,8 @@
-.. _requisitos_legales_y_aduaneros:
+.. _requisitos_legales_y_aduaneros_detalle:
 
-============================
+
 Requisitos Legales y Aduaneros
-============================
+==============================
 
 .. meta::
    :description: Requisitos legales y aduaneros para la exportación de ácido sulfúrico entre México y Guatemala
@@ -14,7 +14,7 @@ Requisitos Legales y Aduaneros
    :backlinks: none
 
 Introducción
-===========
+============
 
 Esta sección detalla los requisitos legales y aduaneros necesarios para la exportación de |product| desde |origin_country| hacia |destination_country|.
 
@@ -37,12 +37,12 @@ Alcance
 * Procedimientos específicos
 
 Contenido Principal
-=================
+===================
 
 .. _requisitos_exportacion:
 
 Requisitos de Exportación
-----------------------
+-------------------------
 
 * Registro de exportador
 * Permisos especiales
@@ -55,7 +55,7 @@ Requisitos de Exportación
 .. _requisitos_importacion:
 
 Requisitos de Importación
-----------------------
+-------------------------
 
 * Registro de importador
 * Permisos sanitarios
@@ -68,7 +68,7 @@ Requisitos de Importación
 .. _documentacion_legal:
 
 Documentación Legal
-----------------
+-------------------
 
 * Contratos comerciales
 * Pólizas de seguro
@@ -76,7 +76,7 @@ Documentación Legal
 * Certificados de origen
 
 Aspectos Clave
-============
+==============
 
 * Cumplimiento normativo
 * Vigencia de documentos
@@ -87,7 +87,7 @@ Aspectos Clave
    La documentación legal debe mantenerse actualizada y disponible.
 
 Mejores Prácticas
-===============
+=================
 
 1. Verificación previa de requisitos
 2. Gestión anticipada de trámites
@@ -98,13 +98,13 @@ Mejores Prácticas
    La planificación anticipada es crucial para evitar retrasos.
 
 Documentos Relacionados
-=====================
+=======================
 
-* :download:`Guía de Trámites Legales <templates/guia_tramites_legales.pdf>`
-* :download:`Formatos Aduaneros <templates/formatos_aduaneros.pdf>`
+* :download:`Guía de Trámites Legales <../templates/guia_tramites_legales.pdf>`
+* :download:`Formatos Aduaneros <../templates/formatos_aduaneros.pdf>`
 
 Referencias Normativas
-====================
+======================
 
 * Legislación aduanera
 * Códigos comerciales
@@ -112,7 +112,7 @@ Referencias Normativas
 * Regulaciones específicas
 
 Secciones Relacionadas
-=====================
+======================
 
 * :ref:`normativas_y_regulaciones`
 * :ref:`formalidades_frontera`
@@ -122,7 +122,7 @@ Secciones Relacionadas
    Consulte las actualizaciones de requisitos en los sitios oficiales.
 
 Historial de Cambios
-==================
+====================
 
 .. list-table::
    :header-rows: 1
@@ -144,4 +144,4 @@ Historial de Cambios
 
    requisitos_exportacion
    requisitos_importacion
-   documentacion_legal 
+   documentacion_legal

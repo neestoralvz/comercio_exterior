@@ -1,6 +1,6 @@
 .. _medidas_preventivas_detalle:
 
-===================
+
 Medidas Preventivas
 ===================
 
@@ -14,10 +14,10 @@ Resumen
 Esta subsección detalla las medidas preventivas implementadas para minimizar los riesgos identificados en el transporte de |product|, incluyendo controles operativos y procedimientos de seguridad.
 
 Descripción Detallada
-===================
+=====================
 
 Controles Operativos
------------------
+--------------------
 
 * Mantenimiento preventivo
 * Inspecciones regulares
@@ -28,7 +28,7 @@ Controles Operativos
    Los controles operativos deben aplicarse de manera sistemática y documentada.
 
 Capacitación y Entrenamiento
-------------------------
+----------------------------
 
 * Programas de capacitación
 * Simulacros periódicos
@@ -39,7 +39,7 @@ Capacitación y Entrenamiento
    Todo el personal debe mantener sus certificaciones actualizadas.
 
 Sistemas de Seguridad
-------------------
+---------------------
 
 * Equipos de monitoreo
 * Sistemas de alerta temprana
@@ -50,7 +50,7 @@ Sistemas de Seguridad
    Los sistemas de seguridad deben verificarse regularmente.
 
 Requisitos Previos
-================
+==================
 
 1. Plan de mantenimiento establecido
 2. Personal capacitado
@@ -58,18 +58,18 @@ Requisitos Previos
 4. Procedimientos documentados
 
 Ejemplos Prácticos
-================
+==================
 
 .. code-block:: text
 
    # Programa de Mantenimiento Preventivo
-   
+
    1. Inspecciones Diarias:
       □ Niveles de fluidos
       □ Estado de neumáticos
       □ Sistemas de frenos
       □ Equipos de seguridad
-   
+
    2. Mantenimiento Mensual:
       □ Sistemas hidráulicos
       □ Válvulas y conexiones
@@ -77,7 +77,7 @@ Ejemplos Prácticos
       □ Actualización de registros
 
 Consideraciones Especiales
-=======================
+==========================
 
 * Condiciones climáticas
 * Rutas específicas
@@ -85,14 +85,14 @@ Consideraciones Especiales
 * Mejores prácticas industriales
 
 Documentación Relacionada
-======================
+=========================
 
 * :ref:`identificacion_riesgos`
 * :ref:`evaluacion_riesgos`
 * :ref:`planes_contingencia`
 
 Historial de Cambios
-==================
+====================
 
 .. list-table::
    :header-rows: 1
@@ -106,4 +106,4 @@ Historial de Cambios
      - Creación inicial del documento
    * - 2024-01-20
      - 1.1
-     - Actualización de programas de mantenimiento 
+     - Actualización de programas de mantenimiento

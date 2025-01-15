@@ -1,8 +1,8 @@
 .. _coordinacion_autoridades:
 
-===========================
+
 Coordinación con Autoridades
-===========================
+============================
 
 .. meta::
    :description: Coordinación con autoridades fronterizas para la exportación de ácido sulfúrico entre México y Guatemala
@@ -14,7 +14,7 @@ Resumen
 Esta sección detalla los procedimientos actualizados para la coordinación efectiva con las autoridades involucradas en la exportación de |product| entre México y Guatemala, incluyendo protocolos de comunicación, requisitos específicos y sistemas de seguimiento según las normativas vigentes NOM-002-SCT/2011, RTCA 71.03.37:07 y estándares internacionales.
 
 Autoridades Principales
--------------------
+-----------------------
 
 * **Autoridades Aduaneras**
     - México
@@ -73,7 +73,7 @@ Autoridades Principales
             - Tiempo análisis: 72-96 horas
 
 Protocolos de Comunicación
------------------------
+--------------------------
 
 * **Pre-Notificación (48-72 horas antes)**
     - Documentación inicial
@@ -112,7 +112,7 @@ Protocolos de Comunicación
         * Archivo de expediente
 
 Procedimientos Específicos
-----------------------
+--------------------------
 
 * **Trámites Aduanales**
     - México (SAT)
@@ -163,7 +163,7 @@ Procedimientos Específicos
             - Protocolos de emergencia
 
 Tiempos de Proceso
---------------
+------------------
 
 * **Trámites Regulares**
     - Pre-validación: 24-48 horas
@@ -190,7 +190,7 @@ Tiempos de Proceso
         * Sistemas informáticos
 
 Costos y Tarifas 2024
-------------------
+---------------------
 
 * **México**
     - Derechos de trámite
@@ -217,7 +217,7 @@ Costos y Tarifas 2024
         * Servicios extraordinarios: Variable
 
 Sistema de Seguimiento
-------------------
+----------------------
 
 * **Control Operativo**
     - Plataforma digital
@@ -244,7 +244,7 @@ Sistema de Seguimiento
         * Auditorías semestrales
 
 Documentación Relacionada
-======================
+=========================
 
 * :ref:`procedimientos_inspeccion`
 * :ref:`tramites_aduaneros`
@@ -252,7 +252,7 @@ Documentación Relacionada
 * :ref:`documentacion_fronteriza`
 
 Historial de Cambios
-==================
+====================
 
 .. list-table::
    :header-rows: 1

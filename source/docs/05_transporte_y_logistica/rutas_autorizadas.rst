@@ -1,6 +1,6 @@
 .. _rutas_autorizadas:
 
-=================
+
 Rutas Autorizadas
 =================
 
@@ -14,10 +14,10 @@ Resumen
 Esta subsección detalla las rutas autorizadas y certificadas para el transporte de |product| entre México y Guatemala, incluyendo especificaciones técnicas de carreteras, puntos de cruce fronterizo autorizados, protocolos de seguridad asociados y sistemas de monitoreo en tiempo real.
 
 Descripción Detallada
-===================
+=====================
 
 Rutas Principales
--------------
+-----------------
 
 * **Ruta México-Guatemala (Principal)**
     - Carretera Federal 190D (Oaxaca-Chiapas)
@@ -62,7 +62,7 @@ Rutas Principales
         * Helipuertos de emergencia
 
 Puntos de Cruce Fronterizo
------------------------
+--------------------------
 
 * **Tecún Umán - Ciudad Hidalgo**
     - Horario: 07:00-19:00
@@ -100,7 +100,7 @@ Puntos de Cruce Fronterizo
     - Tiempo promedio: 3-4 horas
 
 Rutas Alternativas
---------------
+------------------
 
 * **Desvíos Autorizados**
     - Ruta alterna 1: Vía Comitán
@@ -144,7 +144,7 @@ Rutas Alternativas
         * Sistemas de emergencia
 
 Requisitos Previos
-================
+==================
 
 1. Permisos de tránsito vigentes (México y Guatemala)
 2. GPS con rutas precargadas y actualizadas
@@ -156,12 +156,12 @@ Requisitos Previos
 8. Documentación de carga completa
 
 Procedimientos Operativos
-======================
+=========================
 
 .. code-block:: text
 
    # Protocolo de Selección de Ruta
-   
+
    1. Evaluación Inicial:
       □ Verificación de condiciones meteorológicas
       □ Consulta de restricciones y obras
@@ -169,7 +169,7 @@ Procedimientos Operativos
       □ Confirmación de servicios disponibles
       □ Verificación de puntos de control
       □ Evaluación de riesgos específicos
-   
+
    2. Durante el Trayecto:
       □ Monitoreo GPS continuo
       □ Reporte cada 30 minutos
@@ -177,7 +177,7 @@ Procedimientos Operativos
       □ Registro de condiciones de ruta
       □ Control de velocidad y descansos
       □ Actualización de estatus
-   
+
    3. Contingencias:
       □ Activación inmediata de protocolos
       □ Notificación a cadena de mando
@@ -187,7 +187,7 @@ Procedimientos Operativos
       □ Evaluación post-incidente
 
 Consideraciones Especiales
-=======================
+==========================
 
 * **Condiciones Climáticas**
     - Protocolos específicos por condición:
@@ -216,7 +216,7 @@ Consideraciones Especiales
     - Documentación en tiempo real
 
 Documentación Relacionada
-======================
+=========================
 
 * :ref:`modos_transporte`
 * :ref:`requisitos_seguridad`
@@ -226,7 +226,7 @@ Documentación Relacionada
 * :ref:`matriz_riesgos`
 
 Historial de Cambios
-==================
+====================
 
 .. list-table::
    :header-rows: 1
@@ -240,4 +240,4 @@ Historial de Cambios
      - Creación inicial del documento
    * - 2024-01-15
      - 1.1
-     - Actualización completa de rutas y procedimientos con especificaciones técnicas detalladas y protocolos de seguridad 
+     - Actualización completa de rutas y procedimientos con especificaciones técnicas detalladas y protocolos de seguridad

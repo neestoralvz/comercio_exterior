@@ -49,7 +49,7 @@ Riesgos hasta destino Comprador            Vendedor
 -----------------------------------------------
 
 Escenario FCA
-~~~~~~~~~~~~
+~~~~~~~~~~~~~
 
 - **Punto de entrega**: Terminal de carga Suchiate I
 - **Responsabilidades específicas**:
@@ -60,7 +60,7 @@ Escenario FCA
   - Comprador responsable del cruce fronterizo
 
 Escenario DAP
-~~~~~~~~~~~~
+~~~~~~~~~~~~~
 
 - **Punto de entrega**: Planta del comprador en Ciudad de Guatemala
 - **Responsabilidades específicas**:
@@ -71,16 +71,16 @@ Escenario DAP
   - Comprador solo responsable de descarga y trámites de importación
 
 4. Recomendación para la Operación
---------------------------------
+----------------------------------
 
 Para la exportación de ácido sulfúrico en esta ruta, se recomienda el uso de **DAP** como Incoterm principal, con **FCA** como alternativa según el perfil del comprador:
 
 DAP - Recomendación Principal
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Justificación**:
 
-1. **Naturaleza del producto**: 
+1. **Naturaleza del producto**:
    - El ácido sulfúrico requiere manejo especializado y equipo específico
    - El vendedor tiene mayor experiencia en el manejo de materiales peligrosos
    - Reduce riesgos de accidentes por cambio de responsabilidad en ruta
@@ -96,7 +96,7 @@ DAP - Recomendación Principal
    - Optimización de rutas y tiempos de entrega
 
 FCA - Alternativa Viable
-~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Justificación**:
 
@@ -111,10 +111,10 @@ FCA - Alternativa Viable
    - Reduce la complejidad en la determinación del precio base
 
 Implicaciones para las Partes
-----------------------------
+-----------------------------
 
 Bajo DAP (Recomendación Principal):
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Para el Vendedor**:
 
@@ -133,7 +133,7 @@ Bajo DAP (Recomendación Principal):
 - Responsable de tener permisos de importación vigentes
 
 Bajo FCA (Alternativa):
-~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~
 
 **Para el Vendedor**:
 
@@ -204,10 +204,10 @@ DAP
    - Mantener documentación completa según el Incoterm seleccionado
 
 7. Aspectos Operativos Detallados
---------------------------------
+---------------------------------
 
 Procedimientos FCA
-~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~
 
 * **Preparación y Entrega**:
   - Verificación previa de documentación y permisos
@@ -228,7 +228,7 @@ Procedimientos FCA
   - Hojas de seguridad en español según NOM-018-STPS-2015
 
 Procedimientos DAP
-~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~
 
 * **Gestión de Transporte**:
   - Selección de transportistas con certificación binacional
@@ -249,7 +249,7 @@ Procedimientos DAP
   - Check-list de recepción y conformidad
 
 8. Matriz de Responsabilidades Actualizada
-----------------------------------------
+------------------------------------------
 
 =========================== ================= =================
 Actividad                   FCA               DAP
@@ -271,7 +271,7 @@ V = Vendedor, C = Comprador
 * Según punto de transferencia
 
 9. Protocolos de Emergencia
--------------------------
+---------------------------
 
 * **Procedimientos FCA**:
   - Responsabilidad definida hasta punto de transferencia
@@ -286,7 +286,7 @@ V = Vendedor, C = Comprador
   - Seguimiento documentado hasta entrega final
 
 10. Consideraciones Adicionales
-----------------------------
+-------------------------------
 
 * **Aspectos Aduaneros**:
   - Requisitos específicos VUCEM/SAT
@@ -307,7 +307,7 @@ V = Vendedor, C = Comprador
   - Procedimientos de resolución de disputas
 
 Historial de Cambios
-==================
+====================
 
 .. list-table::
    :header-rows: 1

@@ -1,8 +1,8 @@
 .. _normas_tecnicas:
 
-================
+
 Normas Técnicas
-================
+===============
 
 .. meta::
    :description: Normas técnicas aplicables a la exportación de ácido sulfúrico entre México y Guatemala
@@ -14,10 +14,10 @@ Resumen
 Esta subsección detalla las normas técnicas aplicables a la exportación de ácido sulfúrico, incluyendo especificaciones de calidad, seguridad y manejo del producto.
 
 Descripción Detallada
-===================
+=====================
 
 Normas Oficiales Mexicanas (NOM)
-----------------------------
+--------------------------------
 
 * **NOM-002-SCT/2011**:
   - Listado de sustancias peligrosas
@@ -41,7 +41,7 @@ Normas Oficiales Mexicanas (NOM)
   - Requisitos de seguridad
 
 Normas Técnicas Guatemaltecas
--------------------------
+-----------------------------
 
 * **COGUANOR NGO 29 001**:
   - Sustancias químicas industriales
@@ -55,7 +55,7 @@ Normas Técnicas Guatemaltecas
   - Procedimientos de emergencia
 
 Sistema Globalmente Armonizado (GHS)
---------------------------------
+------------------------------------
 
 * **Clasificación GHS**:
   - Clase 8: Corrosivos
@@ -74,7 +74,7 @@ Sistema Globalmente Armonizado (GHS)
   - Información de emergencia
 
 Clasificación NFPA 704
--------------------
+----------------------
 
 * **Diamante de Fuego**:
   - Salud (Azul): 3 - Muy peligroso
@@ -88,7 +88,7 @@ Clasificación NFPA 704
   - Actualización periódica
 
 Especificaciones Técnicas del Producto
----------------------------------
+--------------------------------------
 
 * **Propiedades Físico-Químicas**:
   - Concentración: 98.0% ± 0.5%
@@ -107,7 +107,7 @@ Especificaciones Técnicas del Producto
   - Materia carbonizable
 
 Control de Calidad
----------------
+------------------
 
 1. **Muestreo**:
    * Procedimiento ASTM E300
@@ -128,7 +128,7 @@ Control de Calidad
    * Informes de no conformidad
 
 Requisitos Previos
-================
+==================
 
 1. **Infraestructura**:
    * Laboratorio acreditado ISO 17025
@@ -149,18 +149,18 @@ Requisitos Previos
    * Mejora continua
 
 Ejemplos Prácticos
-================
+==================
 
 .. code-block:: text
 
    # Protocolo de Control de Calidad
-   
+
    1. Análisis de Rutina:
       □ Concentración H₂SO₄: 98.2%
       □ Densidad 20°C: 1.842 g/cm³
       □ Color Pt-Co: 5 unidades
       □ Fe: 23 ppm
-   
+
    2. Verificación GHS/NFPA:
       □ Etiqueta GHS: Completa
       □ Pictogramas: Conformes
@@ -168,7 +168,7 @@ Ejemplos Prácticos
       □ SDS: Rev. 2024-01
 
 Consideraciones Especiales
-=======================
+==========================
 
 * Validación de métodos analíticos
 * Control de condiciones ambientales
@@ -176,14 +176,14 @@ Consideraciones Especiales
 * Gestión de no conformidades
 
 Documentación Relacionada
-======================
+=========================
 
 * :ref:`marco_legal`
 * :ref:`regulaciones_especificas`
 * :ref:`estandares_internacionales`
 
 Historial de Cambios
-==================
+====================
 
 .. list-table::
    :header-rows: 1
@@ -197,4 +197,4 @@ Historial de Cambios
      - Creación inicial del documento
    * - 2024-01-15
      - 1.1
-     - Actualización detallada de normas técnicas y requisitos GHS/NFPA 
+     - Actualización detallada de normas técnicas y requisitos GHS/NFPA

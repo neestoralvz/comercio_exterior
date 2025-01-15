@@ -1,8 +1,8 @@
 .. _requisitos_legales:
 
-=================
+
 Requisitos Legales
-=================
+==================
 
 .. meta::
    :description: Requisitos legales para la exportación de ácido sulfúrico entre México y Guatemala
@@ -14,10 +14,10 @@ Resumen
 Esta subsección detalla los requisitos legales necesarios para la exportación de ácido sulfúrico, incluyendo permisos, licencias, autorizaciones y normativas específicas requeridas por ambos países, así como las regulaciones internacionales aplicables.
 
 Marco Legal Aplicable
-===================
+=====================
 
 Legislación Mexicana
------------------
+--------------------
 
 * **Ley Aduanera**:
   - Artículos 35, 36, 36-A (documentación)
@@ -35,7 +35,7 @@ Legislación Mexicana
   - Reglamentos en materia de impacto ambiental
 
 Legislación Guatemalteca
---------------------
+------------------------
 
 * **Código Aduanero Uniforme Centroamericano**:
   - Título VI: Regímenes Aduaneros
@@ -53,7 +53,7 @@ Legislación Guatemalteca
   - Controles sanitarios aplicables
 
 Normativa Técnica
---------------
+-----------------
 
 * **Normas Oficiales Mexicanas**:
   - NOM-002-SCT/2011 (transporte)
@@ -72,7 +72,7 @@ Normativa Técnica
   - OHSAS 18001 (Seguridad)
 
 Permisos y Autorizaciones
-----------------------
+-------------------------
 
 1. **Permisos de Exportación**:
    - Autorización SEMARNAT
@@ -93,7 +93,7 @@ Permisos y Autorizaciones
    - Licencias especiales
 
 Registros y Certificaciones
-----------------------
+---------------------------
 
 * **Registros Obligatorios**:
   - Padrón de Exportadores Sectorial
@@ -114,7 +114,7 @@ Registros y Certificaciones
   - Procesos validados
 
 Requisitos de Personal
-------------------
+----------------------
 
 1. **Capacitación**:
    - Manejo de materiales peligrosos
@@ -135,7 +135,7 @@ Requisitos de Personal
    - Gestión de emergencias
 
 Consideraciones Especiales
-=======================
+==========================
 
 * **Plazos y Vigencias**:
   - Permisos: 1-2 años
@@ -156,7 +156,7 @@ Consideraciones Especiales
   - Mejora continua
 
 Documentación Relacionada
-======================
+=========================
 
 * :ref:`tramites_aduaneros`
 * :ref:`documentacion_requerida`
@@ -164,7 +164,7 @@ Documentación Relacionada
 * :ref:`permisos_especiales`
 
 Historial de Cambios
-==================
+====================
 
 .. list-table::
    :header-rows: 1
@@ -178,4 +178,4 @@ Historial de Cambios
      - Creación inicial del documento
    * - 2024-01-15
      - 1.1
-     - Actualización completa del marco legal y requisitos específicos 
+     - Actualización completa del marco legal y requisitos específicos

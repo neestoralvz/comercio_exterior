@@ -1,8 +1,8 @@
 .. _responsabilidades:
 
-================
+
 Responsabilidades
-================
+=================
 
 .. meta::
    :description: Responsabilidades y obligaciones de las partes según los Incoterms en la exportación de ácido sulfúrico
@@ -14,10 +14,10 @@ Resumen
 Esta subsección detalla las responsabilidades y obligaciones específicas del vendedor y comprador según los diferentes términos Incoterms aplicables en la exportación de ácido sulfúrico.
 
 Descripción Detallada
-===================
+=====================
 
 Responsabilidades del Vendedor
--------------------------
+------------------------------
 
 * Suministro de mercancía
 * Embalaje y marcado
@@ -28,7 +28,7 @@ Responsabilidades del Vendedor
    El vendedor debe cumplir con todas las regulaciones de exportación aplicables.
 
 Responsabilidades del Comprador
---------------------------
+-------------------------------
 
 * Pago del precio acordado
 * Recepción de la mercancía
@@ -39,7 +39,7 @@ Responsabilidades del Comprador
    El incumplimiento de las responsabilidades puede resultar en costos adicionales y retrasos.
 
 Puntos de Transferencia
--------------------
+-----------------------
 
 * Transferencia de riesgos
 * Transferencia de costos
@@ -50,7 +50,7 @@ Puntos de Transferencia
    El punto exacto de transferencia varía según el Incoterm seleccionado.
 
 Requisitos Previos
-================
+==================
 
 1. Conocimiento de Incoterms
 2. Capacidad operativa
@@ -58,18 +58,18 @@ Requisitos Previos
 4. Documentación necesaria
 
 Ejemplos Prácticos
-================
+==================
 
 .. code-block:: text
 
    # Matriz de Responsabilidades
-   
+
    1. Vendedor:
       □ Preparación mercancía
       □ Embalaje adecuado
       □ Documentos exportación
       □ Notificaciones
-   
+
    2. Comprador:
       □ Pago acordado
       □ Recepción mercancía
@@ -77,7 +77,7 @@ Ejemplos Prácticos
       □ Verificación
 
 Consideraciones Especiales
-=======================
+==========================
 
 * Capacidades operativas
 * Recursos disponibles
@@ -85,14 +85,14 @@ Consideraciones Especiales
 * Requisitos específicos del producto
 
 Documentación Relacionada
-======================
+=========================
 
 * :ref:`terminos_aplicables`
 * :ref:`costos_riesgos`
 * :ref:`documentacion_requerida`
 
 Historial de Cambios
-==================
+====================
 
 .. list-table::
    :header-rows: 1
@@ -106,4 +106,4 @@ Historial de Cambios
      - Creación inicial del documento
    * - 2024-01-20
      - 1.1
-     - Actualización de responsabilidades específicas 
+     - Actualización de responsabilidades específicas

@@ -1,8 +1,8 @@
 .. _documentacion_financiera:
 
-=======================
+
 Documentación Financiera
-=======================
+========================
 
 .. meta::
    :description: Documentos financieros requeridos para la exportación de ácido sulfúrico
@@ -14,10 +14,10 @@ Resumen
 Esta subsección detalla los documentos financieros necesarios para las operaciones de exportación de ácido sulfúrico, incluyendo registros contables y documentación de respaldo.
 
 Descripción Detallada
-===================
+=====================
 
 Documentos Comerciales
-------------------
+----------------------
 
 * **Facturas de Exportación**:
   - Factura comercial internacional
@@ -36,7 +36,7 @@ Documentos Comerciales
   - Documentos de transporte
 
 Registros Contables
----------------
+-------------------
 
 * **Libros Contables**:
   - Libro diario de exportaciones
@@ -55,7 +55,7 @@ Registros Contables
   - Conciliaciones bancarias
 
 Sistema de Archivo
---------------
+------------------
 
 * **Archivo Físico**:
   - Clasificación por tipo de documento
@@ -74,7 +74,7 @@ Sistema de Archivo
   - Trazabilidad de cambios
 
 Requisitos de Conservación
-----------------------
+--------------------------
 
 * **Períodos de Retención**:
   - Documentos fiscales: 5 años
@@ -88,7 +88,7 @@ Requisitos de Conservación
   - Respaldo redundante
 
 Requisitos Previos
-================
+==================
 
 1. **Infraestructura Tecnológica**:
    * Sistema contable certificado
@@ -109,18 +109,18 @@ Requisitos Previos
    * Control de calidad
 
 Ejemplos Prácticos
-================
+==================
 
 .. code-block:: text
 
    # Sistema de Gestión Documental
-   
+
    1. Documentación de Exportación:
       □ Factura comercial: FAC-EXP-2024-001
       □ Pedimento: 24-001-3000001
       □ Certificado: CERT-MX-GT-001
       □ Carta de crédito: LC-2024-001
-   
+
    2. Control de Archivos:
       □ Expediente físico: EXP-2024-001
       □ Archivo digital: D:/EXP/2024/001
@@ -128,7 +128,7 @@ Ejemplos Prácticos
       □ Registro: REG-DOC-2024-001
 
 Consideraciones Especiales
-=======================
+==========================
 
 * Cumplimiento de normas fiscales internacionales
 * Requerimientos de auditoría externa
@@ -136,14 +136,14 @@ Consideraciones Especiales
 * Certificación de documentos digitales
 
 Documentación Relacionada
-======================
+=========================
 
 * :ref:`estructura_precios`
 * :ref:`terminos_pago`
 * :ref:`procedimientos_facturacion`
 
 Historial de Cambios
-==================
+====================
 
 .. list-table::
    :header-rows: 1
@@ -157,4 +157,4 @@ Historial de Cambios
      - Creación inicial del documento
    * - 2024-01-15
      - 1.1
-     - Actualización detallada de requisitos documentales y sistemas de archivo 
+     - Actualización detallada de requisitos documentales y sistemas de archivo

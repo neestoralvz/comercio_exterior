@@ -1,8 +1,8 @@
 .. _actualizaciones:
 
-==============
+
 Actualizaciones
-==============
+===============
 
 .. meta::
    :description: Política y procedimientos de actualización de la guía de exportación de ácido sulfúrico
@@ -14,10 +14,10 @@ Resumen
 Esta subsección describe la política y los procedimientos para mantener actualizada la guía, incluyendo la frecuencia de revisiones y el proceso de actualización.
 
 Descripción Detallada
-==================
+=====================
 
 Política de Actualizaciones
-------------------------
+---------------------------
 
 * Revisiones periódicas programadas
 * Actualizaciones por cambios regulatorios
@@ -28,7 +28,7 @@ Política de Actualizaciones
    Las actualizaciones se realizan para mantener la precisión y relevancia del contenido.
 
 Proceso de Actualización
----------------------
+------------------------
 
 * Identificación de cambios necesarios
 * Validación de información
@@ -39,7 +39,7 @@ Proceso de Actualización
    Asegúrese de seguir el proceso formal de actualización para mantener la integridad del documento.
 
 Control de Versiones
------------------
+--------------------
 
 * Numeración de versiones
 * Registro de cambios
@@ -50,7 +50,7 @@ Control de Versiones
    Cada versión se identifica con un número único y fecha de publicación.
 
 Requisitos Previos
-================
+==================
 
 1. Acceso al sistema de control de versiones
 2. Autorización para realizar cambios
@@ -58,17 +58,17 @@ Requisitos Previos
 4. Herramientas de edición apropiadas
 
 Ejemplos Prácticos
-================
+==================
 
 .. code-block:: text
 
    # Proceso de Actualización
-   
+
    1. Identificación:
       □ Revisar cambios regulatorios
       □ Analizar retroalimentación
       □ Evaluar mejoras necesarias
-   
+
    2. Implementación:
       □ Documentar cambios
       □ Actualizar contenido
@@ -76,7 +76,7 @@ Ejemplos Prácticos
       □ Publicar nueva versión
 
 Consideraciones Especiales
-=======================
+==========================
 
 * Impacto de cambios regulatorios
 * Retroalimentación de usuarios
@@ -84,14 +84,14 @@ Consideraciones Especiales
 * Respaldo de información
 
 Documentación Relacionada
-======================
+=========================
 
 * :ref:`uso_guia`
 * :ref:`estructura_guia_detalle`
 * :ref:`proposito_guia`
 
 Historial de Cambios
-==================
+====================
 
 .. list-table::
    :header-rows: 1
@@ -105,4 +105,4 @@ Historial de Cambios
      - Creación inicial del documento
    * - 2024-01-15
      - 1.1
-     - Actualización del proceso de control de versiones 
+     - Actualización del proceso de control de versiones

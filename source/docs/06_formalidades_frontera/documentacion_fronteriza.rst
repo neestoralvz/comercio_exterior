@@ -1,8 +1,8 @@
 .. _documentacion_fronteriza:
 
-=====================
+
 Documentación Fronteriza
-=====================
+========================
 
 .. meta::
    :description: Documentación requerida en la frontera para la exportación de ácido sulfúrico entre México y Guatemala
@@ -14,10 +14,10 @@ Resumen
 Esta subsección detalla la documentación necesaria para el proceso fronterizo en la exportación de |product|, incluyendo permisos, certificados y declaraciones aduaneras según las normativas vigentes de México y Guatemala.
 
 Descripción Detallada
-===================
+=====================
 
 Documentos Aduaneros
-----------------
+--------------------
 
 * **Documentos Base**
     - Pedimento de Exportación
@@ -42,7 +42,7 @@ Documentos Aduaneros
         * Marcas y números
 
 Certificados y Permisos
-------------------
+-----------------------
 
 * **Documentos Técnicos**
     - Certificado de Origen
@@ -74,7 +74,7 @@ Certificados y Permisos
         * Verificación mensual
 
 Documentos de Transporte
-------------------
+------------------------
 
 * **Documentación Operativa**
     - Carta Porte Internacional
@@ -94,7 +94,7 @@ Documentos de Transporte
         * Actualizaciones: 24h
 
 Requisitos de Presentación
-=====================
+==========================
 
 * **Formato de Documentos**
     - Documentos Digitales
@@ -121,7 +121,7 @@ Requisitos de Presentación
         * Liberación: 2h
 
 Sistema de Control
-===============
+==================
 
 * **Verificación Documental**
     - Control Primario
@@ -148,7 +148,7 @@ Sistema de Control
         * Estadísticas operativas
 
 Documentación Relacionada
-======================
+=========================
 
 * :ref:`procedimientos_inspeccion`
 * :ref:`tramites_aduaneros`
@@ -156,7 +156,7 @@ Documentación Relacionada
 * :ref:`proceso_fronterizo`
 
 Historial de Cambios
-==================
+====================
 
 .. list-table::
    :header-rows: 1
@@ -170,4 +170,4 @@ Historial de Cambios
      - Creación inicial del documento
    * - 2024-01-15
      - 1.1
-     - Actualización completa con tiempos de proceso y requisitos específicos 
+     - Actualización completa con tiempos de proceso y requisitos específicos

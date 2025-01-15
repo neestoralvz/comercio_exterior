@@ -1,23 +1,23 @@
 .. _transporte_y_logistica:
 
-=====================
+
 Transporte y Logística
-=====================
+======================
 
 .. meta::
    :description: Aspectos de transporte y logística para la exportación de ácido sulfúrico entre México y Guatemala
    :keywords: transporte, logística, exportación, carga, seguridad, rutas
 
 Transporte y Logística 2025
-========================
+===========================
 
 Esta sección detalla los procedimientos actualizados para el transporte y logística de ácido sulfúrico entre México y Guatemala, incluyendo requisitos técnicos, medidas de seguridad y gestión operativa.
 
 Estructura Operativa
-=================
+====================
 
 1. Planificación Logística
-----------------------
+--------------------------
 
 - Evaluación de rutas
 - Selección transportistas
@@ -25,7 +25,7 @@ Estructura Operativa
 - Gestión recursos
 
 2. Operación Transporte
--------------------
+-----------------------
 
 - Protocolos carga
 - Monitoreo trayecto
@@ -33,7 +33,7 @@ Estructura Operativa
 - Documentación
 
 3. Requisitos Técnicos
-------------------
+----------------------
 
 - Especificaciones unidades
 - Equipamiento seguridad
@@ -41,7 +41,7 @@ Estructura Operativa
 - Certificaciones
 
 4. Gestión Documental
------------------
+---------------------
 
 - Permisos transporte
 - Hojas seguridad
@@ -49,7 +49,7 @@ Estructura Operativa
 - Pólizas seguro
 
 Contenido Principal
-================
+===================
 
 .. toctree::
    :maxdepth: 2
@@ -62,10 +62,10 @@ Contenido Principal
    gestion_riesgos
 
 Aspectos Críticos
-==============
+=================
 
 1. Seguridad Operativa
-------------------
+----------------------
 
 - Protocolos HAZMAT
 - Control unidades
@@ -73,7 +73,7 @@ Aspectos Críticos
 - Respuesta emergencias
 
 2. Cumplimiento Técnico
--------------------
+-----------------------
 
 - Normativa México
 - Requisitos Guatemala
@@ -81,7 +81,7 @@ Aspectos Críticos
 - Certificaciones 2025
 
 3. Gestión Tiempos
---------------
+------------------
 
 - Programación cargas
 - Tiempos tránsito
@@ -89,7 +89,7 @@ Aspectos Críticos
 - Contingencias
 
 4. Control Costos
--------------
+-----------------
 
 - Tarifas transporte
 - Seguros especiales
@@ -97,10 +97,10 @@ Aspectos Críticos
 - Imprevistos
 
 Recomendaciones Operativas
-=======================
+==========================
 
 1. Pre-Operación
--------------
+----------------
 
 - Inspección unidades
 - Verificación documentos
@@ -108,7 +108,7 @@ Recomendaciones Operativas
 - Confirmación rutas
 
 2. Durante Transporte
------------------
+---------------------
 
 - Seguimiento GPS
 - Control temperatura
@@ -116,7 +116,7 @@ Recomendaciones Operativas
 - Gestión incidentes
 
 3. Post-Operación
---------------
+-----------------
 
 - Confirmación entrega
 - Documentación final
@@ -124,10 +124,10 @@ Recomendaciones Operativas
 - Registro incidencias
 
 Aspectos Tecnológicos
-==================
+=====================
 
 1. Sistemas Tracking
-----------------
+--------------------
 
 - GPS satelital
 - Sensores temperatura
@@ -135,7 +135,7 @@ Aspectos Tecnológicos
 - Alarmas automáticas
 
 2. Documentación Digital
--------------------
+------------------------
 
 - E-manifiestos
 - Firmas digitales
@@ -155,7 +155,7 @@ Aspectos Tecnológicos
    durante todo el trayecto.
 
 Historial de Cambios
-==================
+====================
 
 .. list-table::
    :header-rows: 1
@@ -169,7 +169,19 @@ Historial de Cambios
      - Creación inicial del documento
    * - 2024-01-20
      - 1.1
-     - Actualización de requisitos de transporte 
+     - Actualización de requisitos de transporte
    * - 2025-01-15
      - 2.0
      - Actualización de procedimientos y requisitos para 2025
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Contenido:
+
+   matriz_riesgos
+   planes_contingencia
+   planificacion_transporte
+   procedimientos_operativos
+   requisitos_vehiculos
+   seguimiento_monitoreo
+   seguridad_transporte

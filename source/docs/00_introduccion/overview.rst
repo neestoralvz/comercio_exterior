@@ -33,7 +33,7 @@ Producto: Ácido Sulfúrico
 -------------------------
 
 Especificaciones Técnicas
-~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - **Nombre químico**: Ácido Sulfúrico
 - **Fórmula química**: H₂SO₄
@@ -43,7 +43,7 @@ Especificaciones Técnicas
 - **Olor**: Inodoro
 
 Propiedades Físico-Químicas
-~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - **Concentración**: 98% p/p (grado técnico)
 - **Densidad**: 1.84 g/cm³ a 20°C
@@ -55,7 +55,7 @@ Propiedades Físico-Químicas
 - **Solubilidad en agua**: Miscible en todas proporciones
 
 Especificaciones de Calidad
-~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - **Pureza mínima garantizada**: 98.0%
 - **Contenido máximo de impurezas**:
@@ -66,7 +66,7 @@ Especificaciones de Calidad
   - Materia carbonizable: Pasa prueba
 
 Clasificación y Códigos
-~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~
 
 - **Código HS (Sistema Armonizado)**:
   - México (TIGIE): 2807.00.01
@@ -79,7 +79,7 @@ Clasificación y Códigos
   - NFPA 704: Salud=3, Inflamabilidad=0, Reactividad=2, Especial=W
 
 Consideraciones Especiales
-~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - Producto clasificado como material peligroso Clase 8 (Corrosivo)
 - Requiere manejo especializado según normativa IMDG/DOT
@@ -88,7 +88,7 @@ Consideraciones Especiales
 - Requiere tanques y contenedores con especificaciones UN
 
 Estructura del Manual
---------------------
+---------------------
 
 Este manual está organizado en secciones temáticas para facilitar su
 consulta:
@@ -103,7 +103,7 @@ consulta:
 8. **Contactos y Soporte**: Directorio de contactos clave
 
 Cómo Usar este Manual
---------------------
+---------------------
 
 1. **Consulta Regular**: Use este manual como referencia continua
    durante el proceso de exportación
@@ -115,7 +115,7 @@ Cómo Usar este Manual
    contactos para asistencia
 
 Notas Importantes
-----------------
+-----------------
 
 - Este manual se actualiza periódicamente para reflejar cambios en
   regulaciones y procedimientos
@@ -125,7 +125,7 @@ Notas Importantes
   relacionada
 
 Historial de Cambios
-------------------
+--------------------
 
 .. list-table::
    :header-rows: 1

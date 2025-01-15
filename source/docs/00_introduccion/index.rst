@@ -1,6 +1,6 @@
 .. _introduccion:
 
-============
+
 Introducción
 ============
 
@@ -14,7 +14,7 @@ Introducción
    :backlinks: none
 
 Introducción
-===========
+============
 
 Esta guía proporciona información detallada sobre los procesos, requisitos y procedimientos necesarios para la exportación de |product| desde |origin_country| hacia |destination_country|.
 
@@ -37,12 +37,19 @@ Alcance
 * Consideraciones de seguridad
 
 Contenido Principal
-=================
+===================
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Contenido:
+
+   overview
+   proposito
 
 .. _estructura_guia:
 
 Estructura de la Guía
-------------------
+=====================
 
 * Organización por secciones
 * Referencias cruzadas
@@ -55,7 +62,7 @@ Estructura de la Guía
 .. _uso_guia:
 
 Uso de la Guía
------------
+==============
 
 * Navegación del contenido
 * Interpretación de secciones
@@ -68,7 +75,7 @@ Uso de la Guía
 .. _actualizaciones:
 
 Actualizaciones y Mantenimiento
----------------------------
+===============================
 
 * Proceso de actualización
 * Control de versiones
@@ -76,7 +83,7 @@ Actualizaciones y Mantenimiento
 * Notificaciones importantes
 
 Aspectos Clave
-============
+==============
 
 * Cumplimiento normativo
 * Seguridad operativa
@@ -87,7 +94,7 @@ Aspectos Clave
    Esta guía debe utilizarse en conjunto con la legislación vigente.
 
 Mejores Prácticas
-===============
+=================
 
 1. Revisión regular del contenido
 2. Verificación de actualizaciones
@@ -98,13 +105,13 @@ Mejores Prácticas
    Las mejores prácticas se actualizan según la experiencia operativa.
 
 Documentos Relacionados
-=====================
+=======================
 
-* :download:`Manual de Usuario <templates/manual_usuario.pdf>`
-* :download:`Guía Rápida <templates/guia_rapida.pdf>`
+* :download:`Manual de Usuario <../templates/manual_usuario.pdf>`
+* :download:`Guía Rápida <../templates/guia_rapida.pdf>`
 
 Referencias Normativas
-====================
+======================
 
 * Legislación aplicable
 * Normas técnicas
@@ -112,7 +119,7 @@ Referencias Normativas
 * Procedimientos oficiales
 
 Secciones Relacionadas
-=====================
+======================
 
 * :ref:`normativas_y_regulaciones`
 * :ref:`requisitos_legales_y_aduaneros`
@@ -122,7 +129,7 @@ Secciones Relacionadas
    Consulte las actualizaciones en el portal oficial.
 
 Historial de Cambios
-==================
+====================
 
 .. list-table::
    :header-rows: 1
@@ -144,4 +151,4 @@ Historial de Cambios
 
    estructura_guia
    uso_guia
-   actualizaciones 
+   actualizaciones

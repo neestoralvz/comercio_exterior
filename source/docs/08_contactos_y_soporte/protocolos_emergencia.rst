@@ -1,6 +1,6 @@
 .. _protocolos_emergencia:
 
-=====================
+
 Protocolos Emergencia
 =====================
 
@@ -9,39 +9,39 @@ Protocolos Emergencia
    :keywords: protocolos, emergencia, seguridad, respuesta, procedimientos, contingencia
 
 Protocolos de Emergencia 2025
-===========================
+=============================
 
 Esta sección detalla los protocolos actualizados para la gestión de emergencias relacionadas con el transporte y manejo de ácido sulfúrico entre México y Guatemala.
 
 Niveles de Emergencia
--------------------
+---------------------
 
 1. Nivel 1 - Incidente Menor
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 - Derrames < 20 litros
 - Sin lesionados
 - Contención inmediata posible
 - Tiempo respuesta: 15-30 minutos
 
 2. Nivel 2 - Incidente Moderado
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 - Derrames 20-200 litros
 - Lesiones leves
 - Requiere equipo especializado
 - Tiempo respuesta: 30-60 minutos
 
 3. Nivel 3 - Incidente Mayor
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 - Derrames > 200 litros
 - Lesiones graves
 - Evacuación necesaria
 - Tiempo respuesta: Inmediata
 
 Protocolos por Tipo de Emergencia
-------------------------------
+---------------------------------
 
 1. Derrames Químicos
-~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~
 
 **Acciones Inmediatas**:
 
@@ -76,7 +76,7 @@ Protocolos por Tipo de Emergencia
      - +502 2423-0500
 
 2. Accidentes de Transporte
-~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Protocolo de Respuesta**:
 
@@ -106,7 +106,7 @@ Protocolos por Tipo de Emergencia
      - +502 2338-9999
 
 3. Emergencias Médicas
-~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~
 
 **Protocolo Atención**:
 
@@ -130,7 +130,7 @@ Protocolos por Tipo de Emergencia
      - Hospital Nacional (Tel: +502 7776-8899)
 
 Cadena de Comunicación
--------------------
+----------------------
 
 1. **Notificación Inicial**:
    - Operador → Centro Control
@@ -145,7 +145,7 @@ Cadena de Comunicación
    - Tiempo máximo: 15 minutos
 
 Kit de Emergencia Obligatorio
---------------------------
+-----------------------------
 
 1. **Equipo Protección**:
    - Trajes nivel A
@@ -166,7 +166,7 @@ Kit de Emergencia Obligatorio
    - Baterías respaldo
 
 Documentación Post-Incidente
--------------------------
+----------------------------
 
 1. **Reporte Inicial** (2 horas):
    - Tipo incidente
@@ -192,7 +192,7 @@ Documentación Post-Incidente
    cada incidente.
 
 Historial de Cambios
-==================
+====================
 
 .. list-table::
    :header-rows: 1

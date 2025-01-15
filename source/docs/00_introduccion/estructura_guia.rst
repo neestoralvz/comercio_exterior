@@ -1,8 +1,8 @@
 .. _estructura_guia_detalle:
 
-=================
+
 Estructura de Guía
-=================
+==================
 
 .. meta::
    :description: Estructura y organización de la guía de exportación de ácido sulfúrico
@@ -14,10 +14,10 @@ Resumen
 Esta subsección detalla la estructura y organización de la guía, facilitando la navegación y comprensión del contenido para una consulta eficiente.
 
 Descripción Detallada
-==================
+=====================
 
 Organización por Secciones
------------------------
+--------------------------
 
 * Secciones principales
 * Subsecciones específicas
@@ -28,7 +28,7 @@ Organización por Secciones
    Cada sección está diseñada para ser autocontenida pero interconectada.
 
 Sistema de Referencias
--------------------
+----------------------
 
 * Referencias internas
 * Enlaces externos
@@ -39,7 +39,7 @@ Sistema de Referencias
    Verifique que los enlaces estén actualizados antes de su uso.
 
 Elementos de Apoyo
-----------------
+------------------
 
 * Diagramas explicativos
 * Tablas de referencia
@@ -50,7 +50,7 @@ Elementos de Apoyo
    Los elementos de apoyo se actualizan regularmente con nuevos ejemplos.
 
 Requisitos Previos
-================
+==================
 
 1. Conocimiento básico de navegación
 2. Acceso a documentación completa
@@ -58,18 +58,18 @@ Requisitos Previos
 4. Conexión a internet
 
 Ejemplos Prácticos
-================
+==================
 
 .. code-block:: text
 
    # Estructura de Navegación
-   
+
    1. Sección Principal:
       □ Introducción
       □ Propósito
       □ Alcance
       □ Contenido
-   
+
    2. Elementos de Apoyo:
       □ Diagramas
       □ Tablas
@@ -77,7 +77,7 @@ Ejemplos Prácticos
       □ Referencias
 
 Consideraciones Especiales
-=======================
+==========================
 
 * Actualizaciones periódicas
 * Versiones disponibles
@@ -85,14 +85,14 @@ Consideraciones Especiales
 * Accesibilidad
 
 Documentación Relacionada
-======================
+=========================
 
 * :ref:`uso_guia`
 * :ref:`actualizaciones`
 * :ref:`proposito_guia`
 
 Historial de Cambios
-==================
+====================
 
 .. list-table::
    :header-rows: 1
@@ -106,4 +106,4 @@ Historial de Cambios
      - Creación inicial del documento
    * - 2024-01-15
      - 1.1
-     - Actualización de estructura 
+     - Actualización de estructura

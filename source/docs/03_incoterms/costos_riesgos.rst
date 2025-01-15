@@ -1,8 +1,8 @@
 .. _costos_riesgos:
 
-===============
+
 Costos y Riesgos
-===============
+================
 
 .. meta::
    :description: Distribución de costos y riesgos según los Incoterms en la exportación de ácido sulfúrico
@@ -14,10 +14,12 @@ Resumen
 Esta subsección detalla la distribución de costos y riesgos entre vendedor y comprador según los diferentes términos Incoterms aplicables en la exportación de ácido sulfúrico.
 
 Descripción Detallada
-===================
+=====================
+
+.. _costos_asociados:
 
 Distribución de Costos
-------------------
+======================
 
 * Costos de producción y embalaje
 * Costos de transporte y manipulación
@@ -28,7 +30,7 @@ Distribución de Costos
    La distribución de costos debe estar claramente especificada en el contrato comercial.
 
 Transferencia de Riesgos
---------------------
+========================
 
 * Punto de transferencia
 * Responsabilidad por pérdidas
@@ -39,7 +41,7 @@ Transferencia de Riesgos
    La falta de claridad en la transferencia de riesgos puede generar disputas comerciales.
 
 Seguros y Garantías
----------------
+===================
 
 * Tipos de seguros requeridos
 * Coberturas mínimas
@@ -50,7 +52,7 @@ Seguros y Garantías
    Los seguros deben cubrir adecuadamente los riesgos específicos del transporte de ácido sulfúrico.
 
 Requisitos Previos
-================
+==================
 
 1. Evaluación de riesgos
 2. Análisis de costos
@@ -58,18 +60,18 @@ Requisitos Previos
 4. Procedimientos de reclamo
 
 Ejemplos Prácticos
-================
+==================
 
 .. code-block:: text
 
    # Matriz de Costos y Riesgos
-   
+
    1. Costos:
       □ Producción
       □ Transporte
       □ Seguros
       □ Documentación
-   
+
    2. Riesgos:
       □ Pérdida
       □ Daño
@@ -77,7 +79,7 @@ Ejemplos Prácticos
       □ Incumplimiento
 
 Consideraciones Especiales
-=======================
+==========================
 
 * Naturaleza del producto
 * Ruta de transporte
@@ -85,14 +87,14 @@ Consideraciones Especiales
 * Requisitos regulatorios
 
 Documentación Relacionada
-======================
+=========================
 
 * :ref:`terminos_aplicables`
 * :ref:`responsabilidades`
 * :ref:`documentacion_requerida`
 
 Historial de Cambios
-==================
+====================
 
 .. list-table::
    :header-rows: 1
@@ -106,4 +108,4 @@ Historial de Cambios
      - Creación inicial del documento
    * - 2024-01-20
      - 1.1
-     - Actualización de matriz de costos y riesgos 
+     - Actualización de matriz de costos y riesgos

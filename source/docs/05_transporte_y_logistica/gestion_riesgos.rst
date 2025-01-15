@@ -1,8 +1,8 @@
 .. _gestion_riesgos:
 
-================
+
 Gestión de Riesgos
-================
+==================
 
 .. meta::
    :description: Gestión de riesgos en el transporte de ácido sulfúrico entre México y Guatemala
@@ -14,10 +14,10 @@ Resumen
 Esta subsección detalla el sistema integral de gestión de riesgos para el transporte de |product|, incluyendo metodologías avanzadas de identificación, evaluación, control y monitoreo de riesgos según ISO 31000:2018, estándares HAZMAT, y mejores prácticas internacionales, incorporando tecnologías predictivas y análisis en tiempo real.
 
 Descripción Detallada
-===================
+=====================
 
 Marco de Gestión de Riesgos
-------------------------
+---------------------------
 
 * **Metodología**
     - ISO 31000:2018 Risk Management
@@ -66,7 +66,7 @@ Marco de Gestión de Riesgos
         * Machine learning
 
 Identificación de Riesgos
----------------------
+-------------------------
 
 * **Riesgos Operativos**
     - Fallas mecánicas
@@ -115,7 +115,7 @@ Identificación de Riesgos
         * Estándares internacionales
 
 Evaluación de Riesgos
------------------
+---------------------
 
 * **Metodología de Evaluación**
     - Análisis cuantitativo
@@ -164,7 +164,7 @@ Evaluación de Riesgos
         * Recursos estándar
 
 Medidas de Control
---------------
+------------------
 
 * **Controles Preventivos**
     - Sistemas tecnológicos
@@ -203,7 +203,7 @@ Medidas de Control
         * Lecciones aprendidas
 
 Sistema de Monitoreo
-----------------
+--------------------
 
 * **Indicadores Clave (KRI)**
     - Métricas operativas
@@ -230,7 +230,7 @@ Sistema de Monitoreo
         * Modelado de escenarios
 
 Requisitos Previos
-================
+==================
 
 1. Sistema de gestión de riesgos certificado ISO 31000
 2. Personal con certificación en gestión de riesgos HAZMAT
@@ -242,12 +242,12 @@ Requisitos Previos
 8. Sistema de mejora continua activo
 
 Procedimientos de Gestión
-=====================
+=========================
 
 .. code-block:: text
 
    # Protocolo de Gestión de Riesgos
-   
+
    1. Identificación:
       □ Análisis de contexto operativo
       □ Evaluación de amenazas específicas
@@ -257,7 +257,7 @@ Procedimientos de Gestión
       □ Actualización de base de datos
       □ Comunicación a interesados
       □ Documentación de hallazgos
-   
+
    2. Evaluación:
       □ Análisis probabilístico detallado
       □ Evaluación de impactos potenciales
@@ -267,7 +267,7 @@ Procedimientos de Gestión
       □ Actualización de matrices
       □ Comunicación de resultados
       □ Planificación de acciones
-   
+
    3. Control:
       □ Selección de medidas específicas
       □ Implementación de controles
@@ -279,7 +279,7 @@ Procedimientos de Gestión
       □ Mejora continua
 
 Consideraciones Especiales
-=======================
+==========================
 
 * **Factores Críticos**
     - Condiciones operativas
@@ -318,7 +318,7 @@ Consideraciones Especiales
         * Benchmarking internacional
 
 Documentación Relacionada
-======================
+=========================
 
 * :ref:`requisitos_seguridad`
 * :ref:`documentacion_transporte`
@@ -328,7 +328,7 @@ Documentación Relacionada
 * :ref:`seguimiento_monitoreo`
 
 Historial de Cambios
-==================
+====================
 
 .. list-table::
    :header-rows: 1
@@ -342,4 +342,4 @@ Historial de Cambios
      - Creación inicial del documento
    * - 2024-01-15
      - 1.1
-     - Actualización completa con metodologías avanzadas de gestión de riesgos y controles específicos para el transporte de ácido sulfúrico 
+     - Actualización completa con metodologías avanzadas de gestión de riesgos y controles específicos para el transporte de ácido sulfúrico

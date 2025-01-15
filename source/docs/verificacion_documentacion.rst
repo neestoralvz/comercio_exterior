@@ -12,7 +12,7 @@
      - Actualización de aspectos operativos relacionados con Incoterms seleccionados
 
 Hallazgos en Verificación de Incoterms
-----------------------------------
+--------------------------------------
 
 * **Aspectos Operativos**:
   - Verificación de responsabilidades y obligaciones bajo cada Incoterm
@@ -35,4 +35,4 @@ Hallazgos en Verificación de Incoterms
 * **Seguimiento**:
   - Próxima revisión: Abril 2024
   - Actualización de procedimientos: Febrero 2024
-  - Capacitación del personal: Marzo 2024 
+  - Capacitación del personal: Marzo 2024

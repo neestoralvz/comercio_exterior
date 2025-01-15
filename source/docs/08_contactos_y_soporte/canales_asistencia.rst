@@ -1,23 +1,23 @@
 .. _canales_asistencia:
 
-===================
+
 Canales Asistencia
-===================
+==================
 
 .. meta::
    :description: Canales de asistencia y comunicación para la exportación de ácido sulfúrico
    :keywords: canales, asistencia, comunicación, soporte, ayuda, contacto, HAZMAT, emergencias, monitoreo
 
 Canales de Asistencia
-===================
+=====================
 
 Esta sección detalla los canales de comunicación y asistencia disponibles para la gestión de consultas, incidentes y emergencias relacionadas con la exportación de ácido sulfúrico entre México y Guatemala, incluyendo protocolos de respuesta y tiempos de atención.
 
 Centro de Control Operativo
-------------------------
+---------------------------
 
 1. Centro de Comando 24/7
-~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. list-table::
    :header-rows: 1
@@ -37,7 +37,7 @@ Centro de Control Operativo
      - < 5 minutos
 
 2. Sistemas de Respaldo
-~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~
 
 .. list-table::
    :header-rows: 1
@@ -55,10 +55,10 @@ Centro de Control Operativo
      - Notificaciones instantáneas
 
 Soporte Técnico Especializado
---------------------------
+-----------------------------
 
 1. Mesa de Ayuda HAZMAT
-~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~
 
 .. list-table::
    :header-rows: 1
@@ -81,7 +81,7 @@ Soporte Técnico Especializado
      - < 2 horas
 
 2. Portal de Autoservicio
-~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - **Centro de Ayuda**
     * URL: https://soporte.empresa.com
@@ -96,10 +96,10 @@ Soporte Técnico Especializado
         - FAQs interactivas
 
 Asistencia Legal y Regulatoria
----------------------------
+------------------------------
 
 1. Asesoría Legal
-~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~
 
 .. list-table::
    :header-rows: 1
@@ -119,7 +119,7 @@ Asistencia Legal y Regulatoria
      - < 8 horas
 
 2. Consultas Regulatorias
-~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - **México**
     * SEMARNAT HAZMAT: 800-0000-247
@@ -134,10 +134,10 @@ Asistencia Legal y Regulatoria
     * CONRED: 1566
 
 Monitoreo de Operaciones
----------------------
+------------------------
 
 1. Centro de Monitoreo
-~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~
 
 .. list-table::
    :header-rows: 1
@@ -155,7 +155,7 @@ Monitoreo de Operaciones
      - Datos cada 5 minutos
 
 2. Aplicación Móvil
-~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~
 
 - **LogiTrack Pro v3.0**
     * Plataformas: iOS 14+/Android 10+
@@ -169,10 +169,10 @@ Monitoreo de Operaciones
         - Fotos georeferenciadas
 
 Protocolos de Comunicación
------------------------
+--------------------------
 
 1. Matriz de Escalamiento
-~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. list-table::
    :header-rows: 1
@@ -195,7 +195,7 @@ Protocolos de Comunicación
      - Portal/Email
 
 2. SLAs de Respuesta
-~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~
 
 .. list-table::
    :header-rows: 1
@@ -218,10 +218,10 @@ Protocolos de Comunicación
      - < 24 horas
 
 Gestión de Incidentes
-------------------
+---------------------
 
 1. Sistema de Tickets
-~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~
 
 - **Plataforma Digital**
     * Portal: https://incidentes.empresa.com
@@ -230,7 +230,7 @@ Gestión de Incidentes
     * Teléfono: 800-999-8888
 
 2. Cadena de Escalamiento
-~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. list-table::
    :header-rows: 1

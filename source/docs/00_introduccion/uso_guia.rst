@@ -1,8 +1,8 @@
 .. _uso_guia:
 
-=============
+
 Uso de la Guía
-=============
+==============
 
 .. meta::
    :description: Instrucciones y recomendaciones para el uso efectivo de la guía de exportación de ácido sulfúrico
@@ -14,10 +14,10 @@ Resumen
 Esta subsección proporciona instrucciones detalladas sobre cómo utilizar eficientemente la guía, incluyendo métodos de navegación, búsqueda y consulta de información.
 
 Descripción Detallada
-==================
+=====================
 
 Navegación del Contenido
----------------------
+------------------------
 
 * Estructura jerárquica
 * Índices temáticos
@@ -28,7 +28,7 @@ Navegación del Contenido
    Utilice el índice y los marcadores para una navegación más eficiente.
 
 Métodos de Búsqueda
------------------
+-------------------
 
 * Búsqueda por palabras clave
 * Filtros temáticos
@@ -39,7 +39,7 @@ Métodos de Búsqueda
    Verifique que está consultando la versión más reciente de la guía.
 
 Herramientas de Consulta
----------------------
+------------------------
 
 * Resaltado de texto
 * Notas al margen
@@ -50,7 +50,7 @@ Herramientas de Consulta
    Las herramientas de consulta varían según el formato de visualización utilizado.
 
 Requisitos Previos
-================
+==================
 
 1. Software de visualización PDF
 2. Navegador web actualizado
@@ -58,18 +58,18 @@ Requisitos Previos
 4. Conocimientos básicos de navegación digital
 
 Ejemplos Prácticos
-================
+==================
 
 .. code-block:: text
 
    # Ejemplo de Búsqueda
-   
+
    1. Búsqueda por Tema:
       □ Seleccionar categoría
       □ Usar palabras clave
       □ Filtrar resultados
       □ Revisar referencias
-   
+
    2. Navegación por Sección:
       □ Usar índice
       □ Seguir enlaces
@@ -77,7 +77,7 @@ Ejemplos Prácticos
       □ Marcar contenido
 
 Consideraciones Especiales
-=======================
+==========================
 
 * Actualizaciones periódicas
 * Compatibilidad de formatos
@@ -85,14 +85,14 @@ Consideraciones Especiales
 * Respaldo de información
 
 Documentación Relacionada
-======================
+=========================
 
 * :ref:`estructura_guia_detalle`
 * :ref:`proposito_guia`
 * :ref:`actualizaciones`
 
 Historial de Cambios
-==================
+====================
 
 .. list-table::
    :header-rows: 1
@@ -106,4 +106,4 @@ Historial de Cambios
      - Creación inicial del documento
    * - 2024-01-15
      - 1.1
-     - Actualización de métodos de búsqueda 
+     - Actualización de métodos de búsqueda

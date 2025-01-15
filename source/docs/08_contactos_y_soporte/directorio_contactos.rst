@@ -1,6 +1,6 @@
 .. _directorio_contactos:
 
-====================
+
 Directorio Contactos
 ====================
 
@@ -14,10 +14,10 @@ Resumen
 Esta subsección proporciona un directorio completo y actualizado de todos los contactos relevantes para la gestión de la exportación de ácido sulfúrico, incluyendo autoridades, proveedores, servicios de emergencia y soporte técnico, con información de disponibilidad y tiempos de respuesta.
 
 Descripción Detallada
-===================
+=====================
 
 Autoridades Gubernamentales
------------------------
+---------------------------
 
 * **México**
     - SAT - Administración General de Aduanas
@@ -50,7 +50,7 @@ Autoridades Gubernamentales
         * Tiempo respuesta: 48-72 horas
 
 Servicios de Emergencia
--------------------
+-----------------------
 
 * **México**
     - Centro Nacional de Emergencias HAZMAT
@@ -76,7 +76,7 @@ Servicios de Emergencia
         * Tiempo respuesta: < 25 minutos
 
 Proveedores de Servicios
---------------------
+------------------------
 
 * **Agentes Aduanales Certificados**
     - México
@@ -97,7 +97,7 @@ Proveedores de Servicios
     - Tiempo respuesta: 4-6 horas
 
 Soporte Técnico
-------------
+---------------
 
 * **Centro de Control**
     - Monitoreo 24/7: +52 (55) 5555-0000
@@ -115,7 +115,7 @@ Soporte Técnico
     - Tiempo respuesta: < 30 minutos
 
 Sistema de Actualización
---------------------
+------------------------
 
 * **Verificación Periódica**
     - Contactos principales: Mensual
@@ -136,7 +136,7 @@ Sistema de Actualización
     - Reporte de incidencias
 
 Niveles de Servicio
----------------
+-------------------
 
 * **Emergencias**
     - Prioridad: Crítica
@@ -157,14 +157,14 @@ Niveles de Servicio
     - Seguimiento: Días hábiles
 
 Documentación Relacionada
-======================
+=========================
 
 * :ref:`protocolos_emergencia`
 * :ref:`recursos_soporte`
 * :ref:`canales_asistencia`
 
 Historial de Cambios
-==================
+====================
 
 .. list-table::
    :header-rows: 1
@@ -178,4 +178,4 @@ Historial de Cambios
      - Creación inicial del documento
    * - 2024-01-15
      - 1.1
-     - Actualización completa con información detallada de contactos, tiempos de respuesta y niveles de servicio 
+     - Actualización completa con información detallada de contactos, tiempos de respuesta y niveles de servicio

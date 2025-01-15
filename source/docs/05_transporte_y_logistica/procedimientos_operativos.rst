@@ -1,8 +1,9 @@
 .. _procedimientos_operativos_detalle:
+.. _procedimientos_operativos:
 
-========================
+
 Procedimientos Operativos
-========================
+=========================
 
 .. meta::
    :description: Procedimientos operativos estándar para el transporte de ácido sulfúrico entre México y Guatemala
@@ -14,10 +15,10 @@ Resumen
 Esta subsección detalla los procedimientos operativos estándar (POE) para el manejo, carga, transporte y descarga de |product|, incluyendo protocolos de seguridad, verificaciones técnicas y documentación requerida en cada etapa del proceso, en cumplimiento con las normativas NOM-002-SCT/2011, NOM-023-SCT2/2011 y regulaciones internacionales.
 
 Descripción Detallada
-===================
+=====================
 
 Procedimientos Pre-operacionales
-----------------------------
+--------------------------------
 
 * **Verificación Documental**
     - Permisos de transporte vigentes (SCT, SEMARNAT)
@@ -44,7 +45,7 @@ Procedimientos Pre-operacionales
     - Coordinación con escoltas de seguridad
 
 Procedimientos de Carga
---------------------
+-----------------------
 
 * **Preparación del Sitio**
     - Verificación de área según NOM-005-STPS
@@ -75,7 +76,7 @@ Procedimientos de Carga
     - Registro fotográfico de condiciones
 
 Procedimientos Durante el Transporte
---------------------------------
+------------------------------------
 
 * **Monitoreo Continuo**
     - Velocidad máxima: 80 km/h en autopista
@@ -102,7 +103,7 @@ Procedimientos Durante el Transporte
     - Monitoreo meteorológico continuo
 
 Procedimientos de Descarga
------------------------
+--------------------------
 
 * **Preparación del Sitio**
     - Verificación de instalaciones receptoras
@@ -132,7 +133,7 @@ Procedimientos de Descarga
     - Registro de condiciones finales
 
 Requisitos Previos
-================
+==================
 
 1. Personal certificado HAZMAT nivel 3
 2. Equipos verificados según NOM-020-SCT2
@@ -142,12 +143,12 @@ Requisitos Previos
 6. Sistemas de monitoreo calibrados
 
 Procedimientos de Control
-=====================
+=========================
 
 .. code-block:: text
 
    # Protocolo de Verificación Integral
-   
+
    1. Pre-operacional:
       □ Revisión documental 100% completa
       □ Inspección técnica 32 puntos
@@ -155,7 +156,7 @@ Procedimientos de Control
       □ Validación de autorizaciones
       □ Control de competencias del personal
       □ Verificación de equipos de emergencia
-   
+
    2. Durante Operación:
       □ Monitoreo continuo de parámetros
       □ Registro en sistema cada 30 min
@@ -163,7 +164,7 @@ Procedimientos de Control
       □ Gestión activa de incidencias
       □ Verificación de puntos de control
       □ Actualización de estatus
-   
+
    3. Post-operacional:
       □ Verificación integral de sistemas
       □ Control de documentación completa
@@ -173,7 +174,7 @@ Procedimientos de Control
       □ Retroalimentación al sistema
 
 Consideraciones Especiales
-=======================
+==========================
 
 * **Condiciones Críticas**
     - Protocolos específicos por tipo de clima
@@ -200,7 +201,7 @@ Consideraciones Especiales
     - Sistemas de descontaminación
 
 Documentación Relacionada
-======================
+=========================
 
 * :ref:`planificacion_transporte`
 * :ref:`requisitos_seguridad`
@@ -210,7 +211,7 @@ Documentación Relacionada
 * :ref:`planes_contingencia`
 
 Historial de Cambios
-==================
+====================
 
 .. list-table::
    :header-rows: 1
@@ -224,4 +225,4 @@ Historial de Cambios
      - Creación inicial del documento
    * - 2024-01-15
      - 1.1
-     - Actualización completa de procedimientos operativos con especificaciones técnicas detalladas 
+     - Actualización completa de procedimientos operativos con especificaciones técnicas detalladas

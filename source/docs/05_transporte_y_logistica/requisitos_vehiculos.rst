@@ -1,6 +1,6 @@
 .. _requisitos_vehiculos:
 
-====================
+
 Requisitos Vehículos
 ====================
 
@@ -14,10 +14,10 @@ Resumen
 Esta subsección detalla los requisitos y especificaciones técnicas que deben cumplir los vehículos utilizados para el transporte de |product|, incluyendo estándares internacionales, certificaciones requeridas y programas de mantenimiento, en conformidad con las últimas actualizaciones de las normativas NOM-002-SCT/2011, NOM-023-SCT2/2011 y estándares internacionales.
 
 Especificaciones Técnicas
-----------------------
+-------------------------
 
 1. **Características del Vehículo**:
-   
+
    * **Tractocamión**:
      - Potencia mínima: 450 HP
      - Torque: 1,650 lb-ft mínimo
@@ -43,7 +43,7 @@ Especificaciones Técnicas
      - Sistema de venteo con filtro de carbón activado
 
 2. **Sistemas de Seguridad**:
-   
+
    * **Equipamiento Obligatorio**:
      - Sistema GPS con monitoreo 24/7 y geofencing
      - Sensores de presión y temperatura con registro continuo
@@ -67,7 +67,7 @@ Especificaciones Técnicas
      - Protección contra descargas atmosféricas
 
 Certificaciones y Normativas
-------------------------
+----------------------------
 
 1. **Certificaciones Requeridas**:
 
@@ -90,7 +90,7 @@ Certificaciones y Normativas
      - Homologación técnica regional
 
 2. **Verificaciones Periódicas**:
-   
+
    * **Inspecciones**:
      - Prueba hidrostática (anual)
      - Espesores por ultrasonido (semestral)
@@ -102,7 +102,7 @@ Certificaciones y Normativas
      - Pruebas de estanqueidad (mensual)
 
 Programa de Mantenimiento
----------------------
+-------------------------
 
 1. **Mantenimiento Preventivo**:
 
@@ -131,7 +131,7 @@ Programa de Mantenimiento
      - Certificación de componentes
 
 2. **Control y Seguimiento**:
-   
+
    * **Registros**:
      - Bitácora de mantenimiento
      - Historial de reparaciones
@@ -145,10 +145,10 @@ Programa de Mantenimiento
      - Registros de servicio
 
 Equipamiento de Seguridad
----------------------
+-------------------------
 
 1. **Equipo Obligatorio**:
-   
+
    * **Emergencias**:
      - Kit de contención de derrames
      - Equipo de protección personal
@@ -162,7 +162,7 @@ Equipamiento de Seguridad
      - Botón de pánico
 
 2. **Señalización**:
-   
+
    * **Rótulos**:
      - UN 1830
      - Rombo de seguridad NFPA
@@ -176,10 +176,10 @@ Equipamiento de Seguridad
      - Información de contacto
 
 Requisitos Operativos
-------------------
+---------------------
 
 1. **Personal**:
-   
+
    * **Conductor**:
      - Licencia tipo E vigente
      - Certificación HAZMAT
@@ -193,7 +193,7 @@ Requisitos Operativos
      - Actualización técnica
 
 2. **Documentación**:
-   
+
    * **Operativa**:
      - Manual de operación
      - Procedimientos de emergencia
@@ -207,7 +207,7 @@ Requisitos Operativos
      - Autorizaciones especiales
 
 Consideraciones Especiales
-=======================
+==========================
 
 * **Condiciones Climáticas**:
   - Límites de operación
@@ -228,7 +228,7 @@ Consideraciones Especiales
   - Centros de atención
 
 Documentación Relacionada
-======================
+=========================
 
 * :ref:`requisitos_seguridad`
 * :ref:`documentacion_transporte`
@@ -236,7 +236,7 @@ Documentación Relacionada
 * :ref:`planes_contingencia`
 
 Historial de Cambios
-==================
+====================
 
 .. list-table::
    :header-rows: 1
@@ -250,4 +250,4 @@ Historial de Cambios
      - Creación inicial del documento
    * - 2024-01-15
      - 1.1
-     - Actualización completa de especificaciones técnicas y requisitos de seguridad con énfasis en sistemas avanzados de seguridad y monitoreo 
+     - Actualización completa de especificaciones técnicas y requisitos de seguridad con énfasis en sistemas avanzados de seguridad y monitoreo

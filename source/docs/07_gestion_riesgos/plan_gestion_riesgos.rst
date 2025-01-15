@@ -1,8 +1,8 @@
 .. _plan_gestion_riesgos:
 
-========================
+
 Plan de Gestión de Riesgos
-========================
+==========================
 
 .. meta::
    :description: Plan integral de gestión de riesgos para el transporte de ácido sulfúrico entre México y Guatemala
@@ -14,7 +14,7 @@ Resumen
 Este documento establece el marco integral para la gestión de riesgos en el transporte de |product| entre México y Guatemala, siguiendo las normativas NOM-002-SCT/2011, RTCA 71.03.37:07 y estándares internacionales ISO 31000:2018.
 
 Estructura Organizacional
-=====================
+=========================
 
 * **Comité de Gestión de Riesgos**
     - Dirección General
@@ -34,7 +34,7 @@ Estructura Organizacional
         * Respuesta a emergencias
 
 Identificación de Riesgos
-----------------------
+-------------------------
 
 * **Riesgos Operativos**
     - Manejo de Producto
@@ -71,7 +71,7 @@ Identificación de Riesgos
         * Zonas de alto riesgo
 
 Evaluación de Riesgos
-------------------
+---------------------
 
 * **Matriz de Evaluación**
     - Criterios de Probabilidad
@@ -107,7 +107,7 @@ Evaluación de Riesgos
         * Controles existentes
 
 Medidas de Control
----------------
+------------------
 
 * **Controles Preventivos**
     - Operativos
@@ -151,7 +151,7 @@ Medidas de Control
         * Documentación de lecciones
 
 Sistema de Seguimiento
-------------------
+----------------------
 
 * **Indicadores Clave**
     - Operativos
@@ -178,7 +178,7 @@ Sistema de Seguimiento
         * Validación de efectividad
 
 Documentación Relacionada
-======================
+=========================
 
 * :ref:`planes_contingencia`
 * :ref:`matriz_riesgos`
@@ -187,7 +187,7 @@ Documentación Relacionada
 * :ref:`identificacion_riesgos`
 
 Historial de Cambios
-==================
+====================
 
 .. list-table::
    :header-rows: 1

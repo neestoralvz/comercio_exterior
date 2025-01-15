@@ -1,11 +1,11 @@
 Documentación para Exportación de Ácido Sulfúrico desde México
-========================================================
+==============================================================
 
 1. Documentos Comerciales
-------------------------
+-------------------------
 
 1.1 Factura Comercial
-~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~
 
 - **Propósito**: Documento principal que prueba la venta internacional
 - **Formato**: Digital o impreso en hoja membretada de la empresa
@@ -24,7 +24,7 @@ Documentación para Exportación de Ácido Sulfúrico desde México
 - **Obtención**: Generada por el sistema contable del exportador
 
 1.2 Lista de Empaque (Packing List)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - **Propósito**: Detalla el contenido físico del embarque
 - **Formato**: Formato libre en hoja membretada
@@ -40,10 +40,10 @@ Documentación para Exportación de Ácido Sulfúrico desde México
 - **Obtención**: Generada por el área logística del exportador
 
 2. Documentos Aduaneros
-----------------------
+-----------------------
 
 2.1 Pedimento de Exportación
-~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - **Propósito**: Declaración oficial de exportación
 - **Formato**: A1 - Exportación Definitiva
@@ -60,7 +60,7 @@ Documentación para Exportación de Ácido Sulfúrico desde México
 - **Obtención**: Tramitado por agente aduanal autorizado vía VUCEM
 
 2.2 Certificado de Origen
-~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - **Propósito**: Acreditar origen para preferencias arancelarias
 - **Formato**: Formato oficial TLC México-Centroamérica
@@ -72,16 +72,16 @@ Documentación para Exportación de Ácido Sulfúrico desde México
   - Criterio de origen
   - Declaración juramentada
 
-- **Obtención**: 
+- **Obtención**:
   - Solicitud en Ventanilla Digital (VUCEM)
   - Costo: Variable según cámara emisora
   - Validez: 1 año
 
 3. Documentos Técnicos y de Seguridad
------------------------------------
+-------------------------------------
 
 3.1 Hoja de Seguridad (MSDS)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - **Propósito**: Información de seguridad y manejo
 - **Formato**: NOM-018-STPS-2015 / GHS
@@ -100,7 +100,7 @@ Documentación para Exportación de Ácido Sulfúrico desde México
 - **Obtención**: Elaborada por el fabricante según NOM-018-STPS-2015
 
 3.2 Permiso SEMARNAT
-~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~
 
 - **Propósito**: Autorización ambiental para exportación
 - **Formato**: SEMARNAT-07-015
@@ -118,7 +118,7 @@ Documentación para Exportación de Ácido Sulfúrico desde México
   - Costo: Según LFD vigente
 
 3.3 Autorización SCT
-~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~
 
 - **Propósito**: Permiso para transporte terrestre
 - **Formato**: SCT-03-046
@@ -136,10 +136,10 @@ Documentación para Exportación de Ácido Sulfúrico desde México
   - Costo: Según LFD vigente
 
 4. Documentos de Transporte
--------------------------
+---------------------------
 
 4.1 Carta Porte Internacional
-~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - **Propósito**: Contrato de transporte terrestre
 - **Formato**: Según convenio bilateral

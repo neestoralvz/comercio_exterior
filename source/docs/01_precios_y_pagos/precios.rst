@@ -1,6 +1,6 @@
 .. _precios:
 
-======================
+
 Precios y Cotizaciones
 ======================
 
@@ -19,26 +19,26 @@ Detalles
 El proceso de determinación de precios considera múltiples factores para asegurar una cotización precisa y competitiva.
 
 Procedimiento de Cotización
-=========================
+===========================
 
 1. Análisis de Costos Base
-   
+
    * Costo de producción
    * Costos de almacenamiento
    * Costos de manipulación
 
 2. Incorporación de Costos Logísticos
-   
+
    .. note::
       Los costos logísticos varían según el Incoterm seleccionado.
 
 3. Ajustes por Factores de Mercado
-   
+
    .. warning::
       Los precios internacionales del |product| pueden fluctuar significativamente.
 
 Requisitos para Cotización
-========================
+==========================
 
 * Especificaciones técnicas del producto
 * Volumen de la operación
@@ -49,7 +49,7 @@ Requisitos para Cotización
    Toda cotización debe incluir su periodo de validez y condiciones específicas.
 
 Ejemplos de Cálculo
-=================
+===================
 
 .. code-block:: text
 
@@ -59,7 +59,7 @@ Ejemplos de Cálculo
    = Precio Final: $(X+Y)*(1+Z)
 
 Consideraciones Especiales
-========================
+==========================
 
 * Fluctuaciones de tipo de cambio
 * Variaciones en costos de transporte
@@ -70,7 +70,7 @@ Consideraciones Especiales
    Mantener un margen de seguridad en las cotizaciones para cubrir variaciones imprevistas.
 
 Documentación Relacionada
-=======================
+=========================
 
 * :ref:`terminos_de_pago`: Condiciones y métodos de pago
 * :ref:`incoterms`: Términos de comercio internacional
@@ -79,7 +79,7 @@ Documentación Relacionada
    Consulte las últimas actualizaciones de precios de referencia internacional.
 
 Historial de Cambios
-==================
+====================
 
 .. list-table::
    :header-rows: 1

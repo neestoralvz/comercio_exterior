@@ -1,8 +1,8 @@
 .. _planes_contingencia_detalle:
 
-=====================
+
 Planes de Contingencia
-=====================
+======================
 
 .. meta::
    :description: Planes y procedimientos de contingencia para emergencias en el transporte de ácido sulfúrico entre México y Guatemala
@@ -14,10 +14,10 @@ Resumen
 Esta subsección detalla los planes y procedimientos de contingencia establecidos para responder a emergencias durante el transporte de |product|, asegurando una respuesta rápida y efectiva según las normativas NOM-002-SCT/2011, RTCA 71.03.37:07 y estándares internacionales.
 
 Descripción Detallada
-===================
+=====================
 
 Protocolos de Emergencia
----------------------
+------------------------
 
 * **Niveles de Emergencia**
     - Nivel 1: Incidente Menor
@@ -49,7 +49,7 @@ Protocolos de Emergencia
         * Coordinación de respuesta
 
 Cadena de Comunicación
-------------------
+----------------------
 
 * **Estructura de Comunicación**
     - Centro de Control 24/7
@@ -76,7 +76,7 @@ Cadena de Comunicación
         * Necesidades adicionales
 
 Recursos de Emergencia
-------------------
+----------------------
 
 * **Equipamiento Requerido**
     - Equipos de Contención
@@ -103,7 +103,7 @@ Recursos de Emergencia
         * Unidades de descontaminación
 
 Coordinación con Autoridades
-------------------------
+----------------------------
 
 * **Autoridades Principales**
     - México
@@ -130,7 +130,7 @@ Coordinación con Autoridades
         * Evaluación continua
 
 Procedimientos Específicos
-----------------------
+--------------------------
 
 * **Derrames y Fugas**
     - Contención inicial
@@ -157,7 +157,7 @@ Procedimientos Específicos
         * Restauración vial
 
 Sistema de Seguimiento
-------------------
+----------------------
 
 * **Control de Incidentes**
     - Registro detallado
@@ -179,7 +179,7 @@ Sistema de Seguimiento
         * Capacitación específica
 
 Documentación Relacionada
-======================
+=========================
 
 * :ref:`identificacion_riesgos`
 * :ref:`evaluacion_riesgos`
@@ -188,7 +188,7 @@ Documentación Relacionada
 * :ref:`plan_gestion_riesgos`
 
 Historial de Cambios
-==================
+====================
 
 .. list-table::
    :header-rows: 1
@@ -202,4 +202,4 @@ Historial de Cambios
      - Creación inicial del documento
    * - 2024-01-15
      - 1.1
-     - Actualización completa con protocolos detallados de emergencia, cadena de comunicación, recursos y coordinación 
+     - Actualización completa con protocolos detallados de emergencia, cadena de comunicación, recursos y coordinación

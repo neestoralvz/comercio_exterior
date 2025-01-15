@@ -1,8 +1,8 @@
 .. _matriz_riesgos:
 
-===============
+
 Matriz de Riesgos
-===============
+=================
 
 .. meta::
    :description: Matriz de identificación y evaluación de riesgos para el transporte de ácido sulfúrico entre México y Guatemala
@@ -14,7 +14,7 @@ Resumen
 Esta subsección presenta la matriz integral de riesgos para la identificación, evaluación y control de riesgos en el transporte de |product|, siguiendo las normativas NOM-002-SCT/2011, RTCA 71.03.37:07 y estándares ISO 31000:2018.
 
 Matriz de Evaluación
-=================
+====================
 
 * **Criterios de Probabilidad**
     - Nivel 5 (Muy Alta)
@@ -71,7 +71,7 @@ Matriz de Evaluación
         * Sin interrupción
 
 Categorización de Riesgos
-=====================
+=========================
 
 * **Riesgo Extremo (15-25)**
     - Características
@@ -122,7 +122,7 @@ Categorización de Riesgos
         * Revisiones periódicas
 
 Evaluación de Riesgos Específicos
-=============================
+=================================
 
 * **Riesgos Operativos**
     - Derrames
@@ -161,7 +161,7 @@ Evaluación de Riesgos Específicos
         * Controles: Detectivos
 
 Sistema de Control
-===============
+==================
 
 * **Monitoreo Continuo**
     - Indicadores Clave
@@ -188,7 +188,7 @@ Sistema de Control
         * Consultores Externos
 
 Documentación Relacionada
-======================
+=========================
 
 * :ref:`plan_gestion_riesgos`
 * :ref:`planes_contingencia`
@@ -197,7 +197,7 @@ Documentación Relacionada
 * :ref:`identificacion_riesgos`
 
 Historial de Cambios
-==================
+====================
 
 .. list-table::
    :header-rows: 1
@@ -211,4 +211,4 @@ Historial de Cambios
      - Creación inicial del documento
    * - 2024-01-15
      - 1.1
-     - Actualización completa con matriz detallada de evaluación y control de riesgos 
+     - Actualización completa con matriz detallada de evaluación y control de riesgos

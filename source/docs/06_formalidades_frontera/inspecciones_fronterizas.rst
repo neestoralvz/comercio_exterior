@@ -1,8 +1,9 @@
 .. _inspecciones_fronterizas_detalle:
+.. _inspecciones_fronterizas:
 
-=====================
+
 Inspecciones Fronterizas
-=====================
+========================
 
 .. meta::
    :description: Procedimientos de inspección fronteriza para el transporte de ácido sulfúrico entre México y Guatemala
@@ -14,10 +15,10 @@ Resumen
 Esta subsección detalla los procedimientos de inspección y control que se realizan en la frontera para el transporte de |product|, incluyendo revisiones documentales, físicas y técnicas según las normativas vigentes NOM-002-SCT/2011, RTCA 71.03.37:07 y estándares internacionales. Los procedimientos integran tecnologías avanzadas de inspección y sistemas digitales de verificación.
 
 Descripción Detallada
-===================
+=====================
 
 Tipos de Inspección
----------------
+===================
 
 * **Inspección Documental**
     - Verificación primaria
@@ -56,7 +57,7 @@ Tipos de Inspección
         * Concentración
 
 Procedimientos de Control
----------------------
+=========================
 
 * **Control Documental**
     - Revisión sistemática
@@ -95,22 +96,12 @@ Procedimientos de Control
         * Historial técnico
 
 Tiempos de Proceso
----------------
+==================
 
-* **Inspección Regular**
-    - Documental: 45-60 minutos
-    - Física: 60-90 minutos
-    - Técnica: 45-60 minutos
-    - Total: 2.5-3.5 horas
-
-* **Inspección Detallada**
-    - Documental: 90-120 minutos
-    - Física: 120-150 minutos
-    - Técnica: 90-120 minutos
-    - Total: 5-6.5 horas
+* Estimaciones
 
 Coordinación de Inspecciones
-------------------------
+============================
 
 * **Autoridades Participantes**
     - Aduana (SAT/SAT-GT)
@@ -142,24 +133,17 @@ Coordinación de Inspecciones
         * Documentación integrada
 
 Requisitos Previos
-================
+==================
 
-1. Documentación completa y vigente
-2. Personal certificado HAZMAT
-3. Equipo de protección específico
-4. Unidad en condiciones óptimas
-5. Cita de inspección programada
-6. Pago de derechos realizado
-7. Sistemas de monitoreo activos
-8. Plan de contingencia preparado
+* Lista de requisitos
 
 Procedimiento de Inspección
-=======================
+===========================
 
 .. code-block:: text
 
    # Protocolo de Inspección Fronteriza
-   
+
    1. Preparación:
       □ Verificación documental previa
       □ Confirmación de cita
@@ -169,7 +153,7 @@ Procedimiento de Inspección
       □ Coordinación con autoridades
       □ Asignación de personal
       □ Verificación de equipos
-   
+
    2. Ejecución:
       □ Control de acceso
       □ Inspección documental
@@ -179,7 +163,7 @@ Procedimiento de Inspección
       □ Pruebas requeridas
       □ Registro de hallazgos
       □ Documentación del proceso
-   
+
    3. Conclusión:
       □ Validación de resultados
       □ Emisión de documentos
@@ -191,55 +175,16 @@ Procedimiento de Inspección
       □ Actualización de registros
 
 Consideraciones Especiales
-=======================
+==========================
 
-* **Factores Críticos**
-    - Tiempos de proceso
-        * Horarios de atención
-        * Tiempos de espera
-        * Duración de inspecciones
-        * Procesamiento documental
-    - Costos asociados
-        * Derechos de inspección
-        * Pruebas especiales
-        * Certificaciones adicionales
-        * Tiempo extra si requerido
-
-* **Medidas de Seguridad**
-    - Protocolos HAZMAT
-        * Equipos especializados
-        * Personal certificado
-        * Áreas designadas
-        * Planes de emergencia
-    - Control de acceso
-        * Zonas restringidas
-        * Personal autorizado
-        * Registro de movimientos
-        * Supervisión continua
+* Factores adicionales
 
 Documentación Relacionada
-======================
+=========================
 
-* :ref:`procedimientos_inspeccion`
-* :ref:`tramites_aduaneros`
-* :ref:`coordinacion_autoridades`
-* :ref:`proceso_fronterizo`
-* :ref:`documentacion_fronteriza`
-* :ref:`requisitos_seguridad`
+* Referencias y anexos
 
 Historial de Cambios
-==================
+====================
 
-.. list-table::
-   :header-rows: 1
-   :widths: 15 15 70
-
-   * - Fecha
-     - Versión
-     - Cambios
-   * - 2024-01-15
-     - 1.0
-     - Creación inicial del documento
-   * - 2024-01-15
-     - 1.1
-     - Actualización completa con procedimientos detallados de inspección y requisitos específicos para ácido sulfúrico 
+* Registro de modificaciones

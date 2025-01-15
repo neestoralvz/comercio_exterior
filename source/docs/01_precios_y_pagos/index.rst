@@ -1,23 +1,23 @@
 .. _precios_y_pagos:
 
-================
+
 Precios y Pagos
-================
+===============
 
 .. meta::
    :description: Información detallada sobre precios, términos de pago y procedimientos financieros para la exportación de ácido sulfúrico
    :keywords: precios, pagos, términos, condiciones, facturación, exportación, ácido sulfúrico
 
 Precios y Pagos 2025
-=================
+====================
 
 Esta sección detalla la estructura actualizada de precios y procedimientos de pago para la exportación de ácido sulfúrico entre México y Guatemala, incluyendo términos comerciales y requisitos financieros vigentes.
 
 Estructura Comercial
-=================
+====================
 
 1. Componentes del Precio
----------------------
+-------------------------
 
 **Costos Base**:
 
@@ -34,7 +34,7 @@ Estructura Comercial
 - Cargos especiales
 
 2. Términos Comerciales
--------------------
+-----------------------
 
 **Incoterms 2025**:
 
@@ -51,7 +51,7 @@ Estructura Comercial
 - Cargos adicionales
 
 3. Métodos de Pago
---------------
+------------------
 
 **Opciones Disponibles**:
 
@@ -68,7 +68,7 @@ Estructura Comercial
 - 60 días negociables
 
 Contenido Principal
-================
+===================
 
 .. toctree::
    :maxdepth: 2
@@ -80,10 +80,10 @@ Contenido Principal
    documentacion_financiera
 
 Aspectos Críticos
-==============
+=================
 
 1. Gestión Financiera
------------------
+---------------------
 
 - Análisis riesgo
 - Control crédito
@@ -91,7 +91,7 @@ Aspectos Críticos
 - Reportes financieros
 
 2. Documentación Requerida
-----------------------
+--------------------------
 
 - Facturas comerciales
 - Documentos embarque
@@ -99,7 +99,7 @@ Aspectos Críticos
 - Pólizas seguro
 
 3. Procesos Operativos
-------------------
+----------------------
 
 - Cotizaciones
 - Confirmaciones pedido
@@ -107,7 +107,7 @@ Aspectos Críticos
 - Conciliaciones
 
 4. Control Administrativo
----------------------
+-------------------------
 
 - Registro operaciones
 - Archivo documentos
@@ -115,10 +115,10 @@ Aspectos Críticos
 - Reportes gestión
 
 Actualizaciones 2025
-=================
+====================
 
 1. Nuevos Procedimientos
---------------------
+------------------------
 
 - Facturación electrónica
 - Pagos digitales
@@ -126,7 +126,7 @@ Actualizaciones 2025
 - Gestión automatizada
 
 2. Requisitos Adicionales
----------------------
+-------------------------
 
 - Certificaciones digitales
 - Validaciones automáticas
@@ -134,7 +134,7 @@ Actualizaciones 2025
 - Trazabilidad completa
 
 3. Mejoras Sistema
---------------
+------------------
 
 - Plataforma integrada
 - Alertas automáticas
@@ -142,10 +142,10 @@ Actualizaciones 2025
 - Reportes personalizados
 
 Recomendaciones Operativas
-=======================
+==========================
 
 1. Gestión Comercial
-----------------
+--------------------
 
 - Análisis mercado
 - Revisión precios
@@ -153,7 +153,7 @@ Recomendaciones Operativas
 - Ajustes periódicos
 
 2. Control Financiero
------------------
+---------------------
 
 - Monitoreo pagos
 - Gestión riesgos
@@ -161,7 +161,7 @@ Recomendaciones Operativas
 - Reportes desempeño
 
 3. Documentación
-------------
+----------------
 
 - Archivo digital
 - Control versiones
@@ -169,7 +169,7 @@ Recomendaciones Operativas
 - Acceso controlado
 
 Historial de Cambios
-==================
+====================
 
 .. list-table::
    :header-rows: 1
@@ -183,7 +183,7 @@ Historial de Cambios
      - Creación inicial del documento
    * - 2024-01-20
      - 1.1
-     - Actualización de términos de pago y estructura de precios 
+     - Actualización de términos de pago y estructura de precios
    * - 2025-01-15
      - 2.0
      - Actualización de precios y procedimientos de pago para 2025
@@ -199,3 +199,10 @@ Historial de Cambios
 .. important::
    Mantener comunicación constante con clientes sobre
    cambios en precios o términos comerciales.
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Contenido:
+
+   precios
+   terminos_de_pago

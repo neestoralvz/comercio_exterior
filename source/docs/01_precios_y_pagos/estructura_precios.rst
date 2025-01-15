@@ -1,8 +1,8 @@
 .. _estructura_precios:
 
-===================
+
 Estructura de Precios
-===================
+=====================
 
 .. meta::
    :description: Metodología y componentes para la determinación de precios en la exportación de ácido sulfúrico
@@ -14,10 +14,10 @@ Resumen
 Esta subsección detalla la metodología y los componentes utilizados para determinar los precios en la exportación de ácido sulfúrico, incluyendo costos, márgenes y factores de ajuste.
 
 Descripción Detallada
-===================
+=====================
 
 Componentes del Precio Base
------------------------
+---------------------------
 
 * **Costos directos de producción**:
   - Materias primas y suministros
@@ -31,7 +31,7 @@ Componentes del Precio Base
   - Gestión ambiental
 
 Costos Logísticos
----------------
+-----------------
 
 * **Transporte**:
   - Flete terrestre origen
@@ -48,7 +48,7 @@ Costos Logísticos
   - Riesgos ambientales
 
 Gastos Administrativos
--------------------
+----------------------
 
 * **Operativos**:
   - Gestión documental
@@ -65,7 +65,7 @@ Gastos Administrativos
   - Seguros de crédito
 
 Factores de Ajuste
----------------
+------------------
 
 * **Mercado**:
   - Precios internacionales de referencia
@@ -84,7 +84,7 @@ Factores de Ajuste
   - Plazo de pago
 
 Metodología de Cálculo
--------------------
+----------------------
 
 1. **Determinación del precio base**:
    * Costo total de producción
@@ -111,7 +111,7 @@ Metodología de Cálculo
    * Servicios adicionales incluidos
 
 Requisitos Previos
-================
+==================
 
 1. Análisis actualizado de costos operativos
 2. Estudio de mercado regional
@@ -119,18 +119,18 @@ Requisitos Previos
 4. Políticas de precios aprobadas
 
 Ejemplos Prácticos
-================
+==================
 
 .. code-block:: text
 
    # Estructura Detallada de Precio
-   
+
    1. Precio Base:
       □ Costo de producción: $X/ton
       □ Costos indirectos: Y%
       □ Margen operativo: Z%
       □ Gastos administrativos: W%
-   
+
    2. Ajustes Comerciales:
       □ Volumen >1000 ton: -A%
       □ Contrato anual: -B%
@@ -138,7 +138,7 @@ Ejemplos Prácticos
       □ Servicios especiales: +D%
 
 Consideraciones Especiales
-=======================
+==========================
 
 * Revisión trimestral de precios base
 * Cláusulas de ajuste por volatilidad
@@ -146,14 +146,14 @@ Consideraciones Especiales
 * Mecanismos de resolución de disputas
 
 Documentación Relacionada
-======================
+=========================
 
 * :ref:`terminos_pago`
 * :ref:`procedimientos_facturacion`
 * :ref:`documentacion_financiera`
 
 Historial de Cambios
-==================
+====================
 
 .. list-table::
    :header-rows: 1
@@ -167,4 +167,4 @@ Historial de Cambios
      - Creación inicial del documento
    * - 2024-01-15
      - 1.1
-     - Actualización detallada de componentes y metodología de precios 
+     - Actualización detallada de componentes y metodología de precios

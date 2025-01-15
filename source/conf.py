@@ -32,10 +32,10 @@ extensions = [
     "sphinx.ext.todo",  # Para marcar tareas pendientes
     "sphinx.ext.ifconfig",  # Para contenido condicional
     "sphinx.ext.extlinks",  # Para enlaces externos abreviados
-    "sphinx_rtd_theme",  # Tema Read the Docs
     "sphinx.ext.githubpages",  # Para publicación en GitHub Pages
     "sphinx.ext.imgmath",  # Para fórmulas matemáticas
     "sphinx.ext.graphviz",  # Para diagramas
+    "sphinxcontrib.mermaid",  # Para diagramas mermaid
 ]
 
 # Configuración para autosectionlabel
@@ -53,22 +53,30 @@ source_suffix = {
 }
 
 # Tema y opciones
-html_theme = "sphinx_rtd_theme"
+html_theme = "sphinx_book_theme"
 html_theme_options = {
-    "canonical_url": "",
-    "analytics_id": "",
-    "logo_only": False,
-    "display_version": True,
-    "prev_next_buttons_location": "both",
-    "style_external_links": True,
-    "navigation_depth": 4,
-    # Opciones adicionales del tema
-    "collapse_navigation": False,
-    "sticky_navigation": True,
-    "titles_only": False,
-    "includehidden": True,
-    "body_max_width": "1000px",  # Ancho máximo del contenido
-    "navigation_with_keys": True,  # Navegación con teclado
+    # Repository
+    "repository_url": "",
+    "use_repository_button": False,
+    "use_issues_button": False,
+    "use_edit_page_button": False,
+    
+    # Navigation
+    "toc_title": "En esta página",
+    "show_toc_level": 3,
+    "show_nav_level": 2,
+    
+    # Appearance
+    "logo": {
+        "image_light": "_static/logo.png",
+        "image_dark": "_static/logo.png",
+    },
+    "home_page_in_toc": True,
+    "announcement": "",
+    
+    # Extra features
+    "use_download_button": True,
+    "use_fullscreen_button": True,
 }
 
 # Configuración HTML adicional
@@ -140,6 +148,11 @@ graphviz_output_format = 'svg'
 # Configuración de imgmath
 imgmath_image_format = 'svg'
 imgmath_font_size = 14
+
+# Archivo de sustituciones
+rst_prolog = """
+.. include:: /substitutions.rst
+"""
 
 # Función para agregar rutas personalizadas
 def setup(app):

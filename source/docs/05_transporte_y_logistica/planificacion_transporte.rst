@@ -1,8 +1,9 @@
 .. _planificacion_transporte_detalle:
+.. _planificacion_transporte:
 
-===========================
+
 Planificación del Transporte
-===========================
+============================
 
 .. meta::
    :description: Guía detallada para la planificación y ejecución del transporte de ácido sulfúrico desde México hacia Guatemala
@@ -14,10 +15,10 @@ Resumen
 Esta subsección proporciona información detallada sobre la planificación estratégica del transporte de |product|, incluyendo metodologías avanzadas de selección de rutas, criterios técnicos de selección de vehículos, sistemas de programación de envíos optimizados con IA, y protocolos de seguridad integrados.
 
 Descripción Detallada
-===================
+=====================
 
 Planificación Estratégica
-----------------------
+-------------------------
 
 * **Evaluación de Demanda**
     - Análisis predictivo de volúmenes
@@ -71,7 +72,7 @@ Planificación Estratégica
         * Documentación digital
 
 Análisis y Selección de Rutas
----------------------------
+-----------------------------
 
 * **Rutas Principales**
     - Carretera Federal 190D (México)
@@ -115,7 +116,7 @@ Análisis y Selección de Rutas
         * Control de acceso
 
 Selección de Vehículos
---------------------
+----------------------
 
 * **Especificaciones Técnicas**
     - Tractocamión
@@ -154,7 +155,7 @@ Selección de Vehículos
         * Estabilidad dinámica
 
 Programación de Envíos
--------------------
+----------------------
 
 * **Planificación Temporal**
     - Ventanas operativas
@@ -193,7 +194,7 @@ Programación de Envíos
         * Optimización continua
 
 Requisitos Previos
-================
+==================
 
 1. Permisos de transporte vigentes (México y Guatemala)
 2. Certificaciones técnicas actualizadas
@@ -205,12 +206,12 @@ Requisitos Previos
 8. Documentación digital completa
 
 Procedimientos Operativos
-======================
+=========================
 
 .. code-block:: text
 
    # Protocolo de Planificación de Viaje
-   
+
    1. Preparación:
       □ Verificación documental completa
       □ Inspección técnica 32 puntos
@@ -220,7 +221,7 @@ Procedimientos Operativos
       □ Control de competencias del personal
       □ Revisión de planes de contingencia
       □ Activación de seguimiento
-   
+
    2. Ejecución:
       □ Monitoreo continuo de parámetros
       □ Control de tiempos y velocidades
@@ -230,7 +231,7 @@ Procedimientos Operativos
       □ Coordinación operativa
       □ Registro de eventos críticos
       □ Respaldo de información
-   
+
    3. Seguimiento:
       □ Actualización en tiempo real
       □ Gestión de desviaciones
@@ -242,7 +243,7 @@ Procedimientos Operativos
       □ Mejora continua
 
 Consideraciones Especiales
-=======================
+==========================
 
 * **Condiciones Críticas**
     - Protocolos específicos por condición
@@ -263,7 +264,7 @@ Consideraciones Especiales
     - Retroalimentación activa
 
 Documentación Relacionada
-======================
+=========================
 
 * :ref:`requisitos_seguridad`
 * :ref:`documentacion_transporte`
@@ -273,7 +274,7 @@ Documentación Relacionada
 * :ref:`planes_contingencia`
 
 Historial de Cambios
-==================
+====================
 
 .. list-table::
    :header-rows: 1

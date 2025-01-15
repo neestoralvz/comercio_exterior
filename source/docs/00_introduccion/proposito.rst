@@ -1,6 +1,6 @@
 .. _proposito_guia:
 
-====================
+
 Propósito de la Guía
 ====================
 
@@ -14,10 +14,10 @@ Resumen
 Esta subsección establece el propósito fundamental y los objetivos específicos de la guía, orientada a facilitar el proceso de exportación de ácido sulfúrico entre México y Guatemala.
 
 Descripción Detallada
-==================
+=====================
 
 Objetivos Principales
-------------------
+---------------------
 
 * Proporcionar información completa y actualizada
 * Facilitar el cumplimiento normativo
@@ -28,7 +28,7 @@ Objetivos Principales
    La guía busca ser una herramienta práctica y actualizada para todos los involucrados en el proceso.
 
 Alcance del Documento
-------------------
+---------------------
 
 * Procesos de exportación/importación
 * Requisitos legales y aduaneros
@@ -39,7 +39,7 @@ Alcance del Documento
    El contenido debe interpretarse en conjunto con la legislación vigente.
 
 Beneficios Esperados
------------------
+--------------------
 
 * Reducción de tiempos operativos
 * Minimización de errores
@@ -50,7 +50,7 @@ Beneficios Esperados
    Los beneficios se maximizan con la aplicación consistente de las recomendaciones.
 
 Requisitos Previos
-================
+==================
 
 1. Conocimiento básico del sector químico
 2. Familiaridad con comercio internacional
@@ -58,22 +58,22 @@ Requisitos Previos
 4. Comprensión de normativas básicas
 
 Ejemplos Prácticos
-================
+==================
 
 .. code-block:: text
 
    # Matriz de Objetivos y Resultados
-   
+
    1. Objetivo: Cumplimiento Normativo
       □ Resultado: 100% conformidad legal
       □ Métrica: Cero infracciones
-   
+
    2. Objetivo: Eficiencia Operativa
       □ Resultado: Reducción de tiempos
       □ Métrica: -20% en gestiones
 
 Consideraciones Especiales
-=======================
+==========================
 
 * Actualizaciones regulatorias
 * Cambios en procesos
@@ -81,14 +81,14 @@ Consideraciones Especiales
 * Mejores prácticas emergentes
 
 Documentación Relacionada
-======================
+=========================
 
 * :ref:`estructura_guia_detalle`
 * :ref:`actualizaciones`
 * :ref:`uso_guia`
 
 Historial de Cambios
-==================
+====================
 
 .. list-table::
    :header-rows: 1
@@ -102,4 +102,4 @@ Historial de Cambios
      - Creación inicial del documento
    * - 2024-01-15
      - 1.1
-     - Actualización de objetivos y métricas 
+     - Actualización de objetivos y métricas

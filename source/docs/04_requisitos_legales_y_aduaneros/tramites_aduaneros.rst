@@ -1,8 +1,8 @@
 .. _tramites_aduaneros:
 
-=================
+
 Trámites Aduaneros
-=================
+==================
 
 .. meta::
    :description: Trámites aduaneros necesarios para la exportación de ácido sulfúrico entre México y Guatemala
@@ -14,10 +14,10 @@ Resumen
 Esta subsección detalla los trámites aduaneros necesarios para la exportación de ácido sulfúrico, incluyendo declaraciones, clasificación arancelaria, procedimientos específicos y requisitos actualizados para ambos países.
 
 Descripción Detallada
-===================
+=====================
 
 Declaraciones Aduaneras México
---------------------------
+------------------------------
 
 * **Pedimento de Exportación**:
   - Clave de pedimento: A1
@@ -38,7 +38,7 @@ Declaraciones Aduaneras México
   - Método de valoración utilizado
 
 Declaraciones Aduaneras Guatemala
------------------------------
+---------------------------------
 
 * **DUCA (Declaración Única Centroamericana)**:
   - Formato DUCA-F para comercio regional
@@ -53,7 +53,7 @@ Declaraciones Aduaneras Guatemala
   - Permisos y restricciones
 
 Clasificación Arancelaria
---------------------
+-------------------------
 
 * **Código Arancelario**:
   - México: 2807.00.01
@@ -74,7 +74,7 @@ Clasificación Arancelaria
   - Certificaciones necesarias
 
 Valoración Aduanera
----------------
+-------------------
 
 * **Método de Valoración**:
   - Valor de transacción
@@ -95,7 +95,7 @@ Valoración Aduanera
   - Comisiones y regalías
 
 Procedimientos Específicos
-----------------------
+--------------------------
 
 1. **Despacho en México**:
    - Pre-validación electrónica
@@ -116,7 +116,7 @@ Procedimientos Específicos
    - Coordinación binacional
 
 Requisitos Previos
-================
+==================
 
 1. **Registros y Autorizaciones**:
    - Padrón de exportadores activo
@@ -137,7 +137,7 @@ Requisitos Previos
    - Protocolos de emergencia
 
 Consideraciones Especiales
-=======================
+==========================
 
 * **Tiempos de Proceso**:
   - Pre-validación: 2-4 horas
@@ -158,7 +158,7 @@ Consideraciones Especiales
   - Seguimiento especial
 
 Documentación Relacionada
-======================
+=========================
 
 * :ref:`requisitos_legales`
 * :ref:`documentacion_requerida`
@@ -166,7 +166,7 @@ Documentación Relacionada
 * :ref:`permisos_especiales`
 
 Historial de Cambios
-==================
+====================
 
 .. list-table::
    :header-rows: 1
@@ -180,4 +180,4 @@ Historial de Cambios
      - Creación inicial del documento
    * - 2024-01-15
      - 1.1
-     - Actualización completa de procedimientos aduaneros y requisitos específicos 
+     - Actualización completa de procedimientos aduaneros y requisitos específicos

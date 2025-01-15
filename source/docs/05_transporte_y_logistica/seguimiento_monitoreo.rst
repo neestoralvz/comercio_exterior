@@ -1,8 +1,9 @@
 .. _seguimiento_monitoreo_detalle:
+.. _seguimiento_monitoreo:
 
-========================
+
 Seguimiento y Monitoreo
-========================
+=======================
 
 .. meta::
    :description: Sistemas y procedimientos para el seguimiento y monitoreo del transporte de ácido sulfúrico
@@ -14,10 +15,10 @@ Resumen
 Esta subsección describe los sistemas y procedimientos implementados para el seguimiento y monitoreo en tiempo real del transporte de |product|, incluyendo tecnologías avanzadas de rastreo, telemetría IoT, análisis predictivo, protocolos de reporte y sistemas de control integrados con redundancia múltiple.
 
 Descripción Detallada
-===================
+=====================
 
 Tecnologías de Monitoreo
----------------------
+------------------------
 
 * **Sistema GPS Satelital**
     - Rastreo en tiempo real con actualización cada 15 segundos
@@ -69,7 +70,7 @@ Tecnologías de Monitoreo
         * Análisis Big Data
 
 Protocolos de Control
-------------------
+---------------------
 
 * **Reportes Programados**
     - Checklist pre-viaje digital
@@ -123,7 +124,7 @@ Protocolos de Control
         * Documentación automática
 
 Centro de Control
---------------
+-----------------
 
 * **Infraestructura**
     - Operación 24/7/365
@@ -177,7 +178,7 @@ Centro de Control
         * Retención 10 años
 
 Requisitos Previos
-================
+==================
 
 1. Equipamiento tecnológico instalado y certificado
 2. Personal con certificación en sistemas avanzados
@@ -189,12 +190,12 @@ Requisitos Previos
 8. Redundancia verificada
 
 Procedimientos Operativos
-======================
+=========================
 
 .. code-block:: text
 
    # Protocolo de Monitoreo Continuo
-   
+
    1. Inicio de Operación:
       □ Verificación de sistemas (checklist digital)
       □ Confirmación de ruta programada
@@ -204,7 +205,7 @@ Procedimientos Operativos
       □ Prueba de comunicaciones
       □ Registro de condiciones iniciales
       □ Activación de blockchain
-   
+
    2. Durante el Transporte:
       □ Monitoreo de posición y ruta
       □ Verificación de parámetros técnicos
@@ -214,7 +215,7 @@ Procedimientos Operativos
       □ Validación de condiciones
       □ Actualización de estado
       □ Respaldo de datos
-   
+
    3. Gestión de Alertas:
       □ Clasificación automática por IA
       □ Implementación de protocolos
@@ -226,7 +227,7 @@ Procedimientos Operativos
       □ Auditoría de respuesta
 
 Consideraciones Especiales
-=======================
+==========================
 
 * **Zonas sin Cobertura**
     - Protocolos de respaldo satelital
@@ -253,7 +254,7 @@ Consideraciones Especiales
     - Incorporación de nuevas tecnologías
 
 Documentación Relacionada
-======================
+=========================
 
 * :ref:`planificacion_transporte`
 * :ref:`requisitos_seguridad`
@@ -263,7 +264,7 @@ Documentación Relacionada
 * :ref:`planes_contingencia`
 
 Historial de Cambios
-==================
+====================
 
 .. list-table::
    :header-rows: 1
@@ -277,4 +278,4 @@ Historial de Cambios
      - Creación inicial del documento
    * - 2024-01-15
      - 1.1
-     - Actualización completa con especificaciones técnicas detalladas y protocolos avanzados de monitoreo 
+     - Actualización completa con especificaciones técnicas detalladas y protocolos avanzados de monitoreo

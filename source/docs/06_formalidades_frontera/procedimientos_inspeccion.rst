@@ -1,8 +1,8 @@
 .. _procedimientos_inspeccion:
 
-=======================
+
 Procedimientos de Inspección
-=======================
+============================
 
 .. meta::
    :description: Procedimientos de inspección fronteriza para la exportación de ácido sulfúrico entre México y Guatemala
@@ -14,10 +14,10 @@ Resumen
 Esta subsección detalla los procedimientos de inspección que se realizan en la frontera para la exportación de |product|, incluyendo verificaciones físicas, documentales y de seguridad según las normativas vigentes NOM-002-SCT/2011 y RTCA 71.03.37:07. Los procedimientos integran tecnologías avanzadas de inspección y sistemas digitales de verificación.
 
 Descripción Detallada
-===================
+=====================
 
 Inspección Física
--------------
+-----------------
 
 * **Verificación del Producto**
     - Análisis de concentración
@@ -56,7 +56,7 @@ Inspección Física
         * Conexiones a tierra probadas
 
 Verificación Documental
-------------------
+-----------------------
 
 * **Revisión de Permisos**
     - Autorizaciones HAZMAT (tiempo: 1 hora)
@@ -83,7 +83,7 @@ Verificación Documental
         * Calibraciones actualizadas
 
 Coordinación con Autoridades
-------------------------
+----------------------------
 
 * **México - SAT/Aduanas**
     - Proceso de Inspección
@@ -110,7 +110,7 @@ Coordinación con Autoridades
         * Coordinador Fronterizo
 
 Tiempos de Proceso
---------------
+------------------
 
 * **Inspección Completa**
     - Tiempo Total Estimado: 8-12 horas
@@ -137,7 +137,7 @@ Tiempos de Proceso
         * Ventanilla única
 
 Documentación Relacionada
-======================
+=========================
 
 * :ref:`tramites_aduaneros`
 * :ref:`documentacion_fronteriza`
@@ -145,7 +145,7 @@ Documentación Relacionada
 * :ref:`proceso_fronterizo`
 
 Historial de Cambios
-==================
+====================
 
 .. list-table::
    :header-rows: 1
@@ -159,4 +159,4 @@ Historial de Cambios
      - Creación inicial del documento
    * - 2024-01-15
      - 1.1
-     - Actualización completa con tiempos de proceso y coordinación detallada 
+     - Actualización completa con tiempos de proceso y coordinación detallada

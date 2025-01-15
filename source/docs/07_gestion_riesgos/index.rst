@@ -1,8 +1,8 @@
 .. _gestion_riesgos:
 
-=================
+
 Gestión de Riesgos
-=================
+==================
 
 .. meta::
    :description: Gestión y mitigación de riesgos en el transporte de ácido sulfúrico entre México y Guatemala
@@ -14,7 +14,7 @@ Gestión de Riesgos
    :backlinks: none
 
 Introducción
-===========
+============
 
 Esta sección detalla los procedimientos y medidas para la gestión efectiva de riesgos en el transporte de |product| desde |origin_country| hacia |destination_country|.
 
@@ -37,12 +37,19 @@ Alcance
 * Protocolos de emergencia
 
 Contenido Principal
-=================
+===================
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Contenido:
+
+   matriz_riesgos
+   plan_gestion_riesgos
 
 .. _identificacion_riesgos:
 
 Identificación de Riesgos
-----------------------
+-------------------------
 
 * Riesgos operativos
 * Riesgos ambientales
@@ -55,7 +62,7 @@ Identificación de Riesgos
 .. _evaluacion_riesgos:
 
 Evaluación de Riesgos
-------------------
+---------------------
 
 * Metodología de evaluación
 * Criterios de impacto
@@ -68,7 +75,7 @@ Evaluación de Riesgos
 .. _medidas_preventivas:
 
 Medidas Preventivas
-----------------
+-------------------
 
 * Controles operativos
 * Capacitación
@@ -76,7 +83,7 @@ Medidas Preventivas
 * Auditorías de seguridad
 
 Aspectos Clave
-============
+==============
 
 * Gestión proactiva
 * Monitoreo continuo
@@ -87,7 +94,7 @@ Aspectos Clave
    La gestión de riesgos debe ser un proceso continuo y dinámico.
 
 Mejores Prácticas
-===============
+=================
 
 1. Evaluación periódica de riesgos
 2. Actualización de procedimientos
@@ -98,13 +105,13 @@ Mejores Prácticas
    Las mejores prácticas deben adaptarse a las condiciones específicas de cada operación.
 
 Documentos Relacionados
-=====================
+=======================
 
-* :download:`Manual de Gestión de Riesgos <templates/manual_riesgos.pdf>`
-* :download:`Protocolos de Emergencia <templates/protocolos_emergencia.pdf>`
+* :download:`Manual de Gestión de Riesgos <../templates/manual_riesgos.pdf>`
+* :download:`Protocolos de Emergencia <../templates/protocolos_emergencia.pdf>`
 
 Referencias Normativas
-====================
+======================
 
 * Normas de seguridad
 * Regulaciones de transporte
@@ -112,17 +119,17 @@ Referencias Normativas
 * Protocolos de emergencia
 
 Secciones Relacionadas
-=====================
+======================
 
-* :ref:`requisitos_seguridad`
-* :ref:`procedimientos_operativos`
-* :ref:`protocolos_emergencia`
+* :ref:`transporte_y_logistica`
+* :ref:`seguridad_transporte`
+* :ref:`planes_contingencia`
 
 .. seealso::
    Consulte las actualizaciones de normativas de seguridad en ambos países.
 
 Historial de Cambios
-==================
+====================
 
 .. list-table::
    :header-rows: 1
@@ -145,4 +152,4 @@ Historial de Cambios
    identificacion_riesgos
    evaluacion_riesgos
    medidas_preventivas
-   planes_contingencia 
+   planes_contingencia

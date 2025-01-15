@@ -1,8 +1,8 @@
 .. _procedimientos_especificos:
 
-=====================
+
 Procedimientos Específicos
-=====================
+==========================
 
 .. meta::
    :description: Procedimientos específicos para la exportación de ácido sulfúrico entre México y Guatemala
@@ -14,10 +14,10 @@ Resumen
 Esta subsección detalla los procedimientos específicos que deben seguirse para la exportación de ácido sulfúrico, incluyendo trámites, autorizaciones, verificaciones y controles necesarios en cada etapa del proceso.
 
 Procedimientos Pre-Exportación
-==========================
+==============================
 
 1. Registro y Habilitación
-----------------------
+--------------------------
 
 * **Registro como Exportador**:
   - Inscripción en el Padrón de Exportadores Sectorial
@@ -32,7 +32,7 @@ Procedimientos Pre-Exportación
   - Verificación de protocolos
 
 2. Obtención de Permisos
---------------------
+------------------------
 
 * **Permisos Ambientales**:
   - Autorización SEMARNAT (SEMARNAT-07-029-A)
@@ -47,7 +47,7 @@ Procedimientos Pre-Exportación
   - Rutas autorizadas
 
 3. Certificaciones de Producto
--------------------------
+------------------------------
 
 * **Control de Calidad**:
   - Análisis de laboratorio certificado
@@ -56,10 +56,10 @@ Procedimientos Pre-Exportación
   - Control de lotes
 
 Procedimientos de Exportación
-=========================
+=============================
 
 1. Preparación Documental
----------------------
+-------------------------
 
 * **Documentos Comerciales**:
   - Factura comercial internacional
@@ -74,7 +74,7 @@ Procedimientos de Exportación
   - Manifiestos de carga
 
 2. Verificaciones y Controles
--------------------------
+-----------------------------
 
 * **Inspección de Mercancía**:
   - Verificación física del producto
@@ -89,7 +89,7 @@ Procedimientos de Exportación
   - Documentación de resultados
 
 3. Proceso de Despacho
-------------------
+----------------------
 
 * **Pre-validación**:
   - Revisión documental completa
@@ -104,10 +104,10 @@ Procedimientos de Exportación
   - Documentación de salida
 
 Procedimientos Post-Exportación
-===========================
+===============================
 
 1. Seguimiento y Control
---------------------
+------------------------
 
 * **Monitoreo de Embarque**:
   - Seguimiento GPS en tiempo real
@@ -122,7 +122,7 @@ Procedimientos Post-Exportación
   - Respaldo digital
 
 2. Cumplimiento Regulatorio
------------------------
+---------------------------
 
 * **Reportes Obligatorios**:
   - Informes a autoridades ambientales
@@ -137,7 +137,7 @@ Procedimientos Post-Exportación
   - Inspecciones de control
 
 Consideraciones Especiales
-=======================
+==========================
 
 * **Tiempos de Proceso**:
   - Pre-validación: 24-48 horas
@@ -158,7 +158,7 @@ Consideraciones Especiales
   - Planes de acción
 
 Documentación Relacionada
-======================
+=========================
 
 * :ref:`documentacion_requerida_legal`
 * :ref:`tramites_aduaneros`
@@ -166,7 +166,7 @@ Documentación Relacionada
 * :ref:`permisos_especiales`
 
 Historial de Cambios
-==================
+====================
 
 .. list-table::
    :header-rows: 1
@@ -180,4 +180,4 @@ Historial de Cambios
      - Creación inicial del documento
    * - 2024-01-15
      - 1.1
-     - Actualización completa de procedimientos y requisitos específicos 
+     - Actualización completa de procedimientos y requisitos específicos

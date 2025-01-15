@@ -1,8 +1,8 @@
 .. _terminos_pago:
 
-===============
+
 Términos de Pago
-===============
+================
 
 .. meta::
    :description: Condiciones y métodos de pago establecidos para la exportación de ácido sulfúrico
@@ -14,10 +14,10 @@ Resumen
 Esta subsección detalla las condiciones y métodos de pago aceptados para las operaciones de exportación de ácido sulfúrico, incluyendo plazos, garantías y procedimientos.
 
 Descripción Detallada
-===================
+=====================
 
 Métodos de Pago Aceptados
----------------------
+-------------------------
 
 * **Carta de Crédito (L/C)**:
   - Irrevocable y confirmada
@@ -40,7 +40,7 @@ Métodos de Pago Aceptados
   - Plazo máximo: 60 días fecha B/L
 
 Plazos y Condiciones
-----------------
+--------------------
 
 * **Términos de Pago Estándar**:
   - Nuevos clientes: Pago anticipado o L/C
@@ -59,7 +59,7 @@ Plazos y Condiciones
   - Ejecución de garantías: +30 días mora
 
 Garantías y Seguros
----------------
+-------------------
 
 * **Garantías Bancarias**:
   - Standby Letter of Credit
@@ -78,7 +78,7 @@ Garantías y Seguros
   - Contratos comerciales vigentes
 
 Proceso de Evaluación Crediticia
----------------------------
+--------------------------------
 
 1. **Documentación Requerida**:
    * Estados financieros (3 años)
@@ -99,7 +99,7 @@ Proceso de Evaluación Crediticia
    * Términos comerciales
 
 Requisitos Previos
-================
+==================
 
 1. **Documentación Legal**:
    * Constitución de la empresa
@@ -120,18 +120,18 @@ Requisitos Previos
    * Capacidad de almacenamiento
 
 Ejemplos Prácticos
-================
+==================
 
 .. code-block:: text
 
    # Proceso de Carta de Crédito
-   
+
    1. Apertura L/C:
       □ Solicitud al banco emisor
       □ Términos y condiciones según contrato
       □ Documentos requeridos completos
       □ Confirmación del banco avisador
-   
+
    2. Ejecución L/C:
       □ Embarque del producto
       □ Preparación de documentos
@@ -139,7 +139,7 @@ Ejemplos Prácticos
       □ Pago contra documentos conformes
 
 Consideraciones Especiales
-=======================
+==========================
 
 * Revisión trimestral de condiciones crediticias
 * Ajustes por cambios en calificación de riesgo
@@ -147,14 +147,14 @@ Consideraciones Especiales
 * Casos de fuerza mayor
 
 Documentación Relacionada
-======================
+=========================
 
 * :ref:`estructura_precios`
 * :ref:`procedimientos_facturacion`
 * :ref:`documentacion_financiera`
 
 Historial de Cambios
-==================
+====================
 
 .. list-table::
    :header-rows: 1
@@ -168,4 +168,4 @@ Historial de Cambios
      - Creación inicial del documento
    * - 2024-01-15
      - 1.1
-     - Actualización detallada de términos y condiciones de pago 
+     - Actualización detallada de términos y condiciones de pago

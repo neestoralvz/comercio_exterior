@@ -1,8 +1,8 @@
 .. _regulaciones_especificas:
 
-=======================
+
 Regulaciones Específicas
-=======================
+========================
 
 .. meta::
    :description: Regulaciones específicas para la exportación de ácido sulfúrico entre México y Guatemala
@@ -14,10 +14,10 @@ Resumen
 Esta subsección detalla las regulaciones específicas aplicables a la exportación de ácido sulfúrico, incluyendo controles especiales, permisos y autorizaciones requeridas.
 
 Descripción Detallada
-===================
+=====================
 
 Permisos y Autorizaciones
-----------------------
+-------------------------
 
 * **SEMARNAT (México)**:
   - Autorización para exportación de materiales peligrosos
@@ -31,7 +31,7 @@ Permisos y Autorizaciones
   - Autorización de transporte
 
 Control de Sustancias Químicas
---------------------------
+------------------------------
 
 * **Registro Nacional**:
   - Número de registro INSQ (México)
@@ -50,7 +50,7 @@ Control de Sustancias Químicas
   - Usos autorizados
 
 Requisitos Ambientales
-------------------
+----------------------
 
 * **Evaluación de Impacto**:
   - Manifestación de Impacto Ambiental
@@ -69,7 +69,7 @@ Requisitos Ambientales
   - Suelos y subsuelo
 
 Medidas de Seguridad Industrial
----------------------------
+-------------------------------
 
 * **Protocolos Operativos**:
   - Procedimientos de carga/descarga
@@ -88,7 +88,7 @@ Medidas de Seguridad Industrial
   - Actualización periódica
 
 Certificaciones Requeridas
-----------------------
+--------------------------
 
 * **Sistemas de Gestión**:
   - ISO 9001:2015 (Calidad)
@@ -102,7 +102,7 @@ Certificaciones Requeridas
   - OEA (Operador Económico Autorizado)
 
 Auditorías y Verificaciones
------------------------
+---------------------------
 
 1. **Auditorías Internas**:
    * Programa anual de auditorías
@@ -123,7 +123,7 @@ Auditorías y Verificaciones
    * Mantenimiento de certificaciones
 
 Requisitos Previos
-================
+==================
 
 1. **Infraestructura**:
    * Instalaciones certificadas
@@ -144,18 +144,18 @@ Requisitos Previos
    * Planes de emergencia
 
 Ejemplos Prácticos
-================
+==================
 
 .. code-block:: text
 
    # Matriz de Permisos y Certificaciones
-   
+
    1. Autorizaciones Gubernamentales:
       □ SEMARNAT: LAU-2024/001
       □ COFEPRIS: CAS-7664-93-9
       □ MARN: IMP-2024-0123
       □ Aduana: OEA-MX-2024
-   
+
    2. Certificaciones Vigentes:
       □ ISO 9001: QMS-2024-456
       □ ISO 14001: EMS-2024-789
@@ -163,7 +163,7 @@ Ejemplos Prácticos
       □ RC-14001: RC-2024-345
 
 Consideraciones Especiales
-=======================
+==========================
 
 * Actualización continua de requisitos
 * Renovación oportuna de permisos
@@ -171,14 +171,14 @@ Consideraciones Especiales
 * Gestión de no conformidades
 
 Documentación Relacionada
-======================
+=========================
 
 * :ref:`marco_legal`
 * :ref:`normas_tecnicas`
 * :ref:`estandares_internacionales`
 
 Historial de Cambios
-==================
+====================
 
 .. list-table::
    :header-rows: 1
@@ -192,4 +192,4 @@ Historial de Cambios
      - Creación inicial del documento
    * - 2024-01-15
      - 1.1
-     - Actualización detallada de permisos y certificaciones requeridas 
+     - Actualización detallada de permisos y certificaciones requeridas

@@ -1,8 +1,8 @@
 .. _documentacion_requerida_legal:
 
-=====================
+
 Documentación Requerida
-=====================
+=======================
 
 .. meta::
    :description: Documentación requerida para la exportación de ácido sulfúrico entre México y Guatemala
@@ -14,10 +14,10 @@ Resumen
 Esta subsección detalla la documentación requerida para la exportación de ácido sulfúrico, incluyendo documentos comerciales, certificados, permisos necesarios y requisitos específicos para ambos países.
 
 Descripción Detallada
-===================
+=====================
 
 Documentos Comerciales Básicos
---------------------------
+------------------------------
 
 * **Factura Comercial Internacional**:
   - Información completa del exportador e importador
@@ -38,7 +38,7 @@ Documentos Comerciales Básicos
   - Criterios de origen aplicables
 
 Documentos Aduaneros
------------------
+--------------------
 
 * **DUCA (Declaración Única Centroamericana)**:
   - Formulario aduanero único centroamericano
@@ -56,7 +56,7 @@ Documentos Aduaneros
   - Certificados sanitarios aplicables
 
 Certificados y Autorizaciones Especiales
------------------------------------
+----------------------------------------
 
 * **Certificado de Análisis**:
   - Composición química detallada
@@ -76,7 +76,7 @@ Certificados y Autorizaciones Especiales
   - Póliza de seguro internacional
 
 Documentos de Transporte
---------------------
+------------------------
 
 * **Carta Porte Internacional**:
   - Información completa del transportista
@@ -91,7 +91,7 @@ Documentos de Transporte
   - Declaración del expedidor
 
 Requisitos Previos
-================
+==================
 
 1. **Registros y Permisos**:
    - Padrón de exportadores activo
@@ -112,7 +112,7 @@ Requisitos Previos
    - Protocolos de seguridad validados
 
 Consideraciones Especiales
-=======================
+==========================
 
 * **Validez Documental**:
   - Certificados: máximo 90 días
@@ -133,7 +133,7 @@ Consideraciones Especiales
   - Procedimiento de actualización
 
 Documentación Relacionada
-======================
+=========================
 
 * :ref:`requisitos_legales`
 * :ref:`tramites_aduaneros`
@@ -141,7 +141,7 @@ Documentación Relacionada
 * :ref:`permisos_especiales`
 
 Historial de Cambios
-==================
+====================
 
 .. list-table::
    :header-rows: 1
@@ -155,4 +155,4 @@ Historial de Cambios
      - Creación inicial del documento
    * - 2024-01-15
      - 1.1
-     - Actualización completa de requisitos documentales y adición de secciones específicas 
+     - Actualización completa de requisitos documentales y adición de secciones específicas

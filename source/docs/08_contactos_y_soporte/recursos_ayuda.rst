@@ -1,8 +1,8 @@
 .. _recursos_ayuda:
 
-===============
+
 Recursos y Ayuda
-===============
+================
 
 .. meta::
    :description: Recursos y materiales de apoyo para la exportación de ácido sulfúrico entre México y Guatemala
@@ -14,13 +14,13 @@ Resumen
 Esta sección proporciona información detallada sobre los recursos y materiales de apoyo disponibles para la gestión de la exportación de ácido sulfúrico entre México y Guatemala, incluyendo guías técnicas, material de capacitación, herramientas digitales y recursos de soporte.
 
 Descripción Detallada
-===================
+=====================
 
 Recursos Digitales
----------------
+------------------
 
 1. Portal de Conocimiento
-~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. list-table::
    :header-rows: 1
@@ -38,7 +38,7 @@ Recursos Digitales
      - Calculadoras, convertidores y simuladores
 
 2. Aplicaciones Móviles
-~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~
 
 - **HAZMAT Guide Pro**
     * Versión: 3.1
@@ -50,10 +50,10 @@ Recursos Digitales
         - Procedimientos offline
 
 Recursos Técnicos
---------------
+-----------------
 
 1. Documentación Especializada
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. list-table::
    :header-rows: 1
@@ -71,7 +71,7 @@ Recursos Técnicos
      - Compilación de regulaciones aplicables
 
 2. Material de Capacitación
-~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - **Programa HAZMAT**
     * Módulos básicos y avanzados
@@ -80,10 +80,10 @@ Recursos Técnicos
     * Simulacros virtuales
 
 Herramientas de Apoyo
-------------------
+---------------------
 
 1. Recursos Operativos
-~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~
 
 .. list-table::
    :header-rows: 1
@@ -101,7 +101,7 @@ Herramientas de Apoyo
      - Documentación dinámica con validación
 
 2. Recursos de Planificación
-~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - **Sistema de Gestión**
     * Planificación de rutas
@@ -110,10 +110,10 @@ Herramientas de Apoyo
     * Reportes automáticos
 
 Soporte y Asistencia
------------------
+--------------------
 
 1. Canales de Ayuda
-~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~
 
 .. list-table::
    :header-rows: 1
@@ -131,7 +131,7 @@ Soporte y Asistencia
      - Comunidad de usuarios
 
 2. Recursos Adicionales
-~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~
 
 - **Centro de Recursos**
     * Webinars mensuales
@@ -140,10 +140,10 @@ Soporte y Asistencia
     * Casos de estudio
 
 Requisitos de Acceso
-=================
+====================
 
 1. Autenticación
-~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~
 
 .. list-table::
    :header-rows: 1
@@ -161,7 +161,7 @@ Requisitos de Acceso
      - Autorización especial
 
 2. Infraestructura
-~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~
 
 - **Requerimientos Técnicos**
     * Conexión internet: >10 Mbps
@@ -170,10 +170,10 @@ Requisitos de Acceso
     * Almacenamiento: 2GB mínimo
 
 Mantenimiento y Actualización
-=========================
+=============================
 
 1. Ciclo de Actualizaciones
-~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. list-table::
    :header-rows: 1
@@ -191,7 +191,7 @@ Mantenimiento y Actualización
      - Continua
 
 2. Control de Versiones
-~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~
 
 - **Sistema de Gestión Documental**
     * Versionado automático
@@ -207,4 +207,4 @@ Mantenimiento y Actualización
 
 .. note::
    Última actualización general: 2024-01-15
-   Próxima revisión programada: 2024-04-15 
+   Próxima revisión programada: 2024-04-15

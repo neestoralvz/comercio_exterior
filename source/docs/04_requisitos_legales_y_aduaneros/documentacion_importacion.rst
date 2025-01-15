@@ -2,10 +2,10 @@ Documentación para Importación de Ácido Sulfúrico en Guatemala
 ==============================================================
 
 1. Documentos Aduaneros Principales
----------------------------------
+-----------------------------------
 
 1.1 Declaración Única Aduanera (DUA)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - **Propósito**: Declaración oficial de importación
 - **Formato**: Electrónico vía sistema SAQB'E
@@ -19,13 +19,13 @@ Documentación para Importación de Ácido Sulfúrico en Guatemala
   - Tipo de cambio aplicable
   - Documentos de soporte digitalizados
 
-- **Obtención**: 
+- **Obtención**:
   - Transmisión electrónica vía agente aduanero
   - Pago previo de impuestos
   - Plazo de procesamiento: 24-48 horas
 
 1.2 Factura Comercial Legalizada
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - **Propósito**: Comprobante de compra internacional
 - **Formato**: Original con apostilla o legalización consular
@@ -37,16 +37,16 @@ Documentación para Importación de Ácido Sulfúrico en Guatemala
   - Términos de entrega (Incoterm)
   - País de origen
 
-- **Obtención**: 
+- **Obtención**:
   - Legalización en consulado de Guatemala en México
   - Tiempo: 2-3 días hábiles
   - Costo: Según arancel consular
 
 2. Permisos y Licencias Especiales
---------------------------------
+----------------------------------
 
 2.1 Licencia de Importación de Sustancias Químicas
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - **Propósito**: Control de importación de sustancias peligrosas
 - **Formato**: DGAM-04
@@ -65,7 +65,7 @@ Documentación para Importación de Ácido Sulfúrico en Guatemala
   - Costo: Q.2,500
 
 2.2 Licencia Ambiental MARN
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - **Propósito**: Autorización ambiental para manejo
 - **Formato**: MARN-IA-001
@@ -83,7 +83,7 @@ Documentación para Importación de Ácido Sulfúrico en Guatemala
   - Costo: Q.25,000 - Q.35,000
 
 2.3 Licencia Sanitaria MSPAS
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - **Propósito**: Control sanitario de sustancias químicas
 - **Formato**: DRCA-004
@@ -101,10 +101,10 @@ Documentación para Importación de Ácido Sulfúrico en Guatemala
   - Costo: Q.1,500
 
 3. Documentación Técnica Requerida
---------------------------------
+----------------------------------
 
 3.1 Certificado de Análisis
-~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - **Propósito**: Garantía de especificaciones técnicas
 - **Formato**: Original del fabricante
@@ -120,7 +120,7 @@ Documentación para Importación de Ácido Sulfúrico en Guatemala
 - **Obtención**: Emitido por laboratorio del fabricante
 
 3.2 Hoja de Seguridad (MSDS)
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - **Propósito**: Información de seguridad y manejo
 - **Formato**: Sistema Globalmente Armonizado (GHS)
@@ -135,10 +135,10 @@ Documentación para Importación de Ácido Sulfúrico en Guatemala
 - **Obtención**: Proporcionada por el fabricante
 
 4. Documentos de Transporte
--------------------------
+---------------------------
 
 4.1 Carta Porte Internacional
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - **Propósito**: Contrato de transporte terrestre
 - **Formato**: Según convenio bilateral México-Guatemala
@@ -153,7 +153,7 @@ Documentación para Importación de Ácido Sulfúrico en Guatemala
 - **Obtención**: Emitida por transportista autorizado
 
 4.2 Manifiesto de Carga
-~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~
 
 - **Propósito**: Control de carga en fronteras
 - **Formato**: Formato estándar regional
@@ -168,10 +168,10 @@ Documentación para Importación de Ácido Sulfúrico en Guatemala
 - **Obtención**: Generado por el transportista
 
 5. Requisitos Adicionales
------------------------
+-------------------------
 
 5.1 Seguro de Carga
-~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~
 
 - **Propósito**: Cobertura de riesgos en tránsito
 - **Formato**: Póliza de seguro
@@ -200,6 +200,6 @@ Documentación para Importación de Ácido Sulfúrico en Guatemala
 - Conservar documentación por 4 años
 - Contratar seguro de responsabilidad civil
 
---------------
+
 
 *Última actualización: 2025-01-15*
